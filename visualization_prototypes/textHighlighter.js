@@ -2,7 +2,10 @@ class TextHighlighter {
     constructor(inputContainer, outputContainer) {
         this._inputContainer = inputContainer;
         this._outputContainer = outputContainer;
-        this._colorScheme = ['#e8f0ff','#cfdeff','#b7ccff','#9abbff','#7caaff']      
+        this._colorScheme = ['#e8f0ff','#cfdeff','#b7ccff','#9abbff','#7caaff'];
+
+        this._start = -1;
+        this._end = -1;
     }
 
     render(data) {
@@ -46,22 +49,61 @@ class TextHighlighter {
             const outputToken = outputTokens[i];
 
             const span = document.createElement('span');
+            span.setAttribute('id', `output-${i}`);
             span.classList.add('token');
             span.innerHTML = outputToken + ' ';
 
             span.addEventListener('mouseenter', () => {
-                this.focusOutputToken(i);
-                this._outputMouseover(i);
+                if (this._start === -1 && this._end === -1) {
+                    this.focusOutputToken(i);
+                } else if (this._start !== -1) {
+                    this._end = i;
+                    this.focusOutputSequence(this._start, this._end);
+                }
+
+                if (this._outputMouseover) {
+                    this._outputMouseover(i);
+                }
             });
 
             span.addEventListener('mouseout', () => {
-                this.updateInputText(this._data);
+                if (this._end === -1) {
+                    document.querySelector(`#output-${i}`).style.backgroundColor = null;
+                    this.updateInputText(this._data);
+                }
             })
+
+            span.addEventListener('mousedown', () => {
+                this._start = i;
+            });
+
+            span.addEventListener('mouseup', () => {
+                this._start = -1;
+            })
+
             this._outputContainer.appendChild(span);
         }
+
+        window.addEventListener('mousedown', () => {
+            if (this._start === -1 && this._end !== -1) {
+                this._start = -1;
+                this._end = -1;
+                this.updateInputText(this._data);
+            }
+        });
+    }
+
+    focusOutputSequence(start, end) {
+        const dataToShow = this._data.filter((d) => {
+            return d.outputIndex >= start && d.outputIndex <= end;
+        });
+        this.updateInputText(dataToShow);
     }
 
     focusOutputToken(outputIndex) {
+        const span = document.querySelector(`#output-${outputIndex}`);
+        span.style.backgroundColor = '#ff8c8c';
+
         const dataToShow = this._data.filter((d) => { return d.outputIndex === outputIndex; });
         this.updateInputText(dataToShow);
     }
