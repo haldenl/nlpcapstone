@@ -46,8 +46,8 @@ function render(data) {
         .attr('id', 'chart')
         .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
-    const vis = new CondensedHeatmap(chart);
-    vis.render(data);
+    // const vis = new CondensedHeatmap(chart);
+    // vis.render(data);
 
     // produce the text
     const inputContainer = document.querySelector('#input-text');
@@ -58,7 +58,7 @@ function render(data) {
     outputContainer.innerHTML = '<b>Output Text: </b>';
 
     const textHighlighter = new TextHighlighter(inputContainer, outputContainer);
-    textHighlighter.setOutputMouseover((i) => { vis.highlightRow(i); });
+    // textHighlighter.setOutputMouseover((i) => { vis.highlightRow(i); });
 
     textHighlighter.render(data);
 }

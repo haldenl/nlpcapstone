@@ -27,8 +27,8 @@ class TextHighlighter {
             .entries(data)
             .map((d) => { return { inputIndex: +d.key, weight: d.value }; });
             
-        const weightDomain = [0, d3.max(aggregateData, (d) => { return d.weight; })];
-        color = d3.scaleQuantize().range(this._colorScheme).domain(weightDomain);
+        const weightDomain = [0, d3.max(aggregateData, (d) => { return d.weight * 2; })];
+        color = d3.scaleSequential(d3.interpolateBlues).domain(weightDomain);
 
         for (let i = 0; i < inputTokens.length; i++) {
             const inputToken = inputTokens[i];
@@ -53,6 +53,10 @@ class TextHighlighter {
                 this.focusOutputToken(i);
                 this._outputMouseover(i);
             });
+
+            span.addEventListener('mouseout', () => {
+                this.updateInputText(this._data);
+            })
             this._outputContainer.appendChild(span);
         }
     }
@@ -63,20 +67,26 @@ class TextHighlighter {
     }
 
     updateInputText(data) {
+        const aggregateData = d3.nest()
+            .key((d) => { return d.inputIndex; })
+            .rollup((g) => { return d3.max(g, (d) => { return d.weight; }) }) 
+            .entries(data)
+            .map((d) => { return { inputIndex: +d.key, weight: d.value }; });
+
         const inputTokens = [];
     
-        const inputDomain = data.map((d) => { return d.inputIndex; });
+        const inputDomain = aggregateData.map((d) => { return d.inputIndex; });
     
         for(let i = 0; i <= inputDomain[inputDomain.length - 1]; i++) {
             inputTokens.push(data[i].inputToken);
         }
 
-        const weightDomain = [0, d3.max(data, (d) => { return d.weight; })];
-        color = d3.scaleQuantize().range(this._colorScheme).domain(weightDomain);
+        const weightDomain = [0, d3.max(data, (d) => { return d.weight * 2; })];
+        color = d3.scaleSequential(d3.interpolateBlues).domain(weightDomain);
 
         for (let i = 0; i < inputTokens.length; i++) {
             const span = document.querySelector(`#input-${i}`);
-            span.style.backgroundColor = color(data[i].weight);
+            span.style.backgroundColor = color(aggregateData[i].weight);
 
         }
     }
