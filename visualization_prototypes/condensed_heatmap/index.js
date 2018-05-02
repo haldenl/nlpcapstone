@@ -15,7 +15,7 @@ let color;
 let exampleNum = 0;
 
 function main() {
-    d3.json('data_0.json').then((data) => {
+    d3.json('../../data/data_0.json').then((data) => {
         render(data);
         setupButtons();
         hideLoading();
@@ -32,7 +32,7 @@ function setupButtons() {
 
 function updateData(n) {
     showLoading();
-    d3.json(`data_${exampleNum + n}.json`).then((data) => {
+    d3.json(`../../data/data_${exampleNum + n}.json`).then((data) => {
         exampleNum += n;
         document.querySelector('#example-num').textContent = exampleNum;        
         render(data);

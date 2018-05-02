@@ -6,6 +6,8 @@ class TextHighlighter {
     }
 
     render(data) {
+        this._data = data;
+
         const inputTokens = [];
         const outputTokens = [];
     
@@ -32,16 +34,54 @@ class TextHighlighter {
             const inputToken = inputTokens[i];
 
             const span = document.createElement('span');
+            span.setAttribute('id', `input-${i}`);
             span.classList.add('token');
             span.style.backgroundColor = color(aggregateData[i].weight);
             span.innerHTML = inputToken + ' ';
 
             this._inputContainer.appendChild(span);
         }
-        // const inputString = '<b>Input Text:</b> ' + inputTokens.join(' ');
-        const outputString = '<b>Output Text:</b> ' + outputTokens.join(' ');
+        
+        for (let i = 0; i < outputTokens.length; i++) {
+            const outputToken = outputTokens[i];
 
-        // self._inputContainer.innerHTML = inputString;
-        this._outputContainer.innerHTML = outputString;
+            const span = document.createElement('span');
+            span.classList.add('token');
+            span.innerHTML = outputToken + ' ';
+
+            span.addEventListener('mouseenter', () => {
+                this.focusOutputToken(i);
+                this._outputMouseover(i);
+            });
+            this._outputContainer.appendChild(span);
+        }
+    }
+
+    focusOutputToken(outputIndex) {
+        const dataToShow = this._data.filter((d) => { return d.outputIndex === outputIndex; });
+        this.updateInputText(dataToShow);
+    }
+
+    updateInputText(data) {
+        const inputTokens = [];
+    
+        const inputDomain = data.map((d) => { return d.inputIndex; });
+    
+        for(let i = 0; i <= inputDomain[inputDomain.length - 1]; i++) {
+            inputTokens.push(data[i].inputToken);
+        }
+
+        const weightDomain = [0, d3.max(data, (d) => { return d.weight; })];
+        color = d3.scaleQuantize().range(this._colorScheme).domain(weightDomain);
+
+        for (let i = 0; i < inputTokens.length; i++) {
+            const span = document.querySelector(`#input-${i}`);
+            span.style.backgroundColor = color(data[i].weight);
+
+        }
+    }
+
+    setOutputMouseover(callback) {
+        this._outputMouseover = callback;
     }
 }
