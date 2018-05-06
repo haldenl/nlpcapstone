@@ -1,0 +1,5 @@
+.Summary {
+  cursor: default;
+  user-select: none; }
+  .Summary .token.selected {
+    background-color: #ff8c8c; }
