@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  position: relative;
+  margin: 16px 32px 16px 32px; }
+  .App .left {
+    width: 0px;
+    flex-grow: 4; }
+  .App .middle {
+    width: 0px;
+    flex-grow: 2; }
+  .App .right {
+    width: 0px;
+    flex-grow: 2; }
