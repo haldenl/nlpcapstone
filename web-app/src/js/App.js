@@ -18,6 +18,16 @@ class App extends Component {
 
   componentDidMount() {
     d3.json('data/data_0.json').then((data) => {
+      data = data.map((d) => {
+        return {
+          inputIndex: +d.inputIndex,
+          inputToken: d.inputToken,
+          outputIndex: +d.outputIndex,
+          outputToken: d.outputToken,
+          weight: +d.weight
+        };
+      });
+      
       this._data = data;
       this.setState({data: data});
     });  
@@ -46,12 +56,10 @@ class App extends Component {
     }
   }
 
-  filterData(datum, accessor) {
+  filterData(filter) {
     const newData = this._data.filter((d) => {
-      return accessor(d) === accessor(datum);
+      return filter(d);
     });
-
-    console.log(newData);
 
     this.setState({ data: newData });
   }
