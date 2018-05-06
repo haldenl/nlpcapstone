@@ -1,0 +1,10 @@
+{
+    "name": "Attention Highlighter",
+    "version": "0.1",
+    "description": "Highlights attention for summarization",
+    "background": {
+        "scripts": ["src/background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
