@@ -3,6 +3,8 @@ import * as d3 from 'd3';
 
 import '../styles/SourceText.css';
 
+import StringUtil from './StringUtil';
+
 const WEIGHT_SCALE = 1.5;
 
 class SourceText extends Component {
@@ -19,19 +21,32 @@ class SourceText extends Component {
   }
 
   render() {
-    const text = this.state.data.map((d) => {
+    const text = [];
+    
+    for (let i = 0; i < this.state.data.length; i++) {
+      const d = this.state.data[i];
+
+      // retrieve the string to display
+      let prevToken;
+      let nextToken;
+      if (i >= 1) { prevToken = this.state.data[i - 1].inputToken; }
+      if (i < this.state.data.length - 1) { nextToken = this.state.data[i + 1].inputToken; }
+      const string = StringUtil.getCleanString(prevToken, d.inputToken, nextToken);
+
       const backgroundColor = this.state.color(d.weight);
-      return (
-        <span key={d.inputIndex} style={{backgroundColor: backgroundColor}}>
-          {`${d.inputToken} `}
+      text.push(
+        <span className="token" key={d.inputIndex} style={{backgroundColor: backgroundColor}}>
+          {string}
         </span>
       );
-    });
+    };
 
     return (
-      <p className="SourceText">
-        {text}
-      </p>
+      <div className="SourceText">
+        <p className="text">
+          {text}
+        </p>
+      </div>
     )
   }
 

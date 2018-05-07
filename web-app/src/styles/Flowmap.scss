@@ -1,0 +1,11 @@
+.Flowmap {
+  flex-grow: 1;
+  margin: 0;
+  padding: 0;
+
+  .line {
+    fill: none;
+    stroke-width: 1px;
+    stroke: black;
+  }
+}

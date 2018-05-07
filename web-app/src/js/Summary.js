@@ -4,6 +4,8 @@ import * as classNames from 'classnames';
 
 import '../styles/Summary.css';
 
+import StringUtil from './StringUtil';
+
 class Summary extends Component {
   constructor(props) {
     super(props);
@@ -14,23 +16,34 @@ class Summary extends Component {
     };
 
     this.tracking = {
-      start: -1,
-      end: -1,
-      brushing: false,
-      hold: false
+      start: -1,  // the start index of the selection
+      end: -1,  // the end index of the selection
+      brushing: false,  // true if user is brushing through text
+      hold: false  // true to hold the current selection
     }
 
     this.update = this.update.bind(this);
   }
 
   render() {
-    const text = this.state.data.map((d) => {
+    const text = [];
+    
+    for (let i = 0; i < this.state.data.length; i++) {
+      const d = this.state.data[i];
+
+      // retrieve the string to display
+      let prevToken;
+      let nextToken;
+      if (i >= 1) { prevToken = this.state.data[i - 1].outputToken; }
+      if (i < this.state.data.length - 1) { nextToken = this.state.data[i + 1].outputToken; }
+      const string = StringUtil.getCleanString(prevToken, d.outputToken, nextToken);
+
       const className = classNames({
         token: true,
         selected: d.selected
       });
 
-      return (
+      text.push(
         <span className={className} key={d.outputIndex}
         
         onMouseEnter={() => {
@@ -59,10 +72,10 @@ class Summary extends Component {
             this.tracking.hold = true;
           }
         }}>
-          {`${d.outputToken} `}
+          {string}
         </span>
       );
-    });
+    };
 
     return (
       <p className="Summary" onMouseLeave={() => {

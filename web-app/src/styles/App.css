@@ -1,13 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700");
 .App {
   display: flex;
   position: relative;
-  margin: 16px 32px 16px 32px; }
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  height: 100vh; }
   .App .left {
+    position: relative;
+    height: 100%;
     width: 0px;
-    flex-grow: 4; }
+    margin: 0;
+    padding: 0;
+    flex-grow: 1; }
   .App .middle {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 0;
+    padding: 0;
     width: 0px;
-    flex-grow: 2; }
+    flex-grow: 1; }
   .App .right {
     width: 0px;
-    flex-grow: 2; }
+    flex-grow: 1; }

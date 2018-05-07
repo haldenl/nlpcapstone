@@ -5,10 +5,13 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "d3": "^5.1.0",
+    "minimap-react": "^1.1.2",
     "node-sass-chokidar": "^1.2.2",
     "npm-run-all": "^4.1.2",
+    "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-minimap": "^0.7.4",
     "react-scripts": "1.1.4"
   },
   "scripts": {

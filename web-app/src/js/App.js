@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import * as d3 from 'd3';
+import Minimap from 'react-minimap';
+import '../styles/Minimap.css';
 import '../styles/App.css';
 
 import SourceText from './SourceText';
 import Summary from './Summary';
+import MinimapChild from './MinimapChild';
+import Flowmap from './Flowmap';
 
 class App extends Component {
   constructor(props) {
@@ -17,7 +21,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    d3.json('data/data_0.json').then((data) => {
+    d3.json('data/data_5.json').then((data) => {
       data = data.map((d) => {
         return {
           inputIndex: +d.inputIndex,
@@ -44,9 +48,13 @@ class App extends Component {
       return (
         <div className="App">
           <div className="left">
-            <SourceText data={this.state.data}/>
+            <Minimap selector=".token" childComponent={MinimapChild} width={100} keepAspectRatio={true}>
+              <SourceText id="SourceText" data={this.state.data}/>
+            </Minimap>
           </div>
-          <div className="middle"></div>
+          <div className="middle">
+            <Flowmap data={this.state.data}/>
+          </div>
           <div className="right">
             <Summary data={this.state.data} filterData={this.filterData}
               clearFilter={this.clearFilter} />
