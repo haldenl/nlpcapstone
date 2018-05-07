@@ -49,11 +49,13 @@ class App extends Component {
         <div className="App">
           <div className="left">
             <Minimap selector=".token" childComponent={MinimapChild} width={100} keepAspectRatio={true}>
-              <SourceText id="SourceText" data={this.state.data}/>
+              <SourceText data={this.state.data} filterData={this.filterData}
+                clearFilter={this.clearFilter}/>
             </Minimap>
           </div>
           <div className="middle">
-            <Flowmap data={this.state.data}/>
+            <Flowmap data={this.state.data} filterData={this.filterData}
+              clearFilter={this.clearFilter}/>
           </div>
           <div className="right">
             <Summary data={this.state.data} filterData={this.filterData}
@@ -65,8 +67,11 @@ class App extends Component {
   }
 
   filterData(filter) {
-    const newData = this._data.filter((d) => {
-      return filter(d);
+    const newData = this._data.map((d) => {
+      return {
+        ...d,
+        selected: filter(d)
+      }
     });
 
     this.setState({ data: newData });

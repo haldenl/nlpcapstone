@@ -2,7 +2,10 @@
   flex-grow: 1;
   margin: 0;
   padding: 0; }
-  .Flowmap .line {
+  .Flowmap .edge {
     fill: none;
-    stroke-width: 1px;
-    stroke: black; }
+    stroke: #777777;
+    opacity: 0.1; }
+  .Flowmap .edge.selected {
+    stroke: #cc5555;
+    opacity: 0.5; }

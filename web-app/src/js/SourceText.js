@@ -15,9 +15,7 @@ class SourceText extends Component {
   }
 
   static getDerivedStateFromProps(nextProps, prevState) {
-    if (nextProps.data !== prevState.data) {
-      return SourceText.getStateFromProps(nextProps);
-    }
+    return SourceText.getStateFromProps(nextProps);
   }
 
   render() {
@@ -51,7 +49,15 @@ class SourceText extends Component {
   }
 
   static getStateFromProps(props) {
-    const data = SourceText.aggregateData(props.data);
+    // get only selected data
+    let filteredData = props.data.filter((d) => { 
+      return d.selected;
+    });
+
+    if (filteredData.length === 0) {
+      filteredData = props.data;
+    }
+    const data = SourceText.aggregateData(filteredData);
 
     const weightDomain = [0, d3.max(data, (d) => {
       return d.weight * WEIGHT_SCALE;

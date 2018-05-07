@@ -3,9 +3,14 @@
   margin: 0;
   padding: 0;
 
-  .line {
+  .edge {
     fill: none;
-    stroke-width: 1px;
-    stroke: black;
+    stroke: #777777;
+    opacity: 0.1;
+  }
+
+  .edge.selected {
+    stroke: #cc5555;
+    opacity: 0.5;
   }
 }

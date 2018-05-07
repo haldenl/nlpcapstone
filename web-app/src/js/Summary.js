@@ -9,11 +9,8 @@ import StringUtil from './StringUtil';
 class Summary extends Component {
   constructor(props) {
     super(props);
-    const data = Summary.aggregateData(props.data);
 
-    this.state = {
-      data: data,
-    };
+    this.state = Summary.getDerivedStateFromProps(props);
 
     this.tracking = {
       start: -1,  // the start index of the selection
@@ -23,6 +20,10 @@ class Summary extends Component {
     }
 
     this.update = this.update.bind(this);
+  }
+
+  static getDerivedStateFromProps(nextProps, prevState) {
+    return Summary.getStateFromProps(nextProps);
   }
 
   render() {
@@ -104,32 +105,33 @@ class Summary extends Component {
     if (this.tracking.start !== -1 && this.tracking.end !== -1) {
       this.props.filterData(selected);
     }
-
-    const newData = this.state.data.map((d) => {
-      return {
-        ...d,
-        selected: selected(d)
-      }
-    });
-
-    this.setState({
-      data: newData
-    });
   }
 
   static aggregateData(data) {
     let transformed = d3.nest()
       .key((d) => { return d.outputIndex; })
       .key((d) => { return d.outputToken; })
+      .key((d) => { return d.selected; })
       .rollup((g) => { return d3.sum(g, (d) => { return d.weight; })})      
       .entries(data);
 
     // each index has only 1 token so the values array will be of length 1
     transformed = transformed.map((d) => {
-      return { outputIndex: +d.key, outputToken: d.values[0].key, weight: +d.values[0].value };
+      return {
+        outputIndex: +d.key,
+        outputToken: d.values[0].key,
+        selected: d.values[0].values[0].key === "true",
+        selectedweight: +d.values[0].values[0].value 
+      };
     });
   
     return transformed;
+  }
+
+  static getStateFromProps(props) {
+    return {
+      data: Summary.aggregateData(props.data)
+    }
   }
 
 }
