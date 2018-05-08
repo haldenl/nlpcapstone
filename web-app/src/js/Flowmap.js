@@ -49,7 +49,6 @@ class Flowmap extends Component {
       .entries(nextProps.data)
       .map((d) => { return {outputIndex: +d.key, totalWeight: +d.value, selected: outputMap[+d.key]}; });
 
-    console.log(outputNodes);
     return {
       ...prevState,
       filteredEdges,
