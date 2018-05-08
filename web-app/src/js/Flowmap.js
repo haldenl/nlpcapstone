@@ -74,11 +74,31 @@ class Flowmap extends Component {
       .attr('y', (d) => { return this.state.outputScale(d.outputIndex)})
       .attr('width', Flowmap.nodeWidth)
       .attr('height', this.state.outputScale.bandwidth())
-      .attr('fill', (d) => { return this.state.outputColorScale(d.totalWeight); })
       .on('mouseover', (d) => {
-        console.log(d);
         this.props.filterData(((datum) => { return datum.outputIndex === d.outputIndex; }));
       });
+
+    this.brush = d3.brushY()
+      .extent([[width - Flowmap.nodeWidth - 5, 0], [width + 5, height]])
+      .on("brush end", () => {
+        if (d3.event.sourceEvent && d3.event.sourceEvent.type === "zoom") return;
+        const selection = d3.event.selection || this.state.outputScale.range();
+        console.log(selection);
+        const range = selection.map((y) => {
+          return Math.floor(y * 1.0 / this.state.outputScale.step());
+        });
+
+        console.log(range);
+
+        this.props.filterData((d) => {
+          return d.outputIndex >= range[0] && d.outputIndex <= range[1];
+        });
+      });
+
+    this.outputNodes.append("g")
+      .attr("class", "brush")
+      .call(this.brush)
+      .call(this.brush.move, this.state.outputScale.range());
 
     /* EDGES */
 
@@ -143,6 +163,7 @@ class Flowmap extends Component {
     state.inputColorScale = d3.scaleSequential(d3.interpolateBlues).domain(state.inputWeightDomain);
 
     state.outputScale = d3.scaleBand()
+      .padding(0.1)
       .domain(state.outputNodes.map((d) => {
         return d.outputIndex;
       }));
@@ -165,10 +186,16 @@ class Flowmap extends Component {
     });
 
     state.edgeWidthScale = d3.scaleLinear()
-      .range([1, 2])
+      .range([1, 10])
       .domain(d3.extent(state.filteredEdges, (d) => {
         return d.weight;
       }));
+
+    state.edgeOpacityScale = d3.scaleLinear()
+      .range([0, 0.2])
+      .domain(d3.extent(state.filteredEdges, (d) => {
+        return d.weight;
+      })); 
 
     state.line = d3.line();
     state.path = (d) => {

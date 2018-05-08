@@ -7,5 +7,7 @@
     stroke: #777777;
     opacity: 0.1; }
   .Flowmap .edge.selected {
-    stroke: #cc5555;
+    stroke: #ff8c8c;
     opacity: 0.5; }
+  .Flowmap .node.output {
+    fill: #ff8c8c; }

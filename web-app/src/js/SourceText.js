@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import * as d3 from 'd3';
+import PropTypes from 'prop-types';
 
 import '../styles/SourceText.css';
 
@@ -8,6 +9,12 @@ import StringUtil from './StringUtil';
 const WEIGHT_SCALE = 1.5;
 
 class SourceText extends Component {
+  static propTypes = {
+    data: PropTypes.array.isRequired,
+    filterData: PropTypes.func.isRequired,
+    clearFilter: PropTypes.func.isRequired
+  };
+
   constructor(props) {
     super(props);
 
