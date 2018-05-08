@@ -16,7 +16,6 @@ class Summary extends Component {
       start: -1,  // the start index of the selection
       end: -1,  // the end index of the selection
       brushing: false,  // true if user is brushing through text
-      hold: false  // true to hold the current selection
     }
 
     this.update = this.update.bind(this);
@@ -48,7 +47,7 @@ class Summary extends Component {
         <span className={className} key={d.outputIndex}
         
         onMouseEnter={() => {
-          if (!this.tracking.hold) {
+          if (!this.props.getHold()) {
             this.tracking.end = d.outputIndex;
             if (!this.tracking.brushing) {
               this.tracking.start = d.outputIndex;
@@ -58,8 +57,8 @@ class Summary extends Component {
         }}
         
         onMouseDown={() => {
-          if (this.tracking.hold) {
-            this.tracking.hold = false;
+          if (this.props.getHold()) {
+            this.props.setHold(false);
             this.tracking.start = this.tracking.end = d.outputIndex;            
             this.update();
           } else {
@@ -70,7 +69,7 @@ class Summary extends Component {
         onMouseUp={() => {
           if (this.tracking.brushing) {
             this.tracking.brushing = false;
-            this.tracking.hold = true;
+            this.props.setHold(true);
           }
         }}>
           {string}
@@ -80,14 +79,14 @@ class Summary extends Component {
 
     return (
       <p className="Summary" onMouseLeave={() => {
-        if (!this.tracking.hold) {
+        if (!this.props.getHold()) {
           this.props.clearFilter();
           this.tracking = {
             start: -1,
             end: -1,
             brushing: false,
-            hold: false
           };
+          this.props.setHold(false);
           this.update();
         }
       }}>

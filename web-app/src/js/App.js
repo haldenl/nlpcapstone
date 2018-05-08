@@ -13,11 +13,15 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: null
+      data: null,
     };
+
+    this.hold = false;
 
     this.filterData = this.filterData.bind(this);
     this.clearFilter = this.clearFilter.bind(this);
+    this.getHold = this.getHold.bind(this);
+    this.setHold = this.setHold.bind(this);
   }
 
   componentDidMount() {
@@ -55,11 +59,11 @@ class App extends Component {
           </div>
           <div className="middle">
             <Flowmap data={this.state.data} filterData={this.filterData}
-              clearFilter={this.clearFilter}/>
+              clearFilter={this.clearFilter} getHold={this.getHold} setHold={this.setHold}/>
           </div>
           <div className="right">
             <Summary data={this.state.data} filterData={this.filterData}
-              clearFilter={this.clearFilter} />
+              clearFilter={this.clearFilter} getHold={this.getHold} setHold={this.setHold}/>
           </div>
         </div>
       )
@@ -79,6 +83,14 @@ class App extends Component {
 
   clearFilter() {
     this.setState({ data: this._data });
+  }
+
+  getHold() {
+    return this.hold;
+  }
+
+  setHold(hold) {
+    this.hold = hold;
   }
 }
 

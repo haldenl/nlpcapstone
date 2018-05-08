@@ -27,6 +27,9 @@ class Flowmap extends Component {
     super(props);
 
     this.state = Flowmap.getInitialStateFromProps(props);
+    this.tracking = {
+      brushing: false
+    }
   }
 
   static getDerivedStateFromProps(nextProps, prevState) {
@@ -49,7 +52,10 @@ class Flowmap extends Component {
     this.state.xScale.range([0, width - Flowmap.nodeWidth])
 
     this.chart = d3.select(this.divElement).append('g')
-      .attr('transform', `translate(${Flowmap.margin.left}, ${Flowmap.margin.top})`);
+      .attr('transform', `translate(${Flowmap.margin.left}, ${Flowmap.margin.top})`)
+      .on('mouseup', (d) => {
+        this.tracking.brushing = false;
+      });;
 
     this.inputNodes = this.chart.append('g');
     this.inputNodes.selectAll('.node')
@@ -64,7 +70,53 @@ class Flowmap extends Component {
       .attr('fill', (d) => { return this.state.inputColorScale(d.totalWeight); });
 
     this.outputNodes = this.chart.append('g')
-      .on('mouseleave', () => { this.props.clearFilter(); });
+      .on('mouseleave', () => { 
+        if (!this.props.getHold()) {
+          this.props.clearFilter(); 
+        }
+        this.tracking.brushing = false;
+      });
+
+    /* Append the brush */
+    this.brush = d3.brushY()
+      .extent([[width - Flowmap.nodeWidth - 5, 0], [width + 5, height]])
+      .on("brush end", () => {
+        if (d3.event.sourceEvent && d3.event.sourceEvent.type === "zoom") return;
+        const selection = d3.event.selection || this.state.outputScale.range();
+        const range = selection.map((y) => {
+          return Math.floor(y * 1.0 / this.state.outputScale.step());
+        });
+
+        const filter = (d) => {
+          return d.outputIndex >= range[0] && d.outputIndex <= range[1];
+        }
+
+        this.outputNodes.selectAll('.node')
+          .style('pointer-events', (d) => {
+            if (filter(d)) {
+              return 'none';
+            } else {
+              return 'all';
+            }
+          });
+
+        this.props.filterData(filter);
+      });
+
+    this.outputNodes.append("g")
+      .attr('class', 'brush')
+      .call(this.brush)
+      .on('dblclick', () => {
+        this.props.setHold(false);
+        this.outputNodes.select('.brush')
+          .call(this.brush.move,  [-1, -0.99] /* empty selection */);
+        this.outputNodes.selectAll('.node')
+          .style('pointer-events', 'all');
+      });
+
+    const outputNodes = this.outputNodes;
+
+    /* Draw the nodes */
     this.outputNodes.selectAll('.node')
       .data(this.state.outputNodes)
       .enter()
@@ -75,31 +127,21 @@ class Flowmap extends Component {
       .attr('width', Flowmap.nodeWidth)
       .attr('height', this.state.outputScale.bandwidth())
       .on('mouseover', (d) => {
-        this.props.filterData(((datum) => { return datum.outputIndex === d.outputIndex; }));
+        if (this.tracking.brushing) {
+          const m = d3.mouse(d3.select(this.divElement).node());
+          this.outputNodes.select('.brush')
+            .call(this.brush.move, [this.tracking.start, m[1]])
+        } 
+        if (!this.props.getHold()) {
+          this.props.filterData(((datum) => { return datum.outputIndex === d.outputIndex; }));
+        }
+      })
+      .on('mousedown', (d) => {
+        const m = d3.mouse(d3.select(this.divElement).node());
+        this.tracking.start = m[1];
+        this.tracking.brushing = true;
+        this.props.setHold(true);
       });
-
-    this.brush = d3.brushY()
-      .extent([[width - Flowmap.nodeWidth - 5, 0], [width + 5, height]])
-      .on("brush end", () => {
-        if (d3.event.sourceEvent && d3.event.sourceEvent.type === "zoom") return;
-        const selection = d3.event.selection || this.state.outputScale.range();
-        console.log(selection);
-        const range = selection.map((y) => {
-          return Math.floor(y * 1.0 / this.state.outputScale.step());
-        });
-
-        console.log(range);
-
-        this.props.filterData((d) => {
-          return d.outputIndex >= range[0] && d.outputIndex <= range[1];
-        });
-      });
-
-    this.outputNodes.append("g")
-      .attr("class", "brush")
-      .call(this.brush)
-      .call(this.brush.move, this.state.outputScale.range());
-
     /* EDGES */
 
     this.edges = this.chart.append('g');
