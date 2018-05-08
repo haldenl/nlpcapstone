@@ -14,11 +14,14 @@
     opacity: 0.5;
   }
 
-  .node.output {
-    fill: #ff8c8c;
-  }
-
   .node {
     cursor: crosshair;
+  }
+  .node.output {
+    fill: #c9c9c9;
+  }
+
+  .node.output.selected {
+    fill: #ff8c8c;
   }
 }

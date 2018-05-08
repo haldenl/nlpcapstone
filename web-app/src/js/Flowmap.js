@@ -37,9 +37,23 @@ class Flowmap extends Component {
       return prevState.quantile(d.weight) >= Flowmap.quantiles - 1;
     });
 
+    const outputMap = {};
+    nextProps.data.forEach((d) => {
+      if (d.selected) {
+        outputMap[d.outputIndex] = true;
+      }
+    });
+    const outputNodes = d3.nest()
+      .key((d) => { return d.outputIndex; })
+      .rollup((g) => { return d3.sum(g, (d) => { return d.weight; })})
+      .entries(nextProps.data)
+      .map((d) => { return {outputIndex: +d.key, totalWeight: +d.value, selected: outputMap[+d.key]}; });
+
+    console.log(outputNodes);
     return {
       ...prevState,
-      filteredEdges
+      filteredEdges,
+      outputNodes
     };
   }
 
@@ -55,7 +69,10 @@ class Flowmap extends Component {
       .attr('transform', `translate(${Flowmap.margin.left}, ${Flowmap.margin.top})`)
       .on('mouseup', (d) => {
         this.tracking.brushing = false;
-      });;
+      })
+      .on('mosueleave', (d) => {
+        this.tracking.brushing = false;
+      });
 
     this.inputNodes = this.chart.append('g');
     this.inputNodes.selectAll('.node')
@@ -74,7 +91,6 @@ class Flowmap extends Component {
         if (!this.props.getHold()) {
           this.props.clearFilter(); 
         }
-        this.tracking.brushing = false;
       });
 
     /* Append the brush */
@@ -121,7 +137,13 @@ class Flowmap extends Component {
       .data(this.state.outputNodes)
       .enter()
       .append('rect')
-      .attr('class', 'node output')
+      .attr('class', (d) => {
+        return classNames({
+          node: true,
+          output: true,
+          selected: d.selected
+        });
+      })
       .attr('x', this.state.xScale('output'))
       .attr('y', (d) => { return this.state.outputScale(d.outputIndex)})
       .attr('width', Flowmap.nodeWidth)
@@ -168,6 +190,16 @@ class Flowmap extends Component {
           'selected': d.selected
         });
       });
+
+    this.outputNodes.selectAll('.node')
+      .data(this.state.outputNodes)
+      .attr('class', (d) => {
+        return classNames({
+          'node': true,
+          'output': true,
+          'selected': d.selected
+        });
+      });
   }
 
   render() {
@@ -187,11 +219,17 @@ class Flowmap extends Component {
       .entries(state.data)
       .map((d) => { return {inputIndex: +d.key, totalWeight: +d.value }; });
 
+    const outputMap = {};
+    state.data.forEach((d) => {
+      if (d.selected) {
+        outputMap[d.outputIndex] = true;
+      }
+    });
     state.outputNodes = d3.nest()
       .key((d) => { return d.outputIndex; })
       .rollup((g) => { return d3.sum(g, (d) => { return d.weight; })})
       .entries(state.data)
-      .map((d) => { return {outputIndex: +d.key, totalWeight: +d.value }; });
+      .map((d) => { return {outputIndex: +d.key, totalWeight: +d.value, selected: outputMap[+d.key]}; });
 
     state.weightDomain = d3.extent(state.data, (d) => { return d.weight; });
 
@@ -228,7 +266,7 @@ class Flowmap extends Component {
     });
 
     state.edgeWidthScale = d3.scaleLinear()
-      .range([1, 10])
+      .range([0, 10])
       .domain(d3.extent(state.filteredEdges, (d) => {
         return d.weight;
       }));

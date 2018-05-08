@@ -9,7 +9,9 @@
   .Flowmap .edge.selected {
     stroke: #ff8c8c;
     opacity: 0.5; }
-  .Flowmap .node.output {
-    fill: #ff8c8c; }
   .Flowmap .node {
     cursor: crosshair; }
+  .Flowmap .node.output {
+    fill: #c9c9c9; }
+  .Flowmap .node.output.selected {
+    fill: #ff8c8c; }
