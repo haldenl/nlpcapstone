@@ -1,0 +1,27 @@
+.PosController {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 16px 0 0 0;
+  font-family: 'Roboto', sans-serif;
+
+  .pos {
+    padding: 0 4px 0 4px;
+    margin: 0 1px 0 1px;
+    border-radius: 4px;
+    cursor: default;
+    user-select: none;
+    color: #bbbbbb;
+    font-weight: 300;
+  }
+
+  .pos.selected {
+    background-color: #ff8c8c;
+  }
+
+  .pos.selectable {
+    color: rgb(59, 59, 59);
+    font-weight: 400;
+  }
+}

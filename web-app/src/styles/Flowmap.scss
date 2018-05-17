@@ -15,10 +15,10 @@
   }
 
   .node {
-    cursor: crosshair;
   }
   .node.output {
     fill: #c9c9c9;
+    cursor: crosshair;
   }
 
   .node.output.selected {
