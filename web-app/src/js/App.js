@@ -26,7 +26,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    d3.json('data/machine_data_9.json').then((data) => {
+    d3.json('data/machine_data_5.json').then((data) => {
       data = data.map((d) => {
         return {
           inputIndex: +d.inputIndex,
