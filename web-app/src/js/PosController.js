@@ -80,7 +80,7 @@ class PosController extends Component {
     { tag: 'WDT', description: 'wh-determiner' },
     { tag: 'WP', description: 'wh-pronoun' },
     { tag: 'WP$', description: 'possessive wh-pronoun' },
-    { tag: 'wrb', description: 'wh-adverb' }
+    { tag: 'WRB', description: 'wh-adverb' }
   ];
 }
 

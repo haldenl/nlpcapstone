@@ -39,6 +39,8 @@ class App extends Component {
         };
       });
 
+      console.log(data);
+
       const outputPartsOfSpeech = d3.nest()
         .key((d) => { return d.outputPos})
         .entries(data)
