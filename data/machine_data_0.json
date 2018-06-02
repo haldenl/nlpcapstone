@@ -118001,7 +118001,7 @@
       "weight": 7.545079838688906e-11
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "a",
@@ -120808,7 +120808,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "michelle",

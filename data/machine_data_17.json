@@ -74931,7 +74931,7 @@
       "weight": 0.07291074097156525
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "march",
@@ -76203,7 +76203,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "this",

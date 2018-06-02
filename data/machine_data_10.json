@@ -112001,7 +112001,7 @@
       "weight": 2.2758230500130594e-07
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "frustrated",
@@ -115098,7 +115098,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "a",

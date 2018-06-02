@@ -88001,7 +88001,7 @@
       "weight": 2.329546833212959e-10
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "residents",
@@ -92338,7 +92338,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "residents",

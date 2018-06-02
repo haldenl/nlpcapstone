@@ -166001,7 +166001,7 @@
       "weight": 2.678055352589581e-05
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "it",
@@ -171103,7 +171103,7 @@
       "inputPos": "''"
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "the",

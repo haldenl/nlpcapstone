@@ -148001,7 +148001,7 @@
       "weight": 1.1009616173396353e-05
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "a",
@@ -152523,7 +152523,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "arturo",

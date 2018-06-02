@@ -98001,7 +98001,7 @@
       "weight": 2.3253670988765407e-08
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "it",
@@ -102233,7 +102233,7 @@
       "inputPos": "."
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "charlotte",

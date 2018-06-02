@@ -152001,7 +152001,7 @@
       "weight": 1.9513568538798154e-09
     }
   ],
-  "inputRecords": [
+  "inputText": [
     {
       "input": 0,
       "inputToken": "the",
@@ -158828,7 +158828,7 @@
       "inputPos": "''"
     }
   ],
-  "outputRecords": [
+  "outputText": [
     {
       "index": 0,
       "token": "scientists",
