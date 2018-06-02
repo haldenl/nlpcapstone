@@ -94001,7 +94001,7 @@
       "weight": 2.2723607440156e-09
     }
   ],
-  "inputText": [
+  "inputTokens": [
     {
       "input": 0,
       "inputToken": "new",
@@ -96028,7 +96028,7 @@
       "inputPos": "."
     }
   ],
-  "outputText": [
+  "outputTokens": [
     {
       "index": 0,
       "token": "the",

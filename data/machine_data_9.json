@@ -128591,7 +128591,7 @@
       "weight": 0.0003216404584236443
     }
   ],
-  "inputText": [
+  "inputTokens": [
     {
       "input": 0,
       "inputToken": "this",
@@ -130263,7 +130263,7 @@
       "inputPos": "."
     }
   ],
-  "outputText": [
+  "outputTokens": [
     {
       "index": 0,
       "token": "catherine",

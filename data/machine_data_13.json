@@ -132001,7 +132001,7 @@
       "weight": 3.3959173606490367e-07
     }
   ],
-  "inputText": [
+  "inputTokens": [
     {
       "input": 0,
       "inputToken": "shocking",
@@ -134198,7 +134198,7 @@
       "inputPos": "."
     }
   ],
-  "outputText": [
+  "outputTokens": [
     {
       "index": 0,
       "token": "shocking",

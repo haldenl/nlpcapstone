@@ -96001,7 +96001,7 @@
       "weight": 4.471070215450457e-12
     }
   ],
-  "inputText": [
+  "inputTokens": [
     {
       "input": 0,
       "inputToken": "-lrb-",
@@ -101878,7 +101878,7 @@
       "inputPos": "''"
     }
   ],
-  "outputText": [
+  "outputTokens": [
     {
       "index": 0,
       "token": "five",

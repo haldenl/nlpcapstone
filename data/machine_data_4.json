@@ -114001,7 +114001,7 @@
       "weight": 3.036964126360009e-12
     }
   ],
-  "inputText": [
+  "inputTokens": [
     {
       "input": 0,
       "inputToken": "-lrb-",
@@ -119338,7 +119338,7 @@
       "inputPos": "."
     }
   ],
-  "outputText": [
+  "outputTokens": [
     {
       "index": 0,
       "token": "u.s.",
