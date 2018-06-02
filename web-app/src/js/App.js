@@ -26,7 +26,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    d3.json('data/machine_data_5.json').then((data) => {
+    d3.json('data/machine_data_0.json').then((data) => {
       data = data.map((d) => {
         return {
           inputIndex: +d.inputIndex,
@@ -38,8 +38,6 @@ class App extends Component {
           weight: +d.weight
         };
       });
-
-      console.log(data);
 
       const outputPartsOfSpeech = d3.nest()
         .key((d) => { return d.outputPos})
@@ -68,10 +66,10 @@ class App extends Component {
                 clearFilter={this.clearFilter}/>
             </Minimap>
           </div>
-          <div className="middle">
+          {/* <div className="middle">
             <Flowmap data={this.state.data} filterData={this.filterData}
               clearFilter={this.clearFilter} getHold={this.getHold} setHold={this.setHold}/>
-          </div>
+          </div> */}
           <div className="right">
             <PosController data={this.state.data}
               partsOfSpeech={this._outputPartsOfSpeech} filterData={this.filterData}
