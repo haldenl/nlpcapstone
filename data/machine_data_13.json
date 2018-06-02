@@ -132003,2199 +132003,2199 @@
   ],
   "inputTokens": [
     {
-      "input": 0,
-      "inputToken": "shocking",
-      "inputPos": "VBG"
+      "index": 0,
+      "token": "shocking",
+      "pos": "VBG"
     },
     {
-      "input": 1,
-      "inputToken": "footage",
-      "inputPos": "NN"
+      "index": 1,
+      "token": "footage",
+      "pos": "NN"
     },
     {
-      "input": 2,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 2,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 3,
-      "inputToken": "emerged",
-      "inputPos": "VBN"
+      "index": 3,
+      "token": "emerged",
+      "pos": "VBN"
     },
     {
-      "input": 4,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 4,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 5,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 5,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 6,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 6,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 7,
-      "inputToken": "commuters",
-      "inputPos": "NNS"
+      "index": 7,
+      "token": "commuters",
+      "pos": "NNS"
     },
     {
-      "input": 8,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 8,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 9,
-      "inputToken": "violently",
-      "inputPos": "RB"
+      "index": 9,
+      "token": "violently",
+      "pos": "RB"
     },
     {
-      "input": 10,
-      "inputToken": "restrained",
-      "inputPos": "VBN"
+      "index": 10,
+      "token": "restrained",
+      "pos": "VBN"
     },
     {
-      "input": 11,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 11,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 12,
-      "inputToken": "victorian",
-      "inputPos": "JJ"
+      "index": 12,
+      "token": "victorian",
+      "pos": "JJ"
     },
     {
-      "input": 13,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 13,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 14,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 14,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 15,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 15,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 16,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 16,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 17,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 17,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 18,
-      "inputToken": "conductor",
-      "inputPos": "NN"
+      "index": 18,
+      "token": "conductor",
+      "pos": "NN"
     },
     {
-      "input": 19,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 19,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 20,
-      "inputToken": "savagely",
-      "inputPos": "RB"
+      "index": 20,
+      "token": "savagely",
+      "pos": "RB"
     },
     {
-      "input": 21,
-      "inputToken": "punched",
-      "inputPos": "VBN"
+      "index": 21,
+      "token": "punched",
+      "pos": "VBN"
     },
     {
-      "input": 22,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 22,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 23,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 23,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 24,
-      "inputToken": "mouth",
-      "inputPos": "NN"
+      "index": 24,
+      "token": "mouth",
+      "pos": "NN"
     },
     {
-      "input": 25,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 25,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 26,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 26,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 27,
-      "inputToken": "brawl",
-      "inputPos": "NN"
+      "index": 27,
+      "token": "brawl",
+      "pos": "NN"
     },
     {
-      "input": 28,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 28,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 29,
-      "inputToken": "believed",
-      "inputPos": "VBN"
+      "index": 29,
+      "token": "believed",
+      "pos": "VBN"
     },
     {
-      "input": 30,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 30,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 31,
-      "inputToken": "have",
-      "inputPos": "VB"
+      "index": 31,
+      "token": "have",
+      "pos": "VB"
     },
     {
-      "input": 32,
-      "inputToken": "been",
-      "inputPos": "VBN"
+      "index": 32,
+      "token": "been",
+      "pos": "VBN"
     },
     {
-      "input": 33,
-      "inputToken": "instigated",
-      "inputPos": "VBN"
+      "index": 33,
+      "token": "instigated",
+      "pos": "VBN"
     },
     {
-      "input": 34,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 34,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 35,
-      "inputToken": "lara",
-      "inputPos": "JJ"
+      "index": 35,
+      "token": "lara",
+      "pos": "JJ"
     },
     {
-      "input": 36,
-      "inputToken": "railway",
-      "inputPos": "NN"
+      "index": 36,
+      "token": "railway",
+      "pos": "NN"
     },
     {
-      "input": 37,
-      "inputToken": "station",
-      "inputPos": "NN"
+      "index": 37,
+      "token": "station",
+      "pos": "NN"
     },
     {
-      "input": 38,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 38,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 39,
-      "inputToken": "tuesday",
-      "inputPos": "JJ"
+      "index": 39,
+      "token": "tuesday",
+      "pos": "JJ"
     },
     {
-      "input": 40,
-      "inputToken": "afternoon",
-      "inputPos": "NN"
+      "index": 40,
+      "token": "afternoon",
+      "pos": "NN"
     },
     {
-      "input": 41,
-      "inputToken": "when",
-      "inputPos": "WRB"
+      "index": 41,
+      "token": "when",
+      "pos": "WRB"
     },
     {
-      "input": 42,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 42,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 43,
-      "inputToken": "commuters",
-      "inputPos": "NNS"
+      "index": 43,
+      "token": "commuters",
+      "pos": "NNS"
     },
     {
-      "input": 44,
-      "inputToken": "could",
-      "inputPos": "MD"
+      "index": 44,
+      "token": "could",
+      "pos": "MD"
     },
     {
-      "input": 45,
-      "inputToken": "not",
-      "inputPos": "RB"
+      "index": 45,
+      "token": "not",
+      "pos": "RB"
     },
     {
-      "input": 46,
-      "inputToken": "produce",
-      "inputPos": "VB"
+      "index": 46,
+      "token": "produce",
+      "pos": "VB"
     },
     {
-      "input": 47,
-      "inputToken": "valid",
-      "inputPos": "JJ"
+      "index": 47,
+      "token": "valid",
+      "pos": "JJ"
     },
     {
-      "input": 48,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 48,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 49,
-      "inputToken": "tickets",
-      "inputPos": "NNS"
+      "index": 49,
+      "token": "tickets",
+      "pos": "NNS"
     },
     {
-      "input": 50,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 50,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 51,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 51,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 52,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 52,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 53,
-      "inputToken": "questioned",
-      "inputPos": "VBN"
+      "index": 53,
+      "token": "questioned",
+      "pos": "VBN"
     },
     {
-      "input": 54,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 54,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 55,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 55,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 56,
-      "inputToken": "__v/line__",
-      "inputPos": "JJ"
+      "index": 56,
+      "token": "__v/line__",
+      "pos": "JJ"
     },
     {
-      "input": 57,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 57,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 58,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 58,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 59,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 59,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 60,
-      "inputToken": "fare",
-      "inputPos": "NN"
+      "index": 60,
+      "token": "fare",
+      "pos": "NN"
     },
     {
-      "input": 61,
-      "inputToken": "__evaders__",
-      "inputPos": "NNP"
+      "index": 61,
+      "token": "__evaders__",
+      "pos": "NNP"
     },
     {
-      "input": 62,
-      "inputToken": "became",
-      "inputPos": "VBD"
+      "index": 62,
+      "token": "became",
+      "pos": "VBD"
     },
     {
-      "input": 63,
-      "inputToken": "instantly",
-      "inputPos": "RB"
+      "index": 63,
+      "token": "instantly",
+      "pos": "RB"
     },
     {
-      "input": 64,
-      "inputToken": "aggressive",
-      "inputPos": "JJ"
+      "index": 64,
+      "token": "aggressive",
+      "pos": "JJ"
     },
     {
-      "input": 65,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 65,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 66,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 66,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 67,
-      "inputToken": "argument",
-      "inputPos": "NN"
+      "index": 67,
+      "token": "argument",
+      "pos": "NN"
     },
     {
-      "input": 68,
-      "inputToken": "erupted",
-      "inputPos": "VBD"
+      "index": 68,
+      "token": "erupted",
+      "pos": "VBD"
     },
     {
-      "input": 69,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 69,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 70,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 70,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 71,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 71,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 72,
-      "inputToken": "platform",
-      "inputPos": "NN"
+      "index": 72,
+      "token": "platform",
+      "pos": "NN"
     },
     {
-      "input": 73,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 73,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 74,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 74,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 75,
-      "inputToken": "female",
-      "inputPos": "JJ"
+      "index": 75,
+      "token": "female",
+      "pos": "JJ"
     },
     {
-      "input": 76,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 76,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 77,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 77,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 78,
-      "inputToken": "conductor",
-      "inputPos": "NN"
+      "index": 78,
+      "token": "conductor",
+      "pos": "NN"
     },
     {
-      "input": 79,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 79,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 80,
-      "inputToken": "punched",
-      "inputPos": "VBN"
+      "index": 80,
+      "token": "punched",
+      "pos": "VBN"
     },
     {
-      "input": 81,
-      "inputToken": "brutally",
-      "inputPos": "RB"
+      "index": 81,
+      "token": "brutally",
+      "pos": "RB"
     },
     {
-      "input": 82,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 82,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 83,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 83,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 84,
-      "inputToken": "mouth",
-      "inputPos": "NN"
+      "index": 84,
+      "token": "mouth",
+      "pos": "NN"
     },
     {
-      "input": 85,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 85,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 86,
-      "inputToken": "scroll",
-      "inputPos": "VB"
+      "index": 86,
+      "token": "scroll",
+      "pos": "VB"
     },
     {
-      "input": 87,
-      "inputToken": "down",
-      "inputPos": "RP"
+      "index": 87,
+      "token": "down",
+      "pos": "RP"
     },
     {
-      "input": 88,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 88,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 89,
-      "inputToken": "video",
-      "inputPos": "NN"
+      "index": 89,
+      "token": "video",
+      "pos": "NN"
     },
     {
-      "input": 90,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 90,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 91,
-      "inputToken": "shocking",
-      "inputPos": "VBG"
+      "index": 91,
+      "token": "shocking",
+      "pos": "VBG"
     },
     {
-      "input": 92,
-      "inputToken": "footage",
-      "inputPos": "NN"
+      "index": 92,
+      "token": "footage",
+      "pos": "NN"
     },
     {
-      "input": 93,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 93,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 94,
-      "inputToken": "emerged",
-      "inputPos": "VBN"
+      "index": 94,
+      "token": "emerged",
+      "pos": "VBN"
     },
     {
-      "input": 95,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 95,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 96,
-      "inputToken": "train",
-      "inputPos": "JJ"
+      "index": 96,
+      "token": "train",
+      "pos": "JJ"
     },
     {
-      "input": 97,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 97,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 98,
-      "inputToken": "violently",
-      "inputPos": "RB"
+      "index": 98,
+      "token": "violently",
+      "pos": "RB"
     },
     {
-      "input": 99,
-      "inputToken": "restraining",
-      "inputPos": "VBG"
+      "index": 99,
+      "token": "restraining",
+      "pos": "VBG"
     },
     {
-      "input": 100,
-      "inputToken": "fare",
-      "inputPos": "NN"
+      "index": 100,
+      "token": "fare",
+      "pos": "NN"
     },
     {
-      "input": 101,
-      "inputToken": "__evaders__",
-      "inputPos": "NN"
+      "index": 101,
+      "token": "__evaders__",
+      "pos": "NN"
     },
     {
-      "input": 102,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 102,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 103,
-      "inputToken": "victoria",
-      "inputPos": "NN"
+      "index": 103,
+      "token": "victoria",
+      "pos": "NN"
     },
     {
-      "input": 104,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 104,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 105,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 105,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 106,
-      "inputToken": "train",
-      "inputPos": "JJ"
+      "index": 106,
+      "token": "train",
+      "pos": "JJ"
     },
     {
-      "input": 107,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 107,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 108,
-      "inputToken": "hold",
-      "inputPos": "VBP"
+      "index": 108,
+      "token": "hold",
+      "pos": "VBP"
     },
     {
-      "input": 109,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 109,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 110,
-      "inputToken": "male",
-      "inputPos": "JJ"
+      "index": 110,
+      "token": "male",
+      "pos": "JJ"
     },
     {
-      "input": 111,
-      "inputToken": "commuter",
-      "inputPos": "NN"
+      "index": 111,
+      "token": "commuter",
+      "pos": "NN"
     },
     {
-      "input": 112,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 112,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 113,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 113,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 114,
-      "inputToken": "ground",
-      "inputPos": "NN"
+      "index": 114,
+      "token": "ground",
+      "pos": "NN"
     },
     {
-      "input": 115,
-      "inputToken": "whilst",
-      "inputPos": "VBD"
+      "index": 115,
+      "token": "whilst",
+      "pos": "VBD"
     },
     {
-      "input": 116,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 116,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 117,
-      "inputToken": "female",
-      "inputPos": "JJ"
+      "index": 117,
+      "token": "female",
+      "pos": "JJ"
     },
     {
-      "input": 118,
-      "inputToken": "attempts",
-      "inputPos": "NNS"
+      "index": 118,
+      "token": "attempts",
+      "pos": "NNS"
     },
     {
-      "input": 119,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 119,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 120,
-      "inputToken": "escape",
-      "inputPos": "VB"
+      "index": 120,
+      "token": "escape",
+      "pos": "VB"
     },
     {
-      "input": 121,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 121,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 122,
-      "inputToken": "grasp",
-      "inputPos": "NN"
+      "index": 122,
+      "token": "grasp",
+      "pos": "NN"
     },
     {
-      "input": 123,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 123,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 124,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 124,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 125,
-      "inputToken": "ticket",
-      "inputPos": "NN"
+      "index": 125,
+      "token": "ticket",
+      "pos": "NN"
     },
     {
-      "input": 126,
-      "inputToken": "inspector",
-      "inputPos": "NN"
+      "index": 126,
+      "token": "inspector",
+      "pos": "NN"
     },
     {
-      "input": 127,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 127,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 128,
-      "inputToken": "`",
-      "inputPos": "``"
+      "index": 128,
+      "token": "`",
+      "pos": "``"
     },
     {
-      "input": 129,
-      "inputToken": "get",
-      "inputPos": "VB"
+      "index": 129,
+      "token": "get",
+      "pos": "VB"
     },
     {
-      "input": 130,
-      "inputToken": "off",
-      "inputPos": "RP"
+      "index": 130,
+      "token": "off",
+      "pos": "RP"
     },
     {
-      "input": 131,
-      "inputToken": "my",
-      "inputPos": "PRP$"
+      "index": 131,
+      "token": "my",
+      "pos": "PRP$"
     },
     {
-      "input": 132,
-      "inputToken": "head",
-      "inputPos": "NN"
+      "index": 132,
+      "token": "head",
+      "pos": "NN"
     },
     {
-      "input": 133,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 133,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 134,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 134,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 135,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 135,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 136,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 136,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 137,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 137,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 138,
-      "inputToken": "__evaders__",
-      "inputPos": "NN"
+      "index": 138,
+      "token": "__evaders__",
+      "pos": "NN"
     },
     {
-      "input": 139,
-      "inputToken": "can",
-      "inputPos": "MD"
+      "index": 139,
+      "token": "can",
+      "pos": "MD"
     },
     {
-      "input": 140,
-      "inputToken": "be",
-      "inputPos": "VB"
+      "index": 140,
+      "token": "be",
+      "pos": "VB"
     },
     {
-      "input": 141,
-      "inputToken": "heard",
-      "inputPos": "VBN"
+      "index": 141,
+      "token": "heard",
+      "pos": "VBN"
     },
     {
-      "input": 142,
-      "inputToken": "screaming",
-      "inputPos": "VBG"
+      "index": 142,
+      "token": "screaming",
+      "pos": "VBG"
     },
     {
-      "input": 143,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 143,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 144,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 144,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 145,
-      "inputToken": "face",
-      "inputPos": "NN"
+      "index": 145,
+      "token": "face",
+      "pos": "NN"
     },
     {
-      "input": 146,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 146,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 147,
-      "inputToken": "forced",
-      "inputPos": "VBN"
+      "index": 147,
+      "token": "forced",
+      "pos": "VBN"
     },
     {
-      "input": 148,
-      "inputToken": "into",
-      "inputPos": "IN"
+      "index": 148,
+      "token": "into",
+      "pos": "IN"
     },
     {
-      "input": 149,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 149,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 150,
-      "inputToken": "concrete",
-      "inputPos": "NN"
+      "index": 150,
+      "token": "concrete",
+      "pos": "NN"
     },
     {
-      "input": 151,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 151,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 152,
-      "inputToken": "__v/line__",
-      "inputPos": "JJ"
+      "index": 152,
+      "token": "__v/line__",
+      "pos": "JJ"
     },
     {
-      "input": 153,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 153,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 154,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 154,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 155,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 155,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 156,
-      "inputToken": "footage",
-      "inputPos": "NN"
+      "index": 156,
+      "token": "footage",
+      "pos": "NN"
     },
     {
-      "input": 157,
-      "inputToken": "shows",
-      "inputPos": "VBZ"
+      "index": 157,
+      "token": "shows",
+      "pos": "VBZ"
     },
     {
-      "input": 158,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 158,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 159,
-      "inputToken": "female",
-      "inputPos": "JJ"
+      "index": 159,
+      "token": "female",
+      "pos": "JJ"
     },
     {
-      "input": 160,
-      "inputToken": "commuter",
-      "inputPos": "NN"
+      "index": 160,
+      "token": "commuter",
+      "pos": "NN"
     },
     {
-      "input": 161,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 161,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 162,
-      "inputToken": "pushed",
-      "inputPos": "VBN"
+      "index": 162,
+      "token": "pushed",
+      "pos": "VBN"
     },
     {
-      "input": 163,
-      "inputToken": "into",
-      "inputPos": "IN"
+      "index": 163,
+      "token": "into",
+      "pos": "IN"
     },
     {
-      "input": 164,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 164,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 165,
-      "inputToken": "mental",
-      "inputPos": "JJ"
+      "index": 165,
+      "token": "mental",
+      "pos": "JJ"
     },
     {
-      "input": 166,
-      "inputToken": "fence",
-      "inputPos": "NN"
+      "index": 166,
+      "token": "fence",
+      "pos": "NN"
     },
     {
-      "input": 167,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 167,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 168,
-      "inputToken": "clearly",
-      "inputPos": "RB"
+      "index": 168,
+      "token": "clearly",
+      "pos": "RB"
     },
     {
-      "input": 169,
-      "inputToken": "distressed",
-      "inputPos": "VBN"
+      "index": 169,
+      "token": "distressed",
+      "pos": "VBN"
     },
     {
-      "input": 170,
-      "inputToken": "while",
-      "inputPos": "IN"
+      "index": 170,
+      "token": "while",
+      "pos": "IN"
     },
     {
-      "input": 171,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 171,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 172,
-      "inputToken": "male",
-      "inputPos": "NN"
+      "index": 172,
+      "token": "male",
+      "pos": "NN"
     },
     {
-      "input": 173,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 173,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 174,
-      "inputToken": "held",
-      "inputPos": "VBN"
+      "index": 174,
+      "token": "held",
+      "pos": "VBN"
     },
     {
-      "input": 175,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 175,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 176,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 176,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 177,
-      "inputToken": "ground",
-      "inputPos": "NN"
+      "index": 177,
+      "token": "ground",
+      "pos": "NN"
     },
     {
-      "input": 178,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 178,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 179,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 179,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 180,
-      "inputToken": "other",
-      "inputPos": "JJ"
+      "index": 180,
+      "token": "other",
+      "pos": "JJ"
     },
     {
-      "input": 181,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 181,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 182,
-      "inputToken": "members",
-      "inputPos": "NNS"
+      "index": 182,
+      "token": "members",
+      "pos": "NNS"
     },
     {
-      "input": 183,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 183,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 184,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 184,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 185,
-      "inputToken": "woman",
-      "inputPos": "NN"
+      "index": 185,
+      "token": "woman",
+      "pos": "NN"
     },
     {
-      "input": 186,
-      "inputToken": "attempts",
-      "inputPos": "VBZ"
+      "index": 186,
+      "token": "attempts",
+      "pos": "VBZ"
     },
     {
-      "input": 187,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 187,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 188,
-      "inputToken": "free",
-      "inputPos": "VB"
+      "index": 188,
+      "token": "free",
+      "pos": "VB"
     },
     {
-      "input": 189,
-      "inputToken": "herself",
-      "inputPos": "PRP"
+      "index": 189,
+      "token": "herself",
+      "pos": "PRP"
     },
     {
-      "input": 190,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 190,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 191,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 191,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 192,
-      "inputToken": "ticket",
-      "inputPos": "NN"
+      "index": 192,
+      "token": "ticket",
+      "pos": "NN"
     },
     {
-      "input": 193,
-      "inputToken": "inspector",
-      "inputPos": "NN"
+      "index": 193,
+      "token": "inspector",
+      "pos": "NN"
     },
     {
-      "input": 194,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 194,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 195,
-      "inputToken": "grasp",
-      "inputPos": "NN"
+      "index": 195,
+      "token": "grasp",
+      "pos": "NN"
     },
     {
-      "input": 196,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 196,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 197,
-      "inputToken": "grab",
-      "inputPos": "VB"
+      "index": 197,
+      "token": "grab",
+      "pos": "VB"
     },
     {
-      "input": 198,
-      "inputToken": "her",
-      "inputPos": "PRP$"
+      "index": 198,
+      "token": "her",
+      "pos": "PRP$"
     },
     {
-      "input": 199,
-      "inputToken": "belongings",
-      "inputPos": "NNS"
+      "index": 199,
+      "token": "belongings",
+      "pos": "NNS"
     },
     {
-      "input": 200,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 200,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 201,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 201,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 202,
-      "inputToken": "no",
-      "inputPos": "DT"
+      "index": 202,
+      "token": "no",
+      "pos": "DT"
     },
     {
-      "input": 203,
-      "inputToken": "avail",
-      "inputPos": "NN"
+      "index": 203,
+      "token": "avail",
+      "pos": "NN"
     },
     {
-      "input": 204,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 204,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 205,
-      "inputToken": "according",
-      "inputPos": "VBG"
+      "index": 205,
+      "token": "according",
+      "pos": "VBG"
     },
     {
-      "input": 206,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 206,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 207,
-      "inputToken": "channel",
-      "inputPos": "VB"
+      "index": 207,
+      "token": "channel",
+      "pos": "VB"
     },
     {
-      "input": 208,
-      "inputToken": "9",
-      "inputPos": "CD"
+      "index": 208,
+      "token": "9",
+      "pos": "CD"
     },
     {
-      "input": 209,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 209,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 210,
-      "inputToken": "witnesses",
-      "inputPos": "NNS"
+      "index": 210,
+      "token": "witnesses",
+      "pos": "NNS"
     },
     {
-      "input": 211,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 211,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 212,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 212,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 213,
-      "inputToken": "brawl",
-      "inputPos": "NNS"
+      "index": 213,
+      "token": "brawl",
+      "pos": "NNS"
     },
     {
-      "input": 214,
-      "inputToken": "say",
-      "inputPos": "VBP"
+      "index": 214,
+      "token": "say",
+      "pos": "VBP"
     },
     {
-      "input": 215,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 215,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 216,
-      "inputToken": "began",
-      "inputPos": "VBD"
+      "index": 216,
+      "token": "began",
+      "pos": "VBD"
     },
     {
-      "input": 217,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 217,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 218,
-      "inputToken": "board",
-      "inputPos": "NN"
+      "index": 218,
+      "token": "board",
+      "pos": "NN"
     },
     {
-      "input": 219,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 219,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 220,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 220,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 221,
-      "inputToken": "during",
-      "inputPos": "IN"
+      "index": 221,
+      "token": "during",
+      "pos": "IN"
     },
     {
-      "input": 222,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 222,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 223,
-      "inputToken": "ticket",
-      "inputPos": "NN"
+      "index": 223,
+      "token": "ticket",
+      "pos": "NN"
     },
     {
-      "input": 224,
-      "inputToken": "blitz",
-      "inputPos": "NN"
+      "index": 224,
+      "token": "blitz",
+      "pos": "NN"
     },
     {
-      "input": 225,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 225,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 226,
-      "inputToken": "spilled",
-      "inputPos": "VBD"
+      "index": 226,
+      "token": "spilled",
+      "pos": "VBD"
     },
     {
-      "input": 227,
-      "inputToken": "out",
-      "inputPos": "RP"
+      "index": 227,
+      "token": "out",
+      "pos": "RP"
     },
     {
-      "input": 228,
-      "inputToken": "onto",
-      "inputPos": "IN"
+      "index": 228,
+      "token": "onto",
+      "pos": "IN"
     },
     {
-      "input": 229,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 229,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 230,
-      "inputToken": "platform",
-      "inputPos": "NN"
+      "index": 230,
+      "token": "platform",
+      "pos": "NN"
     },
     {
-      "input": 231,
-      "inputToken": "when",
-      "inputPos": "WRB"
+      "index": 231,
+      "token": "when",
+      "pos": "WRB"
     },
     {
-      "input": 232,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 232,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 233,
-      "inputToken": "became",
-      "inputPos": "VBD"
+      "index": 233,
+      "token": "became",
+      "pos": "VBD"
     },
     {
-      "input": 234,
-      "inputToken": "violent",
-      "inputPos": "JJ"
+      "index": 234,
+      "token": "violent",
+      "pos": "JJ"
     },
     {
-      "input": 235,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 235,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 236,
-      "inputToken": "both",
-      "inputPos": "CC"
+      "index": 236,
+      "token": "both",
+      "pos": "CC"
     },
     {
-      "input": 237,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 237,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 238,
-      "inputToken": "man",
-      "inputPos": "NN"
+      "index": 238,
+      "token": "man",
+      "pos": "NN"
     },
     {
-      "input": 239,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 239,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 240,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 240,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 241,
-      "inputToken": "woman",
-      "inputPos": "NN"
+      "index": 241,
+      "token": "woman",
+      "pos": "NN"
     },
     {
-      "input": 242,
-      "inputToken": "are",
-      "inputPos": "VBP"
+      "index": 242,
+      "token": "are",
+      "pos": "VBP"
     },
     {
-      "input": 243,
-      "inputToken": "held",
-      "inputPos": "VBN"
+      "index": 243,
+      "token": "held",
+      "pos": "VBN"
     },
     {
-      "input": 244,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 244,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 245,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 245,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 246,
-      "inputToken": "ground",
-      "inputPos": "NN"
+      "index": 246,
+      "token": "ground",
+      "pos": "NN"
     },
     {
-      "input": 247,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 247,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 248,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 248,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 249,
-      "inputToken": "altercation",
-      "inputPos": "NN"
+      "index": 249,
+      "token": "altercation",
+      "pos": "NN"
     },
     {
-      "input": 250,
-      "inputToken": "resulted",
-      "inputPos": "VBD"
+      "index": 250,
+      "token": "resulted",
+      "pos": "VBD"
     },
     {
-      "input": 251,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 251,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 252,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 252,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 253,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 253,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 254,
-      "inputToken": "conductor",
-      "inputPos": "NN"
+      "index": 254,
+      "token": "conductor",
+      "pos": "NN"
     },
     {
-      "input": 255,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 255,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 256,
-      "inputToken": "punched",
-      "inputPos": "VBN"
+      "index": 256,
+      "token": "punched",
+      "pos": "VBN"
     },
     {
-      "input": 257,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 257,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 258,
-      "inputToken": "her",
-      "inputPos": "PRP$"
+      "index": 258,
+      "token": "her",
+      "pos": "PRP$"
     },
     {
-      "input": 259,
-      "inputToken": "mouth",
-      "inputPos": "NN"
+      "index": 259,
+      "token": "mouth",
+      "pos": "NN"
     },
     {
-      "input": 260,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 260,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 261,
-      "inputToken": "`",
-      "inputPos": "``"
+      "index": 261,
+      "token": "`",
+      "pos": "``"
     },
     {
-      "input": 262,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 262,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 263,
-      "inputToken": "do",
-      "inputPos": "VBP"
+      "index": 263,
+      "token": "do",
+      "pos": "VBP"
     },
     {
-      "input": 264,
-      "inputToken": "n't",
-      "inputPos": "RB"
+      "index": 264,
+      "token": "n't",
+      "pos": "RB"
     },
     {
-      "input": 265,
-      "inputToken": "have",
-      "inputPos": "VB"
+      "index": 265,
+      "token": "have",
+      "pos": "VB"
     },
     {
-      "input": 266,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 266,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 267,
-      "inputToken": "right",
-      "inputPos": "NN"
+      "index": 267,
+      "token": "right",
+      "pos": "NN"
     },
     {
-      "input": 268,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 268,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 269,
-      "inputToken": "do",
-      "inputPos": "VB"
+      "index": 269,
+      "token": "do",
+      "pos": "VB"
     },
     {
-      "input": 270,
-      "inputToken": "this",
-      "inputPos": "DT"
+      "index": 270,
+      "token": "this",
+      "pos": "DT"
     },
     {
-      "input": 271,
-      "inputToken": "-",
-      "inputPos": ":"
+      "index": 271,
+      "token": "-",
+      "pos": ":"
     },
     {
-      "input": 272,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 272,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 273,
-      "inputToken": "'s",
-      "inputPos": "VBZ"
+      "index": 273,
+      "token": "'s",
+      "pos": "VBZ"
     },
     {
-      "input": 274,
-      "inputToken": "not",
-      "inputPos": "RB"
+      "index": 274,
+      "token": "not",
+      "pos": "RB"
     },
     {
-      "input": 275,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 275,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 276,
-      "inputToken": "job",
-      "inputPos": "NN"
+      "index": 276,
+      "token": "job",
+      "pos": "NN"
     },
     {
-      "input": 277,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 277,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 278,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 278,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 279,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 279,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 280,
-      "inputToken": "witness",
-      "inputPos": "NN"
+      "index": 280,
+      "token": "witness",
+      "pos": "NN"
     },
     {
-      "input": 281,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 281,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 282,
-      "inputToken": "whilst",
-      "inputPos": "JJ"
+      "index": 282,
+      "token": "whilst",
+      "pos": "JJ"
     },
     {
-      "input": 283,
-      "inputToken": "filming",
-      "inputPos": "VBG"
+      "index": 283,
+      "token": "filming",
+      "pos": "VBG"
     },
     {
-      "input": 284,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 284,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 285,
-      "inputToken": "brawl",
-      "inputPos": "NN"
+      "index": 285,
+      "token": "brawl",
+      "pos": "NN"
     },
     {
-      "input": 286,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 286,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 287,
-      "inputToken": "spokesperson",
-      "inputPos": "NN"
+      "index": 287,
+      "token": "spokesperson",
+      "pos": "NN"
     },
     {
-      "input": 288,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 288,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 289,
-      "inputToken": "__v/line__",
-      "inputPos": "NNP"
+      "index": 289,
+      "token": "__v/line__",
+      "pos": "NNP"
     },
     {
-      "input": 290,
-      "inputToken": "colin",
-      "inputPos": "NN"
+      "index": 290,
+      "token": "colin",
+      "pos": "NN"
     },
     {
-      "input": 291,
-      "inputToken": "__tyrus__",
-      "inputPos": "NNP"
+      "index": 291,
+      "token": "__tyrus__",
+      "pos": "NNP"
     },
     {
-      "input": 292,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 292,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 293,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 293,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 294,
-      "inputToken": "conductor",
-      "inputPos": "NN"
+      "index": 294,
+      "token": "conductor",
+      "pos": "NN"
     },
     {
-      "input": 295,
-      "inputToken": "needed",
-      "inputPos": "VBD"
+      "index": 295,
+      "token": "needed",
+      "pos": "VBD"
     },
     {
-      "input": 296,
-      "inputToken": "medical",
-      "inputPos": "JJ"
+      "index": 296,
+      "token": "medical",
+      "pos": "JJ"
     },
     {
-      "input": 297,
-      "inputToken": "attention",
-      "inputPos": "NN"
+      "index": 297,
+      "token": "attention",
+      "pos": "NN"
     },
     {
-      "input": 298,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 298,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 299,
-      "inputToken": "her",
-      "inputPos": "PRP$"
+      "index": 299,
+      "token": "her",
+      "pos": "PRP$"
     },
     {
-      "input": 300,
-      "inputToken": "mouth",
-      "inputPos": "NN"
+      "index": 300,
+      "token": "mouth",
+      "pos": "NN"
     },
     {
-      "input": 301,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 301,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 302,
-      "inputToken": "lips",
-      "inputPos": "NNS"
+      "index": 302,
+      "token": "lips",
+      "pos": "NNS"
     },
     {
-      "input": 303,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 303,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 304,
-      "inputToken": "teeth",
-      "inputPos": "NNS"
+      "index": 304,
+      "token": "teeth",
+      "pos": "NNS"
     },
     {
-      "input": 305,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 305,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 306,
-      "inputToken": "onlookers",
-      "inputPos": "NNS"
+      "index": 306,
+      "token": "onlookers",
+      "pos": "NNS"
     },
     {
-      "input": 307,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 307,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 308,
-      "inputToken": "shocked",
-      "inputPos": "VBN"
+      "index": 308,
+      "token": "shocked",
+      "pos": "VBN"
     },
     {
-      "input": 309,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 309,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 310,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 310,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 311,
-      "inputToken": "force",
-      "inputPos": "NN"
+      "index": 311,
+      "token": "force",
+      "pos": "NN"
     },
     {
-      "input": 312,
-      "inputToken": "used",
-      "inputPos": "VBN"
+      "index": 312,
+      "token": "used",
+      "pos": "VBN"
     },
     {
-      "input": 313,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 313,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 314,
-      "inputToken": "restrain",
-      "inputPos": "VB"
+      "index": 314,
+      "token": "restrain",
+      "pos": "VB"
     },
     {
-      "input": 315,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 315,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 316,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 316,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 317,
-      "inputToken": "commuters",
-      "inputPos": "NNS"
+      "index": 317,
+      "token": "commuters",
+      "pos": "NNS"
     },
     {
-      "input": 318,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 318,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 319,
-      "inputToken": "`",
-      "inputPos": "``"
+      "index": 319,
+      "token": "`",
+      "pos": "``"
     },
     {
-      "input": 320,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 320,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 321,
-      "inputToken": "do",
-      "inputPos": "VBP"
+      "index": 321,
+      "token": "do",
+      "pos": "VBP"
     },
     {
-      "input": 322,
-      "inputToken": "n't",
-      "inputPos": "RB"
+      "index": 322,
+      "token": "n't",
+      "pos": "RB"
     },
     {
-      "input": 323,
-      "inputToken": "have",
-      "inputPos": "VB"
+      "index": 323,
+      "token": "have",
+      "pos": "VB"
     },
     {
-      "input": 324,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 324,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 325,
-      "inputToken": "right",
-      "inputPos": "NN"
+      "index": 325,
+      "token": "right",
+      "pos": "NN"
     },
     {
-      "input": 326,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 326,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 327,
-      "inputToken": "do",
-      "inputPos": "VB"
+      "index": 327,
+      "token": "do",
+      "pos": "VB"
     },
     {
-      "input": 328,
-      "inputToken": "this",
-      "inputPos": "DT"
+      "index": 328,
+      "token": "this",
+      "pos": "DT"
     },
     {
-      "input": 329,
-      "inputToken": "-",
-      "inputPos": ":"
+      "index": 329,
+      "token": "-",
+      "pos": ":"
     },
     {
-      "input": 330,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 330,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 331,
-      "inputToken": "'s",
-      "inputPos": "VBZ"
+      "index": 331,
+      "token": "'s",
+      "pos": "VBZ"
     },
     {
-      "input": 332,
-      "inputToken": "not",
-      "inputPos": "RB"
+      "index": 332,
+      "token": "not",
+      "pos": "RB"
     },
     {
-      "input": 333,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 333,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 334,
-      "inputToken": "job",
-      "inputPos": "NN"
+      "index": 334,
+      "token": "job",
+      "pos": "NN"
     },
     {
-      "input": 335,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 335,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 336,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 336,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 337,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 337,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 338,
-      "inputToken": "witness",
-      "inputPos": "NN"
+      "index": 338,
+      "token": "witness",
+      "pos": "NN"
     },
     {
-      "input": 339,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 339,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 340,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 340,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 341,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 341,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 342,
-      "inputToken": "i",
-      "inputPos": "JJ"
+      "index": 342,
+      "token": "i",
+      "pos": "JJ"
     },
     {
-      "input": 343,
-      "inputToken": "saw",
-      "inputPos": "VBD"
+      "index": 343,
+      "token": "saw",
+      "pos": "VBD"
     },
     {
-      "input": 344,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 344,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 345,
-      "inputToken": "-lrb-",
-      "inputPos": "JJ"
+      "index": 345,
+      "token": "-lrb-",
+      "pos": "JJ"
     },
     {
-      "input": 346,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 346,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 347,
-      "inputToken": "-rrb-",
-      "inputPos": "NNP"
+      "index": 347,
+      "token": "-rrb-",
+      "pos": "NNP"
     },
     {
-      "input": 348,
-      "inputToken": "corner",
-      "inputPos": "NN"
+      "index": 348,
+      "token": "corner",
+      "pos": "NN"
     },
     {
-      "input": 349,
-      "inputToken": "him",
-      "inputPos": "PRP"
+      "index": 349,
+      "token": "him",
+      "pos": "PRP"
     },
     {
-      "input": 350,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 350,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 351,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 351,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 352,
-      "inputToken": "doorway",
-      "inputPos": "NN"
+      "index": 352,
+      "token": "doorway",
+      "pos": "NN"
     },
     {
-      "input": 353,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 353,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 354,
-      "inputToken": "then",
-      "inputPos": "RB"
+      "index": 354,
+      "token": "then",
+      "pos": "RB"
     },
     {
-      "input": 355,
-      "inputToken": "all",
-      "inputPos": "DT"
+      "index": 355,
+      "token": "all",
+      "pos": "DT"
     },
     {
-      "input": 356,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 356,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 357,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 357,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 358,
-      "inputToken": "sudden",
-      "inputPos": "JJ"
+      "index": 358,
+      "token": "sudden",
+      "pos": "JJ"
     },
     {
-      "input": 359,
-      "inputToken": "everyone",
-      "inputPos": "NN"
+      "index": 359,
+      "token": "everyone",
+      "pos": "NN"
     },
     {
-      "input": 360,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 360,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 361,
-      "inputToken": "our",
-      "inputPos": "PRP$"
+      "index": 361,
+      "token": "our",
+      "pos": "PRP$"
     },
     {
-      "input": 362,
-      "inputToken": "train",
-      "inputPos": "NN"
+      "index": 362,
+      "token": "train",
+      "pos": "NN"
     },
     {
-      "input": 363,
-      "inputToken": "carriage",
-      "inputPos": "NN"
+      "index": 363,
+      "token": "carriage",
+      "pos": "NN"
     },
     {
-      "input": 364,
-      "inputToken": "got",
-      "inputPos": "VBD"
+      "index": 364,
+      "token": "got",
+      "pos": "VBD"
     },
     {
-      "input": 365,
-      "inputToken": "up",
-      "inputPos": "RB"
+      "index": 365,
+      "token": "up",
+      "pos": "RB"
     },
     {
-      "input": 366,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 366,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 367,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 367,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 368,
-      "inputToken": "watching",
-      "inputPos": "VBG"
+      "index": 368,
+      "token": "watching",
+      "pos": "VBG"
     },
     {
-      "input": 369,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 369,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 370,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 370,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 371,
-      "inputToken": "there",
-      "inputPos": "EX"
+      "index": 371,
+      "token": "there",
+      "pos": "EX"
     },
     {
-      "input": 372,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 372,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 373,
-      "inputToken": "punches",
-      "inputPos": "NNS"
+      "index": 373,
+      "token": "punches",
+      "pos": "NNS"
     },
     {
-      "input": 374,
-      "inputToken": "flying",
-      "inputPos": "VBG"
+      "index": 374,
+      "token": "flying",
+      "pos": "VBG"
     },
     {
-      "input": 375,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 375,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 376,
-      "inputToken": "kicking",
-      "inputPos": "VBG"
+      "index": 376,
+      "token": "kicking",
+      "pos": "VBG"
     },
     {
-      "input": 377,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 377,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 378,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 378,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 379,
-      "inputToken": "another",
-      "inputPos": "DT"
+      "index": 379,
+      "token": "another",
+      "pos": "DT"
     },
     {
-      "input": 380,
-      "inputToken": "told",
-      "inputPos": "VBD"
+      "index": 380,
+      "token": "told",
+      "pos": "VBD"
     },
     {
-      "input": 381,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 381,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 382,
-      "inputToken": "nine",
-      "inputPos": "CD"
+      "index": 382,
+      "token": "nine",
+      "pos": "CD"
     },
     {
-      "input": 383,
-      "inputToken": "network",
-      "inputPos": "NN"
+      "index": 383,
+      "token": "network",
+      "pos": "NN"
     },
     {
-      "input": 384,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 384,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 385,
-      "inputToken": "spokesperson",
-      "inputPos": "NN"
+      "index": 385,
+      "token": "spokesperson",
+      "pos": "NN"
     },
     {
-      "input": 386,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 386,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 387,
-      "inputToken": "__v/line__",
-      "inputPos": "NNP"
+      "index": 387,
+      "token": "__v/line__",
+      "pos": "NNP"
     },
     {
-      "input": 388,
-      "inputToken": "colin",
-      "inputPos": "NN"
+      "index": 388,
+      "token": "colin",
+      "pos": "NN"
     },
     {
-      "input": 389,
-      "inputToken": "__tyrus__",
-      "inputPos": "NNP"
+      "index": 389,
+      "token": "__tyrus__",
+      "pos": "NNP"
     },
     {
-      "input": 390,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 390,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 391,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 391,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 392,
-      "inputToken": "conductor",
-      "inputPos": "NN"
+      "index": 392,
+      "token": "conductor",
+      "pos": "NN"
     },
     {
-      "input": 393,
-      "inputToken": "needed",
-      "inputPos": "VBD"
+      "index": 393,
+      "token": "needed",
+      "pos": "VBD"
     },
     {
-      "input": 394,
-      "inputToken": "medical",
-      "inputPos": "JJ"
+      "index": 394,
+      "token": "medical",
+      "pos": "JJ"
     },
     {
-      "input": 395,
-      "inputToken": "attention",
-      "inputPos": "NN"
+      "index": 395,
+      "token": "attention",
+      "pos": "NN"
     },
     {
-      "input": 396,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 396,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 397,
-      "inputToken": "her",
-      "inputPos": "PRP$"
+      "index": 397,
+      "token": "her",
+      "pos": "PRP$"
     },
     {
-      "input": 398,
-      "inputToken": "mouth",
-      "inputPos": "NN"
+      "index": 398,
+      "token": "mouth",
+      "pos": "NN"
     },
     {
-      "input": 399,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 399,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 400,
-      "inputToken": "lips",
-      "inputPos": "NNS"
+      "index": 400,
+      "token": "lips",
+      "pos": "NNS"
     },
     {
-      "input": 401,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 401,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 402,
-      "inputToken": "teeth",
-      "inputPos": "NNS"
+      "index": 402,
+      "token": "teeth",
+      "pos": "NNS"
     },
     {
-      "input": 403,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 403,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 404,
-      "inputToken": "`",
-      "inputPos": "``"
+      "index": 404,
+      "token": "`",
+      "pos": "``"
     },
     {
-      "input": 405,
-      "inputToken": "she",
-      "inputPos": "PRP"
+      "index": 405,
+      "token": "she",
+      "pos": "PRP"
     },
     {
-      "input": 406,
-      "inputToken": "'s",
-      "inputPos": "VBZ"
+      "index": 406,
+      "token": "'s",
+      "pos": "VBZ"
     },
     {
-      "input": 407,
-      "inputToken": "recovering",
-      "inputPos": "VBG"
+      "index": 407,
+      "token": "recovering",
+      "pos": "VBG"
     },
     {
-      "input": 408,
-      "inputToken": "ok",
-      "inputPos": "RB"
+      "index": 408,
+      "token": "ok",
+      "pos": "RB"
     },
     {
-      "input": 409,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 409,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 410,
-      "inputToken": "'",
-      "inputPos": "''"
+      "index": 410,
+      "token": "'",
+      "pos": "''"
     },
     {
-      "input": 411,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 411,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 412,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 412,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 413,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 413,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 414,
-      "inputToken": "mr.",
-      "inputPos": "NN"
+      "index": 414,
+      "token": "mr.",
+      "pos": "NN"
     },
     {
-      "input": 415,
-      "inputToken": "__tyrus__",
-      "inputPos": "NNP"
+      "index": 415,
+      "token": "__tyrus__",
+      "pos": "NNP"
     },
     {
-      "input": 416,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 416,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 417,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 417,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 418,
-      "inputToken": "violence",
-      "inputPos": "NN"
+      "index": 418,
+      "token": "violence",
+      "pos": "NN"
     },
     {
-      "input": 419,
-      "inputToken": "against",
-      "inputPos": "IN"
+      "index": 419,
+      "token": "against",
+      "pos": "IN"
     },
     {
-      "input": 420,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 420,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 421,
-      "inputToken": "staff",
-      "inputPos": "NN"
+      "index": 421,
+      "token": "staff",
+      "pos": "NN"
     },
     {
-      "input": 422,
-      "inputToken": "will",
-      "inputPos": "MD"
+      "index": 422,
+      "token": "will",
+      "pos": "MD"
     },
     {
-      "input": 423,
-      "inputToken": "not",
-      "inputPos": "RB"
+      "index": 423,
+      "token": "not",
+      "pos": "RB"
     },
     {
-      "input": 424,
-      "inputToken": "be",
-      "inputPos": "VB"
+      "index": 424,
+      "token": "be",
+      "pos": "VB"
     },
     {
-      "input": 425,
-      "inputToken": "tolerated",
-      "inputPos": "VBN"
+      "index": 425,
+      "token": "tolerated",
+      "pos": "VBN"
     },
     {
-      "input": 426,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 426,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 427,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 427,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 428,
-      "inputToken": "incident",
-      "inputPos": "NN"
+      "index": 428,
+      "token": "incident",
+      "pos": "NN"
     },
     {
-      "input": 429,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 429,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 430,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 430,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 431,
-      "inputToken": "investigated",
-      "inputPos": "VBN"
+      "index": 431,
+      "token": "investigated",
+      "pos": "VBN"
     },
     {
-      "input": 432,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 432,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 433,
-      "inputToken": "no",
-      "inputPos": "DT"
+      "index": 433,
+      "token": "no",
+      "pos": "DT"
     },
     {
-      "input": 434,
-      "inputToken": "charges",
-      "inputPos": "NNS"
+      "index": 434,
+      "token": "charges",
+      "pos": "NNS"
     },
     {
-      "input": 435,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 435,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 436,
-      "inputToken": "been",
-      "inputPos": "VBN"
+      "index": 436,
+      "token": "been",
+      "pos": "VBN"
     },
     {
-      "input": 437,
-      "inputToken": "laid",
-      "inputPos": "VBN"
+      "index": 437,
+      "token": "laid",
+      "pos": "VBN"
     },
     {
-      "input": 438,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 438,
+      "token": ".",
+      "pos": "."
     }
   ],
   "outputTokens": [

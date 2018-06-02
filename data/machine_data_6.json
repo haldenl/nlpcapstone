@@ -86003,5829 +86003,5829 @@
   ],
   "inputTokens": [
     {
-      "input": 0,
-      "inputToken": "-lrb-",
-      "inputPos": "IN"
+      "index": 0,
+      "token": "-lrb-",
+      "pos": "IN"
     },
     {
-      "input": 1,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 2,
-      "inputToken": "hollywood",
-      "inputPos": "NN"
+      "index": 2,
+      "token": "hollywood",
+      "pos": "NN"
     },
     {
-      "input": 3,
-      "inputToken": "reporter",
-      "inputPos": "NN"
+      "index": 3,
+      "token": "reporter",
+      "pos": "NN"
     },
     {
-      "input": 4,
-      "inputToken": "-rrb-",
-      "inputPos": "NNP"
+      "index": 4,
+      "token": "-rrb-",
+      "pos": "NNP"
     },
     {
-      "input": 5,
-      "inputToken": "albert",
-      "inputPos": "NN"
+      "index": 5,
+      "token": "albert",
+      "pos": "NN"
     },
     {
-      "input": 6,
-      "inputToken": "__maysles__",
-      "inputPos": "NNP"
+      "index": 6,
+      "token": "__maysles__",
+      "pos": "NNP"
     },
     {
-      "input": 7,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 7,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 8,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 8,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 9,
-      "inputToken": "collaborated",
-      "inputPos": "VBD"
+      "index": 9,
+      "token": "collaborated",
+      "pos": "VBD"
     },
     {
-      "input": 10,
-      "inputToken": "along",
-      "inputPos": "RB"
+      "index": 10,
+      "token": "along",
+      "pos": "RB"
     },
     {
-      "input": 11,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 11,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 12,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 12,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 13,
-      "inputToken": "late",
-      "inputPos": "JJ"
+      "index": 13,
+      "token": "late",
+      "pos": "JJ"
     },
     {
-      "input": 14,
-      "inputToken": "brother",
-      "inputPos": "NN"
+      "index": 14,
+      "token": "brother",
+      "pos": "NN"
     },
     {
-      "input": 15,
-      "inputToken": "david",
-      "inputPos": "NN"
+      "index": 15,
+      "token": "david",
+      "pos": "NN"
     },
     {
-      "input": 16,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 16,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 17,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 17,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 18,
-      "inputToken": "documentary",
-      "inputPos": "JJ"
+      "index": 18,
+      "token": "documentary",
+      "pos": "JJ"
     },
     {
-      "input": 19,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 19,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 20,
-      "inputToken": "career",
-      "inputPos": "NN"
+      "index": 20,
+      "token": "career",
+      "pos": "NN"
     },
     {
-      "input": 21,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 21,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 22,
-      "inputToken": "included",
-      "inputPos": "VBD"
+      "index": 22,
+      "token": "included",
+      "pos": "VBD"
     },
     {
-      "input": 23,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 23,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 24,
-      "inputToken": "troubling",
-      "inputPos": "JJ"
+      "index": 24,
+      "token": "troubling",
+      "pos": "JJ"
     },
     {
-      "input": 25,
-      "inputToken": "1970",
-      "inputPos": "CD"
+      "index": 25,
+      "token": "1970",
+      "pos": "CD"
     },
     {
-      "input": 26,
-      "inputToken": "concert",
-      "inputPos": "NN"
+      "index": 26,
+      "token": "concert",
+      "pos": "NN"
     },
     {
-      "input": 27,
-      "inputToken": "documentary",
-      "inputPos": "JJ"
+      "index": 27,
+      "token": "documentary",
+      "pos": "JJ"
     },
     {
-      "input": 28,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 28,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 29,
-      "inputToken": "gim",
-      "inputPos": "FW"
+      "index": 29,
+      "token": "gim",
+      "pos": "FW"
     },
     {
-      "input": 30,
-      "inputToken": "me",
-      "inputPos": "PRP"
+      "index": 30,
+      "token": "me",
+      "pos": "PRP"
     },
     {
-      "input": 31,
-      "inputToken": "shelter",
-      "inputPos": "NN"
+      "index": 31,
+      "token": "shelter",
+      "pos": "NN"
     },
     {
-      "input": 32,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 32,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 33,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 33,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 34,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 34,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 35,
-      "inputToken": "died",
-      "inputPos": "VBN"
+      "index": 35,
+      "token": "died",
+      "pos": "VBN"
     },
     {
-      "input": 36,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 36,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 37,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 37,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 38,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 38,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 39,
-      "inputToken": "88",
-      "inputPos": "CD"
+      "index": 39,
+      "token": "88",
+      "pos": "CD"
     },
     {
-      "input": 40,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 40,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 41,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 41,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 42,
-      "inputToken": "director",
-      "inputPos": "NN"
+      "index": 42,
+      "token": "director",
+      "pos": "NN"
     },
     {
-      "input": 43,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 43,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 44,
-      "inputToken": "cinematographer",
-      "inputPos": "NN"
+      "index": 44,
+      "token": "cinematographer",
+      "pos": "NN"
     },
     {
-      "input": 45,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 45,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 46,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 46,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 47,
-      "inputToken": "oscar",
-      "inputPos": "NN"
+      "index": 47,
+      "token": "oscar",
+      "pos": "NN"
     },
     {
-      "input": 48,
-      "inputToken": "nominee",
-      "inputPos": "NN"
+      "index": 48,
+      "token": "nominee",
+      "pos": "NN"
     },
     {
-      "input": 49,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 49,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 50,
-      "inputToken": "died",
-      "inputPos": "VBD"
+      "index": 50,
+      "token": "died",
+      "pos": "VBD"
     },
     {
-      "input": 51,
-      "inputToken": "thursday",
-      "inputPos": "NN"
+      "index": 51,
+      "token": "thursday",
+      "pos": "NN"
     },
     {
-      "input": 52,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 52,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 53,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 53,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 54,
-      "inputToken": "home",
-      "inputPos": "NN"
+      "index": 54,
+      "token": "home",
+      "pos": "NN"
     },
     {
-      "input": 55,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 55,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 56,
-      "inputToken": "manhattan",
-      "inputPos": "NN"
+      "index": 56,
+      "token": "manhattan",
+      "pos": "NN"
     },
     {
-      "input": 57,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 57,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 58,
-      "inputToken": "natural",
-      "inputPos": "JJ"
+      "index": 58,
+      "token": "natural",
+      "pos": "JJ"
     },
     {
-      "input": 59,
-      "inputToken": "causes",
-      "inputPos": "NNS"
+      "index": 59,
+      "token": "causes",
+      "pos": "NNS"
     },
     {
-      "input": 60,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 60,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 61,
-      "inputToken": "stacey",
-      "inputPos": "JJ"
+      "index": 61,
+      "token": "stacey",
+      "pos": "JJ"
     },
     {
-      "input": 62,
-      "inputToken": "farrar",
-      "inputPos": "NN"
+      "index": 62,
+      "token": "farrar",
+      "pos": "NN"
     },
     {
-      "input": 63,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 63,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 64,
-      "inputToken": "marketing",
-      "inputPos": "NN"
+      "index": 64,
+      "token": "marketing",
+      "pos": "NN"
     },
     {
-      "input": 65,
-      "inputToken": "director",
-      "inputPos": "NN"
+      "index": 65,
+      "token": "director",
+      "pos": "NN"
     },
     {
-      "input": 66,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 66,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 67,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 67,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 68,
-      "inputToken": "__maysles__",
-      "inputPos": "NNP"
+      "index": 68,
+      "token": "__maysles__",
+      "pos": "NNP"
     },
     {
-      "input": 69,
-      "inputToken": "center",
-      "inputPos": "NN"
+      "index": 69,
+      "token": "center",
+      "pos": "NN"
     },
     {
-      "input": 70,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 70,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 71,
-      "inputToken": "new",
-      "inputPos": "JJ"
+      "index": 71,
+      "token": "new",
+      "pos": "JJ"
     },
     {
-      "input": 72,
-      "inputToken": "york",
-      "inputPos": "NN"
+      "index": 72,
+      "token": "york",
+      "pos": "NN"
     },
     {
-      "input": 73,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 73,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 74,
-      "inputToken": "confirmed",
-      "inputPos": "VBN"
+      "index": 74,
+      "token": "confirmed",
+      "pos": "VBN"
     },
     {
-      "input": 75,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 75,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 76,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 76,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 77,
-      "inputToken": "hollywood",
-      "inputPos": "NN"
+      "index": 77,
+      "token": "hollywood",
+      "pos": "NN"
     },
     {
-      "input": 78,
-      "inputToken": "reporter",
-      "inputPos": "NN"
+      "index": 78,
+      "token": "reporter",
+      "pos": "NN"
     },
     {
-      "input": 79,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 79,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 80,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 80,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 81,
-      "inputToken": "gim",
-      "inputPos": "VB"
+      "index": 81,
+      "token": "gim",
+      "pos": "VB"
     },
     {
-      "input": 82,
-      "inputToken": "me",
-      "inputPos": "PRP"
+      "index": 82,
+      "token": "me",
+      "pos": "PRP"
     },
     {
-      "input": 83,
-      "inputToken": "shelter",
-      "inputPos": "JJR"
+      "index": 83,
+      "token": "shelter",
+      "pos": "JJR"
     },
     {
-      "input": 84,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 84,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 85,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 85,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 86,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 86,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 87,
-      "inputToken": "chronicled",
-      "inputPos": "VBD"
+      "index": 87,
+      "token": "chronicled",
+      "pos": "VBD"
     },
     {
-      "input": 88,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 88,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 89,
-      "inputToken": "1969",
-      "inputPos": "CD"
+      "index": 89,
+      "token": "1969",
+      "pos": "CD"
     },
     {
-      "input": 90,
-      "inputToken": "rolling",
-      "inputPos": "VBG"
+      "index": 90,
+      "token": "rolling",
+      "pos": "VBG"
     },
     {
-      "input": 91,
-      "inputToken": "stones",
-      "inputPos": "NNS"
+      "index": 91,
+      "token": "stones",
+      "pos": "NNS"
     },
     {
-      "input": 92,
-      "inputToken": "tour",
-      "inputPos": "VBP"
+      "index": 92,
+      "token": "tour",
+      "pos": "VBP"
     },
     {
-      "input": 93,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 93,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 94,
-      "inputToken": "culminated",
-      "inputPos": "VBN"
+      "index": 94,
+      "token": "culminated",
+      "pos": "VBN"
     },
     {
-      "input": 95,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 95,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 96,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 96,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 97,
-      "inputToken": "__altamont__",
-      "inputPos": "NNP"
+      "index": 97,
+      "token": "__altamont__",
+      "pos": "NNP"
     },
     {
-      "input": 98,
-      "inputToken": "free",
-      "inputPos": "JJ"
+      "index": 98,
+      "token": "free",
+      "pos": "JJ"
     },
     {
-      "input": 99,
-      "inputToken": "concert",
-      "inputPos": "NN"
+      "index": 99,
+      "token": "concert",
+      "pos": "NN"
     },
     {
-      "input": 100,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 100,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 101,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 101,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 102,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 102,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 103,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 103,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 104,
-      "inputToken": "fan",
-      "inputPos": "NN"
+      "index": 104,
+      "token": "fan",
+      "pos": "NN"
     },
     {
-      "input": 105,
-      "inputToken": "brandishing",
-      "inputPos": "VBG"
+      "index": 105,
+      "token": "brandishing",
+      "pos": "VBG"
     },
     {
-      "input": 106,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 106,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 107,
-      "inputToken": "gun",
-      "inputPos": "NN"
+      "index": 107,
+      "token": "gun",
+      "pos": "NN"
     },
     {
-      "input": 108,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 108,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 109,
-      "inputToken": "stabbed",
-      "inputPos": "VBN"
+      "index": 109,
+      "token": "stabbed",
+      "pos": "VBN"
     },
     {
-      "input": 110,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 110,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 111,
-      "inputToken": "death",
-      "inputPos": "NN"
+      "index": 111,
+      "token": "death",
+      "pos": "NN"
     },
     {
-      "input": 112,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 112,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 113,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 113,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 114,
-      "inputToken": "hells",
-      "inputPos": "NNS"
+      "index": 114,
+      "token": "hells",
+      "pos": "NNS"
     },
     {
-      "input": 115,
-      "inputToken": "angels",
-      "inputPos": "JJ"
+      "index": 115,
+      "token": "angels",
+      "pos": "JJ"
     },
     {
-      "input": 116,
-      "inputToken": "security",
-      "inputPos": "NN"
+      "index": 116,
+      "token": "security",
+      "pos": "NN"
     },
     {
-      "input": 117,
-      "inputToken": "man",
-      "inputPos": "NN"
+      "index": 117,
+      "token": "man",
+      "pos": "NN"
     },
     {
-      "input": 118,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 118,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 119,
-      "inputToken": "stood",
-      "inputPos": "VBD"
+      "index": 119,
+      "token": "stood",
+      "pos": "VBD"
     },
     {
-      "input": 120,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 120,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 121,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 121,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 122,
-      "inputToken": "stark",
-      "inputPos": "NN"
+      "index": 122,
+      "token": "stark",
+      "pos": "NN"
     },
     {
-      "input": 123,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 123,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 124,
-      "inputToken": "more",
-      "inputPos": "JJR"
+      "index": 124,
+      "token": "more",
+      "pos": "JJR"
     },
     {
-      "input": 125,
-      "inputToken": "enduring",
-      "inputPos": "VBG"
+      "index": 125,
+      "token": "enduring",
+      "pos": "VBG"
     },
     {
-      "input": 126,
-      "inputToken": "counterpoint",
-      "inputPos": "NN"
+      "index": 126,
+      "token": "counterpoint",
+      "pos": "NN"
     },
     {
-      "input": 127,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 127,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 128,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 128,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 129,
-      "inputToken": "myth",
-      "inputPos": "NN"
+      "index": 129,
+      "token": "myth",
+      "pos": "NN"
     },
     {
-      "input": 130,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 130,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 131,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 131,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 132,
-      "inputToken": "documentary",
-      "inputPos": "JJ"
+      "index": 132,
+      "token": "documentary",
+      "pos": "JJ"
     },
     {
-      "input": 133,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 133,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 134,
-      "inputToken": "woodstock",
-      "inputPos": "NN"
+      "index": 134,
+      "token": "woodstock",
+      "pos": "NN"
     },
     {
-      "input": 135,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 135,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 136,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 136,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 137,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 137,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 138,
-      "inputToken": "depiction",
-      "inputPos": "NN"
+      "index": 138,
+      "token": "depiction",
+      "pos": "NN"
     },
     {
-      "input": 139,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 139,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 140,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 140,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 141,
-      "inputToken": "glorified",
-      "inputPos": "JJ"
+      "index": 141,
+      "token": "glorified",
+      "pos": "JJ"
     },
     {
-      "input": 142,
-      "inputToken": "1969",
-      "inputPos": "CD"
+      "index": 142,
+      "token": "1969",
+      "pos": "CD"
     },
     {
-      "input": 143,
-      "inputToken": "free",
-      "inputPos": "JJ"
+      "index": 143,
+      "token": "free",
+      "pos": "JJ"
     },
     {
-      "input": 144,
-      "inputToken": "concert",
-      "inputPos": "NN"
+      "index": 144,
+      "token": "concert",
+      "pos": "NN"
     },
     {
-      "input": 145,
-      "inputToken": "whose",
-      "inputPos": "WP$"
+      "index": 145,
+      "token": "whose",
+      "pos": "WP$"
     },
     {
-      "input": 146,
-      "inputToken": "own",
-      "inputPos": "JJ"
+      "index": 146,
+      "token": "own",
+      "pos": "JJ"
     },
     {
-      "input": 147,
-      "inputToken": "dark",
-      "inputPos": "JJ"
+      "index": 147,
+      "token": "dark",
+      "pos": "JJ"
     },
     {
-      "input": 148,
-      "inputToken": "side",
-      "inputPos": "NN"
+      "index": 148,
+      "token": "side",
+      "pos": "NN"
     },
     {
-      "input": 149,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 149,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 150,
-      "inputToken": "left",
-      "inputPos": "VBN"
+      "index": 150,
+      "token": "left",
+      "pos": "VBN"
     },
     {
-      "input": 151,
-      "inputToken": "out",
-      "inputPos": "RP"
+      "index": 151,
+      "token": "out",
+      "pos": "RP"
     },
     {
-      "input": 152,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 152,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 153,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 153,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 154,
-      "inputToken": "__pre-conceived__",
-      "inputPos": "JJ"
+      "index": 154,
+      "token": "__pre-conceived__",
+      "pos": "JJ"
     },
     {
-      "input": 155,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 155,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 156,
-      "inputToken": "celebratory",
-      "inputPos": "JJ"
+      "index": 156,
+      "token": "celebratory",
+      "pos": "JJ"
     },
     {
-      "input": 157,
-      "inputToken": "style",
-      "inputPos": "NN"
+      "index": 157,
+      "token": "style",
+      "pos": "NN"
     },
     {
-      "input": 158,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 158,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 159,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 159,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 160,
-      "inputToken": "most",
-      "inputPos": "RBS"
+      "index": 160,
+      "token": "most",
+      "pos": "RBS"
     },
     {
-      "input": 161,
-      "inputToken": "well-known",
-      "inputPos": "JJ"
+      "index": 161,
+      "token": "well-known",
+      "pos": "JJ"
     },
     {
-      "input": 162,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 162,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 163,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 163,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 164,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 164,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 165,
-      "inputToken": "grey",
-      "inputPos": "NN"
+      "index": 165,
+      "token": "grey",
+      "pos": "NN"
     },
     {
-      "input": 166,
-      "inputToken": "gardens",
-      "inputPos": "NNS"
+      "index": 166,
+      "token": "gardens",
+      "pos": "NNS"
     },
     {
-      "input": 167,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 167,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 168,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 168,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 169,
-      "inputToken": "1975",
-      "inputPos": "CD"
+      "index": 169,
+      "token": "1975",
+      "pos": "CD"
     },
     {
-      "input": 170,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 170,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 171,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 171,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 172,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 172,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 173,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 173,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 174,
-      "inputToken": "profile",
-      "inputPos": "NN"
+      "index": 174,
+      "token": "profile",
+      "pos": "NN"
     },
     {
-      "input": 175,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 175,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 176,
-      "inputToken": "jacqueline",
-      "inputPos": "JJ"
+      "index": 176,
+      "token": "jacqueline",
+      "pos": "JJ"
     },
     {
-      "input": 177,
-      "inputToken": "onassis",
-      "inputPos": "NN"
+      "index": 177,
+      "token": "onassis",
+      "pos": "NN"
     },
     {
-      "input": 178,
-      "inputToken": "'",
-      "inputPos": "POS"
+      "index": 178,
+      "token": "'",
+      "pos": "POS"
     },
     {
-      "input": 179,
-      "inputToken": "eccentric",
-      "inputPos": "JJ"
+      "index": 179,
+      "token": "eccentric",
+      "pos": "JJ"
     },
     {
-      "input": 180,
-      "inputToken": "cousins",
-      "inputPos": "NNS"
+      "index": 180,
+      "token": "cousins",
+      "pos": "NNS"
     },
     {
-      "input": 181,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 181,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 182,
-      "inputToken": "mother",
-      "inputPos": "NN"
+      "index": 182,
+      "token": "mother",
+      "pos": "NN"
     },
     {
-      "input": 183,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 183,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 184,
-      "inputToken": "daughter",
-      "inputPos": "NN"
+      "index": 184,
+      "token": "daughter",
+      "pos": "NN"
     },
     {
-      "input": 185,
-      "inputToken": "big",
-      "inputPos": "JJ"
+      "index": 185,
+      "token": "big",
+      "pos": "JJ"
     },
     {
-      "input": 186,
-      "inputToken": "edie",
-      "inputPos": "NN"
+      "index": 186,
+      "token": "edie",
+      "pos": "NN"
     },
     {
-      "input": 187,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 187,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 188,
-      "inputToken": "little",
-      "inputPos": "JJ"
+      "index": 188,
+      "token": "little",
+      "pos": "JJ"
     },
     {
-      "input": 189,
-      "inputToken": "edie",
-      "inputPos": "JJ"
+      "index": 189,
+      "token": "edie",
+      "pos": "JJ"
     },
     {
-      "input": 190,
-      "inputToken": "bouvier",
-      "inputPos": "JJR"
+      "index": 190,
+      "token": "bouvier",
+      "pos": "JJR"
     },
     {
-      "input": 191,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 191,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 192,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 192,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 193,
-      "inputToken": "lived",
-      "inputPos": "VBD"
+      "index": 193,
+      "token": "lived",
+      "pos": "VBD"
     },
     {
-      "input": 194,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 194,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 195,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 195,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 196,
-      "inputToken": "dilapidated",
-      "inputPos": "JJ"
+      "index": 196,
+      "token": "dilapidated",
+      "pos": "JJ"
     },
     {
-      "input": 197,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 197,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 198,
-      "inputToken": "__cat-packed__",
-      "inputPos": "JJ"
+      "index": 198,
+      "token": "__cat-packed__",
+      "pos": "JJ"
     },
     {
-      "input": 199,
-      "inputToken": "estate",
-      "inputPos": "NN"
+      "index": 199,
+      "token": "estate",
+      "pos": "NN"
     },
     {
-      "input": 200,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 200,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 201,
-      "inputToken": "east",
-      "inputPos": "JJ"
+      "index": 201,
+      "token": "east",
+      "pos": "JJ"
     },
     {
-      "input": 202,
-      "inputToken": "hampton",
-      "inputPos": "NN"
+      "index": 202,
+      "token": "hampton",
+      "pos": "NN"
     },
     {
-      "input": 203,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 203,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 204,
-      "inputToken": "new",
-      "inputPos": "JJ"
+      "index": 204,
+      "token": "new",
+      "pos": "JJ"
     },
     {
-      "input": 205,
-      "inputToken": "york",
-      "inputPos": "NN"
+      "index": 205,
+      "token": "york",
+      "pos": "NN"
     },
     {
-      "input": 206,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 206,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 207,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 207,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 208,
-      "inputToken": "brothers",
-      "inputPos": "NNS"
+      "index": 208,
+      "token": "brothers",
+      "pos": "NNS"
     },
     {
-      "input": 209,
-      "inputToken": "worked",
-      "inputPos": "VBD"
+      "index": 209,
+      "token": "worked",
+      "pos": "VBD"
     },
     {
-      "input": 210,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 210,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 211,
-      "inputToken": "fellow",
-      "inputPos": "JJ"
+      "index": 211,
+      "token": "fellow",
+      "pos": "JJ"
     },
     {
-      "input": 212,
-      "inputToken": "directors",
-      "inputPos": "NNS"
+      "index": 212,
+      "token": "directors",
+      "pos": "NNS"
     },
     {
-      "input": 213,
-      "inputToken": "ellen",
-      "inputPos": "VBP"
+      "index": 213,
+      "token": "ellen",
+      "pos": "VBP"
     },
     {
-      "input": 214,
-      "inputToken": "__hovde__",
-      "inputPos": "NNS"
+      "index": 214,
+      "token": "__hovde__",
+      "pos": "NNS"
     },
     {
-      "input": 215,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 215,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 216,
-      "inputToken": "__muffie__",
-      "inputPos": "NNP"
+      "index": 216,
+      "token": "__muffie__",
+      "pos": "NNP"
     },
     {
-      "input": 217,
-      "inputToken": "meyer",
-      "inputPos": "NN"
+      "index": 217,
+      "token": "meyer",
+      "pos": "NN"
     },
     {
-      "input": 218,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 218,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 219,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 219,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 220,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 220,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 221,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 221,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 222,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 222,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 223,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 223,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 224,
-      "inputToken": "remade",
-      "inputPos": "VBN"
+      "index": 224,
+      "token": "remade",
+      "pos": "VBN"
     },
     {
-      "input": 225,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 225,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 226,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 226,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 227,
-      "inputToken": "__tony-winning__",
-      "inputPos": "JJ"
+      "index": 227,
+      "token": "__tony-winning__",
+      "pos": "JJ"
     },
     {
-      "input": 228,
-      "inputToken": "broadway",
-      "inputPos": "NN"
+      "index": 228,
+      "token": "broadway",
+      "pos": "NN"
     },
     {
-      "input": 229,
-      "inputToken": "play",
-      "inputPos": "NN"
+      "index": 229,
+      "token": "play",
+      "pos": "NN"
     },
     {
-      "input": 230,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 230,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 231,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 231,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 232,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 232,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 233,
-      "inputToken": "award-winning",
-      "inputPos": "JJ"
+      "index": 233,
+      "token": "award-winning",
+      "pos": "JJ"
     },
     {
-      "input": 234,
-      "inputToken": "2009",
-      "inputPos": "CD"
+      "index": 234,
+      "token": "2009",
+      "pos": "CD"
     },
     {
-      "input": 235,
-      "inputToken": "hbo",
-      "inputPos": "NN"
+      "index": 235,
+      "token": "hbo",
+      "pos": "NN"
     },
     {
-      "input": 236,
-      "inputToken": "drama",
-      "inputPos": "NN"
+      "index": 236,
+      "token": "drama",
+      "pos": "NN"
     },
     {
-      "input": 237,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 237,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 238,
-      "inputToken": "starred",
-      "inputPos": "VBD"
+      "index": 238,
+      "token": "starred",
+      "pos": "VBD"
     },
     {
-      "input": 239,
-      "inputToken": "drew",
-      "inputPos": "VBD"
+      "index": 239,
+      "token": "drew",
+      "pos": "VBD"
     },
     {
-      "input": 240,
-      "inputToken": "barrymore",
-      "inputPos": "RB"
+      "index": 240,
+      "token": "barrymore",
+      "pos": "RB"
     },
     {
-      "input": 241,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 241,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 242,
-      "inputToken": "jessica",
-      "inputPos": "JJ"
+      "index": 242,
+      "token": "jessica",
+      "pos": "JJ"
     },
     {
-      "input": 243,
-      "inputToken": "lange",
-      "inputPos": "NN"
+      "index": 243,
+      "token": "lange",
+      "pos": "NN"
     },
     {
-      "input": 244,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 244,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 245,
-      "inputToken": "just",
-      "inputPos": "RB"
+      "index": 245,
+      "token": "just",
+      "pos": "RB"
     },
     {
-      "input": 246,
-      "inputToken": "prior",
-      "inputPos": "RB"
+      "index": 246,
+      "token": "prior",
+      "pos": "RB"
     },
     {
-      "input": 247,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 247,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 248,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 248,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 249,
-      "inputToken": "gim",
-      "inputPos": "VB"
+      "index": 249,
+      "token": "gim",
+      "pos": "VB"
     },
     {
-      "input": 250,
-      "inputToken": "me",
-      "inputPos": "PRP"
+      "index": 250,
+      "token": "me",
+      "pos": "PRP"
     },
     {
-      "input": 251,
-      "inputToken": "shelter",
-      "inputPos": "JJR"
+      "index": 251,
+      "token": "shelter",
+      "pos": "JJR"
     },
     {
-      "input": 252,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 252,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 253,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 253,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 254,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 254,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 255,
-      "inputToken": "filmed",
-      "inputPos": "VBD"
+      "index": 255,
+      "token": "filmed",
+      "pos": "VBD"
     },
     {
-      "input": 256,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 256,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 257,
-      "inputToken": "salesman",
-      "inputPos": "NN"
+      "index": 257,
+      "token": "salesman",
+      "pos": "NN"
     },
     {
-      "input": 258,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 258,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 259,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 259,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 260,
-      "inputToken": "1969",
-      "inputPos": "CD"
+      "index": 260,
+      "token": "1969",
+      "pos": "CD"
     },
     {
-      "input": 261,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 261,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 262,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 262,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 263,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 263,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 264,
-      "inputToken": "covered",
-      "inputPos": "VBD"
+      "index": 264,
+      "token": "covered",
+      "pos": "VBD"
     },
     {
-      "input": 265,
-      "inputToken": "six",
-      "inputPos": "CD"
+      "index": 265,
+      "token": "six",
+      "pos": "CD"
     },
     {
-      "input": 266,
-      "inputToken": "weeks",
-      "inputPos": "NNS"
+      "index": 266,
+      "token": "weeks",
+      "pos": "NNS"
     },
     {
-      "input": 267,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 267,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 268,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 268,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 269,
-      "inputToken": "lives",
-      "inputPos": "NNS"
+      "index": 269,
+      "token": "lives",
+      "pos": "NNS"
     },
     {
-      "input": 270,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 270,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 271,
-      "inputToken": "four",
-      "inputPos": "CD"
+      "index": 271,
+      "token": "four",
+      "pos": "CD"
     },
     {
-      "input": 272,
-      "inputToken": "door-to-door",
-      "inputPos": "JJ"
+      "index": 272,
+      "token": "door-to-door",
+      "pos": "JJ"
     },
     {
-      "input": 273,
-      "inputToken": "bible",
-      "inputPos": "JJ"
+      "index": 273,
+      "token": "bible",
+      "pos": "JJ"
     },
     {
-      "input": 274,
-      "inputToken": "salesmen",
-      "inputPos": "NNS"
+      "index": 274,
+      "token": "salesmen",
+      "pos": "NNS"
     },
     {
-      "input": 275,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 275,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 276,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 276,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 277,
-      "inputToken": "brothers",
-      "inputPos": "NNS"
+      "index": 277,
+      "token": "brothers",
+      "pos": "NNS"
     },
     {
-      "input": 278,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 278,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 279,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 279,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 280,
-      "inputToken": "preferred",
-      "inputPos": "VBD"
+      "index": 280,
+      "token": "preferred",
+      "pos": "VBD"
     },
     {
-      "input": 281,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 281,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 282,
-      "inputToken": "moniker",
-      "inputPos": "NN"
+      "index": 282,
+      "token": "moniker",
+      "pos": "NN"
     },
     {
-      "input": 283,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 283,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 284,
-      "inputToken": "filmmaker",
-      "inputPos": "NN"
+      "index": 284,
+      "token": "filmmaker",
+      "pos": "NN"
     },
     {
-      "input": 285,
-      "inputToken": "rather",
-      "inputPos": "RB"
+      "index": 285,
+      "token": "rather",
+      "pos": "RB"
     },
     {
-      "input": 286,
-      "inputToken": "than",
-      "inputPos": "IN"
+      "index": 286,
+      "token": "than",
+      "pos": "IN"
     },
     {
-      "input": 287,
-      "inputToken": "director",
-      "inputPos": "NN"
+      "index": 287,
+      "token": "director",
+      "pos": "NN"
     },
     {
-      "input": 288,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 288,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 289,
-      "inputToken": "often",
-      "inputPos": "RB"
+      "index": 289,
+      "token": "often",
+      "pos": "RB"
     },
     {
-      "input": 290,
-      "inputToken": "focused",
-      "inputPos": "VBN"
+      "index": 290,
+      "token": "focused",
+      "pos": "VBN"
     },
     {
-      "input": 291,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 291,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 292,
-      "inputToken": "musical",
-      "inputPos": "JJ"
+      "index": 292,
+      "token": "musical",
+      "pos": "JJ"
     },
     {
-      "input": 293,
-      "inputToken": "figures",
-      "inputPos": "NNS"
+      "index": 293,
+      "token": "figures",
+      "pos": "NNS"
     },
     {
-      "input": 294,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 294,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 295,
-      "inputToken": "__maysles__",
-      "inputPos": "NN"
+      "index": 295,
+      "token": "__maysles__",
+      "pos": "NN"
     },
     {
-      "input": 296,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 296,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 297,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 297,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 298,
-      "inputToken": "cameraman",
-      "inputPos": "NN"
+      "index": 298,
+      "token": "cameraman",
+      "pos": "NN"
     },
     {
-      "input": 299,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 299,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 300,
-      "inputToken": "d.a.",
-      "inputPos": "NN"
+      "index": 300,
+      "token": "d.a.",
+      "pos": "NN"
     },
     {
-      "input": 301,
-      "inputToken": "__pennebaker__",
-      "inputPos": "NNP"
+      "index": 301,
+      "token": "__pennebaker__",
+      "pos": "NNP"
     },
     {
-      "input": 302,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 302,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 303,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 303,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 304,
-      "inputToken": "monterey",
-      "inputPos": "FW"
+      "index": 304,
+      "token": "monterey",
+      "pos": "FW"
     },
     {
-      "input": 305,
-      "inputToken": "pop",
-      "inputPos": "NN"
+      "index": 305,
+      "token": "pop",
+      "pos": "NN"
     },
     {
-      "input": 306,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 306,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 307,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 307,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 308,
-      "inputToken": "1968",
-      "inputPos": "CD"
+      "index": 308,
+      "token": "1968",
+      "pos": "CD"
     },
     {
-      "input": 309,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 309,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 310,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 310,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 311,
-      "inputToken": "about",
-      "inputPos": "IN"
+      "index": 311,
+      "token": "about",
+      "pos": "IN"
     },
     {
-      "input": 312,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 312,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 313,
-      "inputToken": "celebrated",
-      "inputPos": "VBN"
+      "index": 313,
+      "token": "celebrated",
+      "pos": "VBN"
     },
     {
-      "input": 314,
-      "inputToken": "california",
-      "inputPos": "NN"
+      "index": 314,
+      "token": "california",
+      "pos": "NN"
     },
     {
-      "input": 315,
-      "inputToken": "music",
-      "inputPos": "NN"
+      "index": 315,
+      "token": "music",
+      "pos": "NN"
     },
     {
-      "input": 316,
-      "inputToken": "festival",
-      "inputPos": "NN"
+      "index": 316,
+      "token": "festival",
+      "pos": "NN"
     },
     {
-      "input": 317,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 317,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 318,
-      "inputToken": "featured",
-      "inputPos": "VBD"
+      "index": 318,
+      "token": "featured",
+      "pos": "VBD"
     },
     {
-      "input": 319,
-      "inputToken": "electrifying",
-      "inputPos": "VBG"
+      "index": 319,
+      "token": "electrifying",
+      "pos": "VBG"
     },
     {
-      "input": 320,
-      "inputToken": "performances",
-      "inputPos": "NNS"
+      "index": 320,
+      "token": "performances",
+      "pos": "NNS"
     },
     {
-      "input": 321,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 321,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 322,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 322,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 323,
-      "inputToken": "likes",
-      "inputPos": "NNS"
+      "index": 323,
+      "token": "likes",
+      "pos": "NNS"
     },
     {
-      "input": 324,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 324,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 325,
-      "inputToken": "jimi",
-      "inputPos": "NN"
+      "index": 325,
+      "token": "jimi",
+      "pos": "NN"
     },
     {
-      "input": 326,
-      "inputToken": "hendrix",
-      "inputPos": "NN"
+      "index": 326,
+      "token": "hendrix",
+      "pos": "NN"
     },
     {
-      "input": 327,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 327,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 328,
-      "inputToken": "janis",
-      "inputPos": "NN"
+      "index": 328,
+      "token": "janis",
+      "pos": "NN"
     },
     {
-      "input": 329,
-      "inputToken": "joplin",
-      "inputPos": "NN"
+      "index": 329,
+      "token": "joplin",
+      "pos": "NN"
     },
     {
-      "input": 330,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 330,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 331,
-      "inputToken": "__tcm__",
-      "inputPos": "JJ"
+      "index": 331,
+      "token": "__tcm__",
+      "pos": "JJ"
     },
     {
-      "input": 332,
-      "inputToken": "classic",
-      "inputPos": "JJ"
+      "index": 332,
+      "token": "classic",
+      "pos": "JJ"
     },
     {
-      "input": 333,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 333,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 334,
-      "inputToken": "fest",
-      "inputPos": "NN"
+      "index": 334,
+      "token": "fest",
+      "pos": "NN"
     },
     {
-      "input": 335,
-      "inputToken": ":",
-      "inputPos": ":"
+      "index": 335,
+      "token": ":",
+      "pos": ":"
     },
     {
-      "input": 336,
-      "inputToken": "albert",
-      "inputPos": "JJ"
+      "index": 336,
+      "token": "albert",
+      "pos": "JJ"
     },
     {
-      "input": 337,
-      "inputToken": "__maysles__",
-      "inputPos": "NN"
+      "index": 337,
+      "token": "__maysles__",
+      "pos": "NN"
     },
     {
-      "input": 338,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 338,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 339,
-      "inputToken": "freeing",
-      "inputPos": "VBG"
+      "index": 339,
+      "token": "freeing",
+      "pos": "VBG"
     },
     {
-      "input": 340,
-      "inputToken": "cameras",
-      "inputPos": "NNS"
+      "index": 340,
+      "token": "cameras",
+      "pos": "NNS"
     },
     {
-      "input": 341,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 341,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 342,
-      "inputToken": "capturing",
-      "inputPos": "VBG"
+      "index": 342,
+      "token": "capturing",
+      "pos": "VBG"
     },
     {
-      "input": 343,
-      "inputToken": "truths",
-      "inputPos": "NNS"
+      "index": 343,
+      "token": "truths",
+      "pos": "NNS"
     },
     {
-      "input": 344,
-      "inputToken": "-lrb-",
-      "inputPos": "NNP"
+      "index": 344,
+      "token": "-lrb-",
+      "pos": "NNP"
     },
     {
-      "input": 345,
-      "inputToken": "video",
-      "inputPos": "NN"
+      "index": 345,
+      "token": "video",
+      "pos": "NN"
     },
     {
-      "input": 346,
-      "inputToken": "-rrb-",
-      "inputPos": "NNP"
+      "index": 346,
+      "token": "-rrb-",
+      "pos": "NNP"
     },
     {
-      "input": 347,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 347,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 348,
-      "inputToken": "during",
-      "inputPos": "IN"
+      "index": 348,
+      "token": "during",
+      "pos": "IN"
     },
     {
-      "input": 349,
-      "inputToken": "that",
-      "inputPos": "DT"
+      "index": 349,
+      "token": "that",
+      "pos": "DT"
     },
     {
-      "input": 350,
-      "inputToken": "period",
-      "inputPos": "NN"
+      "index": 350,
+      "token": "period",
+      "pos": "NN"
     },
     {
-      "input": 351,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 351,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 352,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 352,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 353,
-      "inputToken": "career",
-      "inputPos": "NN"
+      "index": 353,
+      "token": "career",
+      "pos": "NN"
     },
     {
-      "input": 354,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 354,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 355,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 355,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 356,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 356,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 357,
-      "inputToken": "collaborated",
-      "inputPos": "VBD"
+      "index": 357,
+      "token": "collaborated",
+      "pos": "VBD"
     },
     {
-      "input": 358,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 358,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 359,
-      "inputToken": "such",
-      "inputPos": "JJ"
+      "index": 359,
+      "token": "such",
+      "pos": "JJ"
     },
     {
-      "input": 360,
-      "inputToken": "direct",
-      "inputPos": "JJ"
+      "index": 360,
+      "token": "direct",
+      "pos": "JJ"
     },
     {
-      "input": 361,
-      "inputToken": "cinemas",
-      "inputPos": "NN"
+      "index": 361,
+      "token": "cinemas",
+      "pos": "NN"
     },
     {
-      "input": 362,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 362,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 363,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 363,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 364,
-      "inputToken": "what",
-      "inputPos": "WP"
+      "index": 364,
+      "token": "what",
+      "pos": "WP"
     },
     {
-      "input": 365,
-      "inputToken": "'s",
-      "inputPos": "VBZ"
+      "index": 365,
+      "token": "'s",
+      "pos": "VBZ"
     },
     {
-      "input": 366,
-      "inputToken": "happening",
-      "inputPos": "VBG"
+      "index": 366,
+      "token": "happening",
+      "pos": "VBG"
     },
     {
-      "input": 367,
-      "inputToken": "!",
-      "inputPos": "."
+      "index": 367,
+      "token": "!",
+      "pos": "."
     },
     {
-      "input": 368,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 368,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 369,
-      "inputToken": "beatles",
-      "inputPos": "NNS"
+      "index": 369,
+      "token": "beatles",
+      "pos": "NNS"
     },
     {
-      "input": 370,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 370,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 371,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 371,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 372,
-      "inputToken": "u.s.a.",
-      "inputPos": "NN"
+      "index": 372,
+      "token": "u.s.a.",
+      "pos": "NN"
     },
     {
-      "input": 373,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 373,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 374,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 374,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 375,
-      "inputToken": "1964",
-      "inputPos": "CD"
+      "index": 375,
+      "token": "1964",
+      "pos": "CD"
     },
     {
-      "input": 376,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 376,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 377,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 377,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 378,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 378,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 379,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 379,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 380,
-      "inputToken": "love",
-      "inputPos": "NN"
+      "index": 380,
+      "token": "love",
+      "pos": "NN"
     },
     {
-      "input": 381,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 381,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 382,
-      "inputToken": "truman",
-      "inputPos": "NN"
+      "index": 382,
+      "token": "truman",
+      "pos": "NN"
     },
     {
-      "input": 383,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 383,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 384,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 384,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 385,
-      "inputToken": "1966",
-      "inputPos": "CD"
+      "index": 385,
+      "token": "1966",
+      "pos": "CD"
     },
     {
-      "input": 386,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 386,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 387,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 387,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 388,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 388,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 389,
-      "inputToken": "meet",
-      "inputPos": "VB"
+      "index": 389,
+      "token": "meet",
+      "pos": "VB"
     },
     {
-      "input": 390,
-      "inputToken": "marlon",
-      "inputPos": "JJ"
+      "index": 390,
+      "token": "marlon",
+      "pos": "JJ"
     },
     {
-      "input": 391,
-      "inputToken": "brando",
-      "inputPos": "NN"
+      "index": 391,
+      "token": "brando",
+      "pos": "NN"
     },
     {
-      "input": 392,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 392,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 393,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 393,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 394,
-      "inputToken": "1966",
-      "inputPos": "CD"
+      "index": 394,
+      "token": "1966",
+      "pos": "CD"
     },
     {
-      "input": 395,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 395,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 396,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 396,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 397,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 397,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 398,
-      "inputToken": "premiered",
-      "inputPos": "VBD"
+      "index": 398,
+      "token": "premiered",
+      "pos": "VBD"
     },
     {
-      "input": 399,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 399,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 400,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 400,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 401,
-      "inputToken": "new",
-      "inputPos": "JJ"
+      "index": 401,
+      "token": "new",
+      "pos": "JJ"
     },
     {
-      "input": 402,
-      "inputToken": "york",
-      "inputPos": "NN"
+      "index": 402,
+      "token": "york",
+      "pos": "NN"
     },
     {
-      "input": 403,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 403,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 404,
-      "inputToken": "festival",
-      "inputPos": "NN"
+      "index": 404,
+      "token": "festival",
+      "pos": "NN"
     },
     {
-      "input": 405,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 405,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 406,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 406,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 407,
-      "inputToken": "1968",
-      "inputPos": "CD"
+      "index": 407,
+      "token": "1968",
+      "pos": "CD"
     },
     {
-      "input": 408,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 408,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 409,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 409,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 410,
-      "inputToken": "made",
-      "inputPos": "VBD"
+      "index": 410,
+      "token": "made",
+      "pos": "VBD"
     },
     {
-      "input": 411,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 411,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 412,
-      "inputToken": "vladimir",
-      "inputPos": "JJ"
+      "index": 412,
+      "token": "vladimir",
+      "pos": "JJ"
     },
     {
-      "input": 413,
-      "inputToken": "horowitz",
-      "inputPos": "NN"
+      "index": 413,
+      "token": "horowitz",
+      "pos": "NN"
     },
     {
-      "input": 414,
-      "inputToken": ":",
-      "inputPos": ":"
+      "index": 414,
+      "token": ":",
+      "pos": ":"
     },
     {
-      "input": 415,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 415,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 416,
-      "inputToken": "last",
-      "inputPos": "JJ"
+      "index": 416,
+      "token": "last",
+      "pos": "JJ"
     },
     {
-      "input": 417,
-      "inputToken": "romantic",
-      "inputPos": "JJ"
+      "index": 417,
+      "token": "romantic",
+      "pos": "JJ"
     },
     {
-      "input": 418,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 418,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 419,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 419,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 420,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 420,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 421,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 421,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 422,
-      "inputToken": "following",
-      "inputPos": "JJ"
+      "index": 422,
+      "token": "following",
+      "pos": "JJ"
     },
     {
-      "input": 423,
-      "inputToken": "year",
-      "inputPos": "NN"
+      "index": 423,
+      "token": "year",
+      "pos": "NN"
     },
     {
-      "input": 424,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 424,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 425,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 425,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 426,
-      "inputToken": "shot",
-      "inputPos": "VBP"
+      "index": 426,
+      "token": "shot",
+      "pos": "VBP"
     },
     {
-      "input": 427,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 427,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 428,
-      "inputToken": "horowitz",
-      "inputPos": "JJ"
+      "index": 428,
+      "token": "horowitz",
+      "pos": "JJ"
     },
     {
-      "input": 429,
-      "inputToken": "plays",
-      "inputPos": "NNS"
+      "index": 429,
+      "token": "plays",
+      "pos": "NNS"
     },
     {
-      "input": 430,
-      "inputToken": "mozart",
-      "inputPos": "NN"
+      "index": 430,
+      "token": "mozart",
+      "pos": "NN"
     },
     {
-      "input": 431,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 431,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 432,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 432,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 433,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 433,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 434,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 434,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 435,
-      "inputToken": "tv",
-      "inputPos": "NN"
+      "index": 435,
+      "token": "tv",
+      "pos": "NN"
     },
     {
-      "input": 436,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 436,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 437,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 437,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 438,
-      "inputToken": "people",
-      "inputPos": "NNS"
+      "index": 438,
+      "token": "people",
+      "pos": "NNS"
     },
     {
-      "input": 439,
-      "inputToken": "are",
-      "inputPos": "VBP"
+      "index": 439,
+      "token": "are",
+      "pos": "VBP"
     },
     {
-      "input": 440,
-      "inputToken": "people",
-      "inputPos": "NNS"
+      "index": 440,
+      "token": "people",
+      "pos": "NNS"
     },
     {
-      "input": 441,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 441,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 442,
-      "inputToken": "we",
-      "inputPos": "PRP"
+      "index": 442,
+      "token": "we",
+      "pos": "PRP"
     },
     {
-      "input": 443,
-      "inputToken": "'re",
-      "inputPos": "VBP"
+      "index": 443,
+      "token": "'re",
+      "pos": "VBP"
     },
     {
-      "input": 444,
-      "inputToken": "out",
-      "inputPos": "RP"
+      "index": 444,
+      "token": "out",
+      "pos": "RP"
     },
     {
-      "input": 445,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 445,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 446,
-      "inputToken": "discover",
-      "inputPos": "VB"
+      "index": 446,
+      "token": "discover",
+      "pos": "VB"
     },
     {
-      "input": 447,
-      "inputToken": "what",
-      "inputPos": "WP"
+      "index": 447,
+      "token": "what",
+      "pos": "WP"
     },
     {
-      "input": 448,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 448,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 449,
-      "inputToken": "going",
-      "inputPos": "VBG"
+      "index": 449,
+      "token": "going",
+      "pos": "VBG"
     },
     {
-      "input": 450,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 450,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 451,
-      "inputToken": "behind",
-      "inputPos": "IN"
+      "index": 451,
+      "token": "behind",
+      "pos": "IN"
     },
     {
-      "input": 452,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 452,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 453,
-      "inputToken": "scenes",
-      "inputPos": "NNS"
+      "index": 453,
+      "token": "scenes",
+      "pos": "NNS"
     },
     {
-      "input": 454,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 454,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 455,
-      "inputToken": "get",
-      "inputPos": "VB"
+      "index": 455,
+      "token": "get",
+      "pos": "VB"
     },
     {
-      "input": 456,
-      "inputToken": "as",
-      "inputPos": "RB"
+      "index": 456,
+      "token": "as",
+      "pos": "RB"
     },
     {
-      "input": 457,
-      "inputToken": "close",
-      "inputPos": "RB"
+      "index": 457,
+      "token": "close",
+      "pos": "RB"
     },
     {
-      "input": 458,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 458,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 459,
-      "inputToken": "we",
-      "inputPos": "PRP"
+      "index": 459,
+      "token": "we",
+      "pos": "PRP"
     },
     {
-      "input": 460,
-      "inputToken": "can",
-      "inputPos": "MD"
+      "index": 460,
+      "token": "can",
+      "pos": "MD"
     },
     {
-      "input": 461,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 461,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 462,
-      "inputToken": "what",
-      "inputPos": "WP"
+      "index": 462,
+      "token": "what",
+      "pos": "WP"
     },
     {
-      "input": 463,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 463,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 464,
-      "inputToken": "happening",
-      "inputPos": "VBG"
+      "index": 464,
+      "token": "happening",
+      "pos": "VBG"
     },
     {
-      "input": 465,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 465,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 466,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 466,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 467,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 467,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 468,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 468,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 469,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 469,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 470,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 470,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 471,
-      "inputToken": "cinematic",
-      "inputPos": "JJ"
+      "index": 471,
+      "token": "cinematic",
+      "pos": "JJ"
     },
     {
-      "input": 472,
-      "inputToken": "style",
-      "inputPos": "NN"
+      "index": 472,
+      "token": "style",
+      "pos": "NN"
     },
     {
-      "input": 473,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 473,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 474,
-      "inputToken": "there",
-      "inputPos": "EX"
+      "index": 474,
+      "token": "there",
+      "pos": "EX"
     },
     {
-      "input": 475,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 475,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 476,
-      "inputToken": "often",
-      "inputPos": "RB"
+      "index": 476,
+      "token": "often",
+      "pos": "RB"
     },
     {
-      "input": 477,
-      "inputToken": "emotional",
-      "inputPos": "JJ"
+      "index": 477,
+      "token": "emotional",
+      "pos": "JJ"
     },
     {
-      "input": 478,
-      "inputToken": "reactions",
-      "inputPos": "NNS"
+      "index": 478,
+      "token": "reactions",
+      "pos": "NNS"
     },
     {
-      "input": 479,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 479,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 480,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 480,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 481,
-      "inputToken": "films",
-      "inputPos": "NNS"
+      "index": 481,
+      "token": "films",
+      "pos": "NNS"
     },
     {
-      "input": 482,
-      "inputToken": ";",
-      "inputPos": ":"
+      "index": 482,
+      "token": ";",
+      "pos": ":"
     },
     {
-      "input": 483,
-      "inputToken": "fans",
-      "inputPos": "NNS"
+      "index": 483,
+      "token": "fans",
+      "pos": "NNS"
     },
     {
-      "input": 484,
-      "inputToken": "applauded",
-      "inputPos": "VBD"
+      "index": 484,
+      "token": "applauded",
+      "pos": "VBD"
     },
     {
-      "input": 485,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 485,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 486,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 486,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 487,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 487,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 488,
-      "inputToken": "trust",
-      "inputPos": "NN"
+      "index": 488,
+      "token": "trust",
+      "pos": "NN"
     },
     {
-      "input": 489,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 489,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 490,
-      "inputToken": "developed",
-      "inputPos": "VBD"
+      "index": 490,
+      "token": "developed",
+      "pos": "VBD"
     },
     {
-      "input": 491,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 491,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 492,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 492,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 493,
-      "inputToken": "subjects",
-      "inputPos": "NNS"
+      "index": 493,
+      "token": "subjects",
+      "pos": "NNS"
     },
     {
-      "input": 494,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 494,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 495,
-      "inputToken": "allowing",
-      "inputPos": "VBG"
+      "index": 495,
+      "token": "allowing",
+      "pos": "VBG"
     },
     {
-      "input": 496,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 496,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 497,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 497,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 498,
-      "inputToken": "reveal",
-      "inputPos": "VB"
+      "index": 498,
+      "token": "reveal",
+      "pos": "VB"
     },
     {
-      "input": 499,
-      "inputToken": "__long-repressed__",
-      "inputPos": "JJ"
+      "index": 499,
+      "token": "__long-repressed__",
+      "pos": "JJ"
     },
     {
-      "input": 500,
-      "inputToken": "feelings",
-      "inputPos": "NNS"
+      "index": 500,
+      "token": "feelings",
+      "pos": "NNS"
     },
     {
-      "input": 501,
-      "inputToken": "or",
-      "inputPos": "CC"
+      "index": 501,
+      "token": "or",
+      "pos": "CC"
     },
     {
-      "input": 502,
-      "inputToken": "telling",
-      "inputPos": "VBG"
+      "index": 502,
+      "token": "telling",
+      "pos": "VBG"
     },
     {
-      "input": 503,
-      "inputToken": "insights",
-      "inputPos": "NNS"
+      "index": 503,
+      "token": "insights",
+      "pos": "NNS"
     },
     {
-      "input": 504,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 504,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 505,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 505,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 506,
-      "inputToken": "style",
-      "inputPos": "NN"
+      "index": 506,
+      "token": "style",
+      "pos": "NN"
     },
     {
-      "input": 507,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 507,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 508,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 508,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 509,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 509,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 510,
-      "inputToken": "subjects",
-      "inputPos": "NNS"
+      "index": 510,
+      "token": "subjects",
+      "pos": "NNS"
     },
     {
-      "input": 511,
-      "inputToken": "caught",
-      "inputPos": "VBN"
+      "index": 511,
+      "token": "caught",
+      "pos": "VBN"
     },
     {
-      "input": 512,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 512,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 513,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 513,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 514,
-      "inputToken": "hand-held",
-      "inputPos": "JJ"
+      "index": 514,
+      "token": "hand-held",
+      "pos": "JJ"
     },
     {
-      "input": 515,
-      "inputToken": "camera",
-      "inputPos": "NN"
+      "index": 515,
+      "token": "camera",
+      "pos": "NN"
     },
     {
-      "input": 516,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 516,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 517,
-      "inputToken": "shotgun",
-      "inputPos": "NN"
+      "index": 517,
+      "token": "shotgun",
+      "pos": "NN"
     },
     {
-      "input": 518,
-      "inputToken": "mike",
-      "inputPos": "NN"
+      "index": 518,
+      "token": "mike",
+      "pos": "NN"
     },
     {
-      "input": 519,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 519,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 520,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 520,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 521,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 521,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 522,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 522,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 523,
-      "inputToken": "tradition",
-      "inputPos": "NN"
+      "index": 523,
+      "token": "tradition",
+      "pos": "NN"
     },
     {
-      "input": 524,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 524,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 525,
-      "inputToken": "such",
-      "inputPos": "JJ"
+      "index": 525,
+      "token": "such",
+      "pos": "JJ"
     },
     {
-      "input": 526,
-      "inputToken": "__documentarians__",
-      "inputPos": "NNS"
+      "index": 526,
+      "token": "__documentarians__",
+      "pos": "NNS"
     },
     {
-      "input": 527,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 527,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 528,
-      "inputToken": "frederick",
-      "inputPos": "JJ"
+      "index": 528,
+      "token": "frederick",
+      "pos": "JJ"
     },
     {
-      "input": 529,
-      "inputToken": "wiseman",
-      "inputPos": "NN"
+      "index": 529,
+      "token": "wiseman",
+      "pos": "NN"
     },
     {
-      "input": 530,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 530,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 531,
-      "inputToken": "however",
-      "inputPos": "RB"
+      "index": 531,
+      "token": "however",
+      "pos": "RB"
     },
     {
-      "input": 532,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 532,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 533,
-      "inputToken": "cinema",
-      "inputPos": "VBP"
+      "index": 533,
+      "token": "cinema",
+      "pos": "VBP"
     },
     {
-      "input": 534,
-      "inputToken": "__verite__",
-      "inputPos": "JJ"
+      "index": 534,
+      "token": "__verite__",
+      "pos": "JJ"
     },
     {
-      "input": 535,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 535,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 536,
-      "inputToken": "purists",
-      "inputPos": "NNS"
+      "index": 536,
+      "token": "purists",
+      "pos": "NNS"
     },
     {
-      "input": 537,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 537,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 538,
-      "inputToken": "argued",
-      "inputPos": "VBD"
+      "index": 538,
+      "token": "argued",
+      "pos": "VBD"
     },
     {
-      "input": 539,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 539,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 540,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 540,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 541,
-      "inputToken": "__maysleses__",
-      "inputPos": "NNP"
+      "index": 541,
+      "token": "__maysleses__",
+      "pos": "NNP"
     },
     {
-      "input": 542,
-      "inputToken": "sometimes",
-      "inputPos": "RB"
+      "index": 542,
+      "token": "sometimes",
+      "pos": "RB"
     },
     {
-      "input": 543,
-      "inputToken": "exploited",
-      "inputPos": "VBD"
+      "index": 543,
+      "token": "exploited",
+      "pos": "VBD"
     },
     {
-      "input": 544,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 544,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 545,
-      "inputToken": "content",
-      "inputPos": "NN"
+      "index": 545,
+      "token": "content",
+      "pos": "NN"
     },
     {
-      "input": 546,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 546,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 547,
-      "inputToken": "particularly",
-      "inputPos": "RB"
+      "index": 547,
+      "token": "particularly",
+      "pos": "RB"
     },
     {
-      "input": 548,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 548,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 549,
-      "inputToken": "regard",
-      "inputPos": "NN"
+      "index": 549,
+      "token": "regard",
+      "pos": "NN"
     },
     {
-      "input": 550,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 550,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 551,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 551,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 552,
-      "inputToken": "__omniscient__",
-      "inputPos": "NNP"
+      "index": 552,
+      "token": "__omniscient__",
+      "pos": "NNP"
     },
     {
-      "input": 553,
-      "inputToken": "editing",
-      "inputPos": "NN"
+      "index": 553,
+      "token": "editing",
+      "pos": "NN"
     },
     {
-      "input": 554,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 554,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 555,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 555,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 556,
-      "inputToken": "gim",
-      "inputPos": "FW"
+      "index": 556,
+      "token": "gim",
+      "pos": "FW"
     },
     {
-      "input": 557,
-      "inputToken": "me",
-      "inputPos": "PRP"
+      "index": 557,
+      "token": "me",
+      "pos": "PRP"
     },
     {
-      "input": 558,
-      "inputToken": "shelter",
-      "inputPos": "NN"
+      "index": 558,
+      "token": "shelter",
+      "pos": "NN"
     },
     {
-      "input": 559,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 559,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 560,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 560,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 561,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 561,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 562,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 562,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 563,
-      "inputToken": "flashback",
-      "inputPos": "NN"
+      "index": 563,
+      "token": "flashback",
+      "pos": "NN"
     },
     {
-      "input": 564,
-      "inputToken": "storytelling",
-      "inputPos": "NN"
+      "index": 564,
+      "token": "storytelling",
+      "pos": "NN"
     },
     {
-      "input": 565,
-      "inputToken": "style",
-      "inputPos": "NN"
+      "index": 565,
+      "token": "style",
+      "pos": "NN"
     },
     {
-      "input": 566,
-      "inputToken": "created",
-      "inputPos": "VBD"
+      "index": 566,
+      "token": "created",
+      "pos": "VBD"
     },
     {
-      "input": 567,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 567,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 568,
-      "inputToken": "dramatic",
-      "inputPos": "JJ"
+      "index": 568,
+      "token": "dramatic",
+      "pos": "JJ"
     },
     {
-      "input": 569,
-      "inputToken": "foreboding",
-      "inputPos": "NN"
+      "index": 569,
+      "token": "foreboding",
+      "pos": "NN"
     },
     {
-      "input": 570,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 570,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 571,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 571,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 572,
-      "inputToken": "imposed",
-      "inputPos": "VBN"
+      "index": 572,
+      "token": "imposed",
+      "pos": "VBN"
     },
     {
-      "input": 573,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 573,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 574,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 574,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 575,
-      "inputToken": "narrative",
-      "inputPos": "JJ"
+      "index": 575,
+      "token": "narrative",
+      "pos": "JJ"
     },
     {
-      "input": 576,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 576,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 577,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 577,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 578,
-      "inputToken": "stones",
-      "inputPos": "NNS"
+      "index": 578,
+      "token": "stones",
+      "pos": "NNS"
     },
     {
-      "input": 579,
-      "inputToken": "'",
-      "inputPos": "POS"
+      "index": 579,
+      "token": "'",
+      "pos": "POS"
     },
     {
-      "input": 580,
-      "inputToken": "tour",
-      "inputPos": "NN"
+      "index": 580,
+      "token": "tour",
+      "pos": "NN"
     },
     {
-      "input": 581,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 581,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 582,
-      "inputToken": "__flashbacking__",
-      "inputPos": "NN"
+      "index": 582,
+      "token": "__flashbacking__",
+      "pos": "NN"
     },
     {
-      "input": 583,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 583,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 584,
-      "inputToken": "mick",
-      "inputPos": "JJ"
+      "index": 584,
+      "token": "mick",
+      "pos": "JJ"
     },
     {
-      "input": 585,
-      "inputToken": "jagger",
-      "inputPos": "NN"
+      "index": 585,
+      "token": "jagger",
+      "pos": "NN"
     },
     {
-      "input": 586,
-      "inputToken": "reviewing",
-      "inputPos": "VBG"
+      "index": 586,
+      "token": "reviewing",
+      "pos": "VBG"
     },
     {
-      "input": 587,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 587,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 588,
-      "inputToken": "footage",
-      "inputPos": "NN"
+      "index": 588,
+      "token": "footage",
+      "pos": "NN"
     },
     {
-      "input": 589,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 589,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 590,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 590,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 591,
-      "inputToken": "__altamont__",
-      "inputPos": "NNP"
+      "index": 591,
+      "token": "__altamont__",
+      "pos": "NNP"
     },
     {
-      "input": 592,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 592,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 593,
-      "inputToken": "horrific",
-      "inputPos": "JJ"
+      "index": 593,
+      "token": "horrific",
+      "pos": "JJ"
     },
     {
-      "input": 594,
-      "inputToken": "memory",
-      "inputPos": "NN"
+      "index": 594,
+      "token": "memory",
+      "pos": "NN"
     },
     {
-      "input": 595,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 595,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 596,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 596,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 597,
-      "inputToken": "recent",
-      "inputPos": "JJ"
+      "index": 597,
+      "token": "recent",
+      "pos": "JJ"
     },
     {
-      "input": 598,
-      "inputToken": "past",
-      "inputPos": "NN"
+      "index": 598,
+      "token": "past",
+      "pos": "NN"
     },
     {
-      "input": 599,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 599,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 600,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 600,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 601,
-      "inputToken": "gim",
-      "inputPos": "VB"
+      "index": 601,
+      "token": "gim",
+      "pos": "VB"
     },
     {
-      "input": 602,
-      "inputToken": "me",
-      "inputPos": "PRP"
+      "index": 602,
+      "token": "me",
+      "pos": "PRP"
     },
     {
-      "input": 603,
-      "inputToken": "shelter",
-      "inputPos": "JJR"
+      "index": 603,
+      "token": "shelter",
+      "pos": "JJR"
     },
     {
-      "input": 604,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 604,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 605,
-      "inputToken": "punctuated",
-      "inputPos": "VBD"
+      "index": 605,
+      "token": "punctuated",
+      "pos": "VBD"
     },
     {
-      "input": 606,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 606,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 607,
-      "inputToken": "feeling",
-      "inputPos": "NN"
+      "index": 607,
+      "token": "feeling",
+      "pos": "NN"
     },
     {
-      "input": 608,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 608,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 609,
-      "inputToken": "dread",
-      "inputPos": "NN"
+      "index": 609,
+      "token": "dread",
+      "pos": "NN"
     },
     {
-      "input": 610,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 610,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 611,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 611,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 612,
-      "inputToken": "events",
-      "inputPos": "NNS"
+      "index": 612,
+      "token": "events",
+      "pos": "NNS"
     },
     {
-      "input": 613,
-      "inputToken": "moved",
-      "inputPos": "VBD"
+      "index": 613,
+      "token": "moved",
+      "pos": "VBD"
     },
     {
-      "input": 614,
-      "inputToken": "__inexorably__",
-      "inputPos": "RB"
+      "index": 614,
+      "token": "__inexorably__",
+      "pos": "RB"
     },
     {
-      "input": 615,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 615,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 616,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 616,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 617,
-      "inputToken": "tour",
-      "inputPos": "NN"
+      "index": 617,
+      "token": "tour",
+      "pos": "NN"
     },
     {
-      "input": 618,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 618,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 619,
-      "inputToken": "cataclysmic",
-      "inputPos": "JJ"
+      "index": 619,
+      "token": "cataclysmic",
+      "pos": "JJ"
     },
     {
-      "input": 620,
-      "inputToken": "end",
-      "inputPos": "NN"
+      "index": 620,
+      "token": "end",
+      "pos": "NN"
     },
     {
-      "input": 621,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 621,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 622,
-      "inputToken": "originally",
-      "inputPos": "RB"
+      "index": 622,
+      "token": "originally",
+      "pos": "RB"
     },
     {
-      "input": 623,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 623,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 624,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 624,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 625,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 625,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 626,
-      "inputToken": "free",
-      "inputPos": "JJ"
+      "index": 626,
+      "token": "free",
+      "pos": "JJ"
     },
     {
-      "input": 627,
-      "inputToken": "concert",
-      "inputPos": "NN"
+      "index": 627,
+      "token": "concert",
+      "pos": "NN"
     },
     {
-      "input": 628,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 628,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 629,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 629,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 630,
-      "inputToken": "planned",
-      "inputPos": "VBN"
+      "index": 630,
+      "token": "planned",
+      "pos": "VBN"
     },
     {
-      "input": 631,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 631,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 632,
-      "inputToken": "happen",
-      "inputPos": "VB"
+      "index": 632,
+      "token": "happen",
+      "pos": "VB"
     },
     {
-      "input": 633,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 633,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 634,
-      "inputToken": "san",
-      "inputPos": "JJ"
+      "index": 634,
+      "token": "san",
+      "pos": "JJ"
     },
     {
-      "input": 635,
-      "inputToken": "francisco",
-      "inputPos": "NN"
+      "index": 635,
+      "token": "francisco",
+      "pos": "NN"
     },
     {
-      "input": 636,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 636,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 637,
-      "inputToken": "but",
-      "inputPos": "CC"
+      "index": 637,
+      "token": "but",
+      "pos": "CC"
     },
     {
-      "input": 638,
-      "inputToken": "logistics",
-      "inputPos": "NNS"
+      "index": 638,
+      "token": "logistics",
+      "pos": "NNS"
     },
     {
-      "input": 639,
-      "inputToken": "went",
-      "inputPos": "VBD"
+      "index": 639,
+      "token": "went",
+      "pos": "VBD"
     },
     {
-      "input": 640,
-      "inputToken": "askew",
-      "inputPos": "RB"
+      "index": 640,
+      "token": "askew",
+      "pos": "RB"
     },
     {
-      "input": 641,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 641,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 642,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 642,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 643,
-      "inputToken": "ended",
-      "inputPos": "VBD"
+      "index": 643,
+      "token": "ended",
+      "pos": "VBD"
     },
     {
-      "input": 644,
-      "inputToken": "up",
-      "inputPos": "RB"
+      "index": 644,
+      "token": "up",
+      "pos": "RB"
     },
     {
-      "input": 645,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 645,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 646,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 646,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 647,
-      "inputToken": "__altamont__",
-      "inputPos": "NNP"
+      "index": 647,
+      "token": "__altamont__",
+      "pos": "NNP"
     },
     {
-      "input": 648,
-      "inputToken": "speedway",
-      "inputPos": "NN"
+      "index": 648,
+      "token": "speedway",
+      "pos": "NN"
     },
     {
-      "input": 649,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 649,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 650,
-      "inputToken": "northern",
-      "inputPos": "JJ"
+      "index": 650,
+      "token": "northern",
+      "pos": "JJ"
     },
     {
-      "input": 651,
-      "inputToken": "california",
-      "inputPos": "NN"
+      "index": 651,
+      "token": "california",
+      "pos": "NN"
     },
     {
-      "input": 652,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 652,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 653,
-      "inputToken": "muddled",
-      "inputPos": "VBN"
+      "index": 653,
+      "token": "muddled",
+      "pos": "VBN"
     },
     {
-      "input": 654,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 654,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 655,
-      "inputToken": "inadequate",
-      "inputPos": "JJ"
+      "index": 655,
+      "token": "inadequate",
+      "pos": "JJ"
     },
     {
-      "input": 656,
-      "inputToken": "planning",
-      "inputPos": "NN"
+      "index": 656,
+      "token": "planning",
+      "pos": "NN"
     },
     {
-      "input": 657,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 657,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 658,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 658,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 659,
-      "inputToken": "darkness",
-      "inputPos": "NN"
+      "index": 659,
+      "token": "darkness",
+      "pos": "NN"
     },
     {
-      "input": 660,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 660,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 661,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 661,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 662,
-      "inputToken": "fringes",
-      "inputPos": "NNS"
+      "index": 662,
+      "token": "fringes",
+      "pos": "NNS"
     },
     {
-      "input": 663,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 663,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 664,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 664,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 665,
-      "inputToken": "__peace/love__",
-      "inputPos": "NNP"
+      "index": 665,
+      "token": "__peace/love__",
+      "pos": "NNP"
     },
     {
-      "input": 666,
-      "inputToken": "zeitgeist",
-      "inputPos": "NN"
+      "index": 666,
+      "token": "zeitgeist",
+      "pos": "NN"
     },
     {
-      "input": 667,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 667,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 668,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 668,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 669,
-      "inputToken": "concert",
-      "inputPos": "NN"
+      "index": 669,
+      "token": "concert",
+      "pos": "NN"
     },
     {
-      "input": 670,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 670,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 671,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 671,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 672,
-      "inputToken": "ghoulish",
-      "inputPos": "JJ"
+      "index": 672,
+      "token": "ghoulish",
+      "pos": "JJ"
     },
     {
-      "input": 673,
-      "inputToken": "nightmare",
-      "inputPos": "NN"
+      "index": 673,
+      "token": "nightmare",
+      "pos": "NN"
     },
     {
-      "input": 674,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 674,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 675,
-      "inputToken": "admittedly",
-      "inputPos": "RB"
+      "index": 675,
+      "token": "admittedly",
+      "pos": "RB"
     },
     {
-      "input": 676,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 676,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 677,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 677,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 678,
-      "inputToken": "__maysleses__",
-      "inputPos": "NNP"
+      "index": 678,
+      "token": "__maysleses__",
+      "pos": "NNP"
     },
     {
-      "input": 679,
-      "inputToken": "straddled",
-      "inputPos": "VBD"
+      "index": 679,
+      "token": "straddled",
+      "pos": "VBD"
     },
     {
-      "input": 680,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 680,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 681,
-      "inputToken": "line",
-      "inputPos": "NN"
+      "index": 681,
+      "token": "line",
+      "pos": "NN"
     },
     {
-      "input": 682,
-      "inputToken": "between",
-      "inputPos": "IN"
+      "index": 682,
+      "token": "between",
+      "pos": "IN"
     },
     {
-      "input": 683,
-      "inputToken": "artistic",
-      "inputPos": "JJ"
+      "index": 683,
+      "token": "artistic",
+      "pos": "JJ"
     },
     {
-      "input": 684,
-      "inputToken": "license",
-      "inputPos": "NN"
+      "index": 684,
+      "token": "license",
+      "pos": "NN"
     },
     {
-      "input": 685,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 685,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 686,
-      "inputToken": "nonfiction",
-      "inputPos": "NN"
+      "index": 686,
+      "token": "nonfiction",
+      "pos": "NN"
     },
     {
-      "input": 687,
-      "inputToken": "narrative",
-      "inputPos": "NN"
+      "index": 687,
+      "token": "narrative",
+      "pos": "NN"
     },
     {
-      "input": 688,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 688,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 689,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 689,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 690,
-      "inputToken": "al",
-      "inputPos": "JJ"
+      "index": 690,
+      "token": "al",
+      "pos": "JJ"
     },
     {
-      "input": 691,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 691,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 692,
-      "inputToken": "dave",
-      "inputPos": "VB"
+      "index": 692,
+      "token": "dave",
+      "pos": "VB"
     },
     {
-      "input": 693,
-      "inputToken": "often",
-      "inputPos": "RB"
+      "index": 693,
+      "token": "often",
+      "pos": "RB"
     },
     {
-      "input": 694,
-      "inputToken": "argue",
-      "inputPos": "VBZ"
+      "index": 694,
+      "token": "argue",
+      "pos": "VBZ"
     },
     {
-      "input": 695,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 695,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 696,
-      "inputToken": "all",
-      "inputPos": "DT"
+      "index": 696,
+      "token": "all",
+      "pos": "DT"
     },
     {
-      "input": 697,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 697,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 698,
-      "inputToken": "'re",
-      "inputPos": "VBP"
+      "index": 698,
+      "token": "'re",
+      "pos": "VBP"
     },
     {
-      "input": 699,
-      "inputToken": "doing",
-      "inputPos": "VBG"
+      "index": 699,
+      "token": "doing",
+      "pos": "VBG"
     },
     {
-      "input": 700,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 700,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 701,
-      "inputToken": "filming",
-      "inputPos": "VBG"
+      "index": 701,
+      "token": "filming",
+      "pos": "VBG"
     },
     {
-      "input": 702,
-      "inputToken": "what",
-      "inputPos": "WP"
+      "index": 702,
+      "token": "what",
+      "pos": "WP"
     },
     {
-      "input": 703,
-      "inputToken": "'s",
-      "inputPos": "VBZ"
+      "index": 703,
+      "token": "'s",
+      "pos": "VBZ"
     },
     {
-      "input": 704,
-      "inputToken": "there",
-      "inputPos": "RB"
+      "index": 704,
+      "token": "there",
+      "pos": "RB"
     },
     {
-      "input": 705,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 705,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 706,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 706,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 707,
-      "inputToken": "detail",
-      "inputPos": "NN"
+      "index": 707,
+      "token": "detail",
+      "pos": "NN"
     },
     {
-      "input": 708,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 708,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 709,
-      "inputToken": "comment",
-      "inputPos": "NN"
+      "index": 709,
+      "token": "comment",
+      "pos": "NN"
     },
     {
-      "input": 710,
-      "inputToken": ":",
-      "inputPos": ":"
+      "index": 710,
+      "token": ":",
+      "pos": ":"
     },
     {
-      "input": 711,
-      "inputToken": "fingers",
-      "inputPos": "NNS"
+      "index": 711,
+      "token": "fingers",
+      "pos": "NNS"
     },
     {
-      "input": 712,
-      "inputToken": "scratching",
-      "inputPos": "VBG"
+      "index": 712,
+      "token": "scratching",
+      "pos": "VBG"
     },
     {
-      "input": 713,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 713,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 714,
-      "inputToken": "soft",
-      "inputPos": "JJ"
+      "index": 714,
+      "token": "soft",
+      "pos": "JJ"
     },
     {
-      "input": 715,
-      "inputToken": "focusing",
-      "inputPos": "NN"
+      "index": 715,
+      "token": "focusing",
+      "pos": "NN"
     },
     {
-      "input": 716,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 716,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 717,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 717,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 718,
-      "inputToken": "filmmaker",
-      "inputPos": "NN"
+      "index": 718,
+      "token": "filmmaker",
+      "pos": "NN"
     },
     {
-      "input": 719,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 719,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 720,
-      "inputToken": "always",
-      "inputPos": "RB"
+      "index": 720,
+      "token": "always",
+      "pos": "RB"
     },
     {
-      "input": 721,
-      "inputToken": "making",
-      "inputPos": "VBG"
+      "index": 721,
+      "token": "making",
+      "pos": "VBG"
     },
     {
-      "input": 722,
-      "inputToken": "comments",
-      "inputPos": "NNS"
+      "index": 722,
+      "token": "comments",
+      "pos": "NNS"
     },
     {
-      "input": 723,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 723,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 724,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 724,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 725,
-      "inputToken": "cinematographer",
-      "inputPos": "NN"
+      "index": 725,
+      "token": "cinematographer",
+      "pos": "NN"
     },
     {
-      "input": 726,
-      "inputToken": "haskell",
-      "inputPos": "NN"
+      "index": 726,
+      "token": "haskell",
+      "pos": "NN"
     },
     {
-      "input": 727,
-      "inputToken": "__wexler__",
-      "inputPos": "NNP"
+      "index": 727,
+      "token": "__wexler__",
+      "pos": "NNP"
     },
     {
-      "input": 728,
-      "inputToken": "once",
-      "inputPos": "RB"
+      "index": 728,
+      "token": "once",
+      "pos": "RB"
     },
     {
-      "input": 729,
-      "inputToken": "opined",
-      "inputPos": "VBD"
+      "index": 729,
+      "token": "opined",
+      "pos": "VBD"
     },
     {
-      "input": 730,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 730,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 731,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 731,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 732,
-      "inputToken": "village",
-      "inputPos": "NN"
+      "index": 732,
+      "token": "village",
+      "pos": "NN"
     },
     {
-      "input": 733,
-      "inputToken": "voice",
-      "inputPos": "NN"
+      "index": 733,
+      "token": "voice",
+      "pos": "NN"
     },
     {
-      "input": 734,
-      "inputToken": "article",
-      "inputPos": "NN"
+      "index": 734,
+      "token": "article",
+      "pos": "NN"
     },
     {
-      "input": 735,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 735,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 736,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 736,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 737,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 737,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 738,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 738,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 739,
-      "inputToken": "brother",
-      "inputPos": "NN"
+      "index": 739,
+      "token": "brother",
+      "pos": "NN"
     },
     {
-      "input": 740,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 740,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 741,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 741,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 742,
-      "inputToken": "died",
-      "inputPos": "VBD"
+      "index": 742,
+      "token": "died",
+      "pos": "VBD"
     },
     {
-      "input": 743,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 743,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 744,
-      "inputToken": "january",
-      "inputPos": "JJ"
+      "index": 744,
+      "token": "january",
+      "pos": "JJ"
     },
     {
-      "input": 745,
-      "inputToken": "1987",
-      "inputPos": "CD"
+      "index": 745,
+      "token": "1987",
+      "pos": "CD"
     },
     {
-      "input": 746,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 746,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 747,
-      "inputToken": "age",
-      "inputPos": "NN"
+      "index": 747,
+      "token": "age",
+      "pos": "NN"
     },
     {
-      "input": 748,
-      "inputToken": "55",
-      "inputPos": "CD"
+      "index": 748,
+      "token": "55",
+      "pos": "CD"
     },
     {
-      "input": 749,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 749,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 750,
-      "inputToken": "received",
-      "inputPos": "VBD"
+      "index": 750,
+      "token": "received",
+      "pos": "VBD"
     },
     {
-      "input": 751,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 751,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 752,
-      "inputToken": "oscar",
-      "inputPos": "NN"
+      "index": 752,
+      "token": "oscar",
+      "pos": "NN"
     },
     {
-      "input": 753,
-      "inputToken": "nomination",
-      "inputPos": "NN"
+      "index": 753,
+      "token": "nomination",
+      "pos": "NN"
     },
     {
-      "input": 754,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 754,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 755,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 755,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 756,
-      "inputToken": "__28-minute__",
-      "inputPos": "JJ"
+      "index": 756,
+      "token": "__28-minute__",
+      "pos": "JJ"
     },
     {
-      "input": 757,
-      "inputToken": "short",
-      "inputPos": "JJ"
+      "index": 757,
+      "token": "short",
+      "pos": "JJ"
     },
     {
-      "input": 758,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 758,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 759,
-      "inputToken": "christo",
-      "inputPos": "NN"
+      "index": 759,
+      "token": "christo",
+      "pos": "NN"
     },
     {
-      "input": 760,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 760,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 761,
-      "inputToken": "valley",
-      "inputPos": "NN"
+      "index": 761,
+      "token": "valley",
+      "pos": "NN"
     },
     {
-      "input": 762,
-      "inputToken": "curtain",
-      "inputPos": "NN"
+      "index": 762,
+      "token": "curtain",
+      "pos": "NN"
     },
     {
-      "input": 763,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 763,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 764,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 764,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 765,
-      "inputToken": "1974",
-      "inputPos": "CD"
+      "index": 765,
+      "token": "1974",
+      "pos": "CD"
     },
     {
-      "input": 766,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 766,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 767,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 767,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 768,
-      "inputToken": "about",
-      "inputPos": "IN"
+      "index": 768,
+      "token": "about",
+      "pos": "IN"
     },
     {
-      "input": 769,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 769,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 770,
-      "inputToken": "artist",
-      "inputPos": "NN"
+      "index": 770,
+      "token": "artist",
+      "pos": "NN"
     },
     {
-      "input": 771,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 771,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 772,
-      "inputToken": "first",
-      "inputPos": "JJ"
+      "index": 772,
+      "token": "first",
+      "pos": "JJ"
     },
     {
-      "input": 773,
-      "inputToken": "public",
-      "inputPos": "JJ"
+      "index": 773,
+      "token": "public",
+      "pos": "JJ"
     },
     {
-      "input": 774,
-      "inputToken": "work",
-      "inputPos": "NN"
+      "index": 774,
+      "token": "work",
+      "pos": "NN"
     },
     {
-      "input": 775,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 775,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 776,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 776,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 777,
-      "inputToken": "year",
-      "inputPos": "NN"
+      "index": 777,
+      "token": "year",
+      "pos": "NN"
     },
     {
-      "input": 778,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 778,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 779,
-      "inputToken": "albert",
-      "inputPos": "VBP"
+      "index": 779,
+      "token": "albert",
+      "pos": "VBP"
     },
     {
-      "input": 780,
-      "inputToken": "shot",
-      "inputPos": "JJ"
+      "index": 780,
+      "token": "shot",
+      "pos": "JJ"
     },
     {
-      "input": 781,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 781,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 782,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 782,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 783,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 783,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 784,
-      "inputToken": "muhammad",
-      "inputPos": "JJ"
+      "index": 784,
+      "token": "muhammad",
+      "pos": "JJ"
     },
     {
-      "input": 785,
-      "inputToken": "__ali-george__",
-      "inputPos": "JJ"
+      "index": 785,
+      "token": "__ali-george__",
+      "pos": "JJ"
     },
     {
-      "input": 786,
-      "inputToken": "foreman",
-      "inputPos": "NN"
+      "index": 786,
+      "token": "foreman",
+      "pos": "NN"
     },
     {
-      "input": 787,
-      "inputToken": "1974",
-      "inputPos": "CD"
+      "index": 787,
+      "token": "1974",
+      "pos": "CD"
     },
     {
-      "input": 788,
-      "inputToken": "heavyweight",
-      "inputPos": "VBD"
+      "index": 788,
+      "token": "heavyweight",
+      "pos": "VBD"
     },
     {
-      "input": 789,
-      "inputToken": "title",
-      "inputPos": "NN"
+      "index": 789,
+      "token": "title",
+      "pos": "NN"
     },
     {
-      "input": 790,
-      "inputToken": "bout",
-      "inputPos": "NN"
+      "index": 790,
+      "token": "bout",
+      "pos": "NN"
     },
     {
-      "input": 791,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 791,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 792,
-      "inputToken": "zaire",
-      "inputPos": "NN"
+      "index": 792,
+      "token": "zaire",
+      "pos": "NN"
     },
     {
-      "input": 793,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 793,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 794,
-      "inputToken": "would",
-      "inputPos": "MD"
+      "index": 794,
+      "token": "would",
+      "pos": "MD"
     },
     {
-      "input": 795,
-      "inputToken": "become",
-      "inputPos": "VB"
+      "index": 795,
+      "token": "become",
+      "pos": "VB"
     },
     {
-      "input": 796,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 796,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 797,
-      "inputToken": "1996",
-      "inputPos": "CD"
+      "index": 797,
+      "token": "1996",
+      "pos": "CD"
     },
     {
-      "input": 798,
-      "inputToken": "oscar-winning",
-      "inputPos": "JJ"
+      "index": 798,
+      "token": "oscar-winning",
+      "pos": "JJ"
     },
     {
-      "input": 799,
-      "inputToken": "documentary",
-      "inputPos": "NN"
+      "index": 799,
+      "token": "documentary",
+      "pos": "NN"
     },
     {
-      "input": 800,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 800,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 801,
-      "inputToken": "when",
-      "inputPos": "WRB"
+      "index": 801,
+      "token": "when",
+      "pos": "WRB"
     },
     {
-      "input": 802,
-      "inputToken": "we",
-      "inputPos": "PRP"
+      "index": 802,
+      "token": "we",
+      "pos": "PRP"
     },
     {
-      "input": 803,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 803,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 804,
-      "inputToken": "kings",
-      "inputPos": "NNS"
+      "index": 804,
+      "token": "kings",
+      "pos": "NNS"
     },
     {
-      "input": 805,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 805,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 806,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 806,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 807,
-      "inputToken": "__maysles__",
-      "inputPos": "NN"
+      "index": 807,
+      "token": "__maysles__",
+      "pos": "NN"
     },
     {
-      "input": 808,
-      "inputToken": "won",
-      "inputPos": "VBD"
+      "index": 808,
+      "token": "won",
+      "pos": "VBD"
     },
     {
-      "input": 809,
-      "inputToken": "three",
-      "inputPos": "CD"
+      "index": 809,
+      "token": "three",
+      "pos": "CD"
     },
     {
-      "input": 810,
-      "inputToken": "emmys",
-      "inputPos": "NNS"
+      "index": 810,
+      "token": "emmys",
+      "pos": "NNS"
     },
     {
-      "input": 811,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 811,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 812,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 812,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 813,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 813,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 814,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 814,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 815,
-      "inputToken": "work",
-      "inputPos": "NN"
+      "index": 815,
+      "token": "work",
+      "pos": "NN"
     },
     {
-      "input": 816,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 816,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 817,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 817,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 818,
-      "inputToken": "brother",
-      "inputPos": "NN"
+      "index": 818,
+      "token": "brother",
+      "pos": "NN"
     },
     {
-      "input": 819,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 819,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 820,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 820,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 821,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 821,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 822,
-      "inputToken": "last",
-      "inputPos": "JJ"
+      "index": 822,
+      "token": "last",
+      "pos": "JJ"
     },
     {
-      "input": 823,
-      "inputToken": "romantic",
-      "inputPos": "JJ"
+      "index": 823,
+      "token": "romantic",
+      "pos": "JJ"
     },
     {
-      "input": 824,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 824,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 825,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 825,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 826,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 826,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 827,
-      "inputToken": "soldiers",
-      "inputPos": "NNS"
+      "index": 827,
+      "token": "soldiers",
+      "pos": "NNS"
     },
     {
-      "input": 828,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 828,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 829,
-      "inputToken": "music",
-      "inputPos": "NN"
+      "index": 829,
+      "token": "music",
+      "pos": "NN"
     },
     {
-      "input": 830,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 830,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 831,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 831,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 832,
-      "inputToken": "1991",
-      "inputPos": "CD"
+      "index": 832,
+      "token": "1991",
+      "pos": "CD"
     },
     {
-      "input": 833,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 833,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 834,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 834,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 835,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 835,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 836,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 836,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 837,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 837,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 838,
-      "inputToken": "abortion",
-      "inputPos": "NN"
+      "index": 838,
+      "token": "abortion",
+      "pos": "NN"
     },
     {
-      "input": 839,
-      "inputToken": ":",
-      "inputPos": ":"
+      "index": 839,
+      "token": ":",
+      "pos": ":"
     },
     {
-      "input": 840,
-      "inputToken": "desperate",
-      "inputPos": "JJ"
+      "index": 840,
+      "token": "desperate",
+      "pos": "JJ"
     },
     {
-      "input": 841,
-      "inputToken": "choices",
-      "inputPos": "NNS"
+      "index": 841,
+      "token": "choices",
+      "pos": "NNS"
     },
     {
-      "input": 842,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 842,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 843,
-      "inputToken": "-lrb-",
-      "inputPos": "NN"
+      "index": 843,
+      "token": "-lrb-",
+      "pos": "NN"
     },
     {
-      "input": 844,
-      "inputToken": "1991",
-      "inputPos": "CD"
+      "index": 844,
+      "token": "1991",
+      "pos": "CD"
     },
     {
-      "input": 845,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 845,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 846,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 846,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 847,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 847,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 848,
-      "inputToken": "2001",
-      "inputPos": "CD"
+      "index": 848,
+      "token": "2001",
+      "pos": "CD"
     },
     {
-      "input": 849,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 849,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 850,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 850,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 851,
-      "inputToken": "shot",
-      "inputPos": "VBD"
+      "index": 851,
+      "token": "shot",
+      "pos": "VBD"
     },
     {
-      "input": 852,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 852,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 853,
-      "inputToken": "__lalee__",
-      "inputPos": "NN"
+      "index": 853,
+      "token": "__lalee__",
+      "pos": "NN"
     },
     {
-      "input": 854,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 854,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 855,
-      "inputToken": "kin",
-      "inputPos": "NN"
+      "index": 855,
+      "token": "kin",
+      "pos": "NN"
     },
     {
-      "input": 856,
-      "inputToken": ":",
-      "inputPos": ":"
+      "index": 856,
+      "token": ":",
+      "pos": ":"
     },
     {
-      "input": 857,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 857,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 858,
-      "inputToken": "legacy",
-      "inputPos": "NN"
+      "index": 858,
+      "token": "legacy",
+      "pos": "NN"
     },
     {
-      "input": 859,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 859,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 860,
-      "inputToken": "cotton",
-      "inputPos": "NN"
+      "index": 860,
+      "token": "cotton",
+      "pos": "NN"
     },
     {
-      "input": 861,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 861,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 862,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 862,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 863,
-      "inputToken": "hbo",
-      "inputPos": "NN"
+      "index": 863,
+      "token": "hbo",
+      "pos": "NN"
     },
     {
-      "input": 864,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 864,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 865,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 865,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 866,
-      "inputToken": "depiction",
-      "inputPos": "NN"
+      "index": 866,
+      "token": "depiction",
+      "pos": "NN"
     },
     {
-      "input": 867,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 867,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 868,
-      "inputToken": "rural",
-      "inputPos": "JJ"
+      "index": 868,
+      "token": "rural",
+      "pos": "JJ"
     },
     {
-      "input": 869,
-      "inputToken": "poverty",
-      "inputPos": "NN"
+      "index": 869,
+      "token": "poverty",
+      "pos": "NN"
     },
     {
-      "input": 870,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 870,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 871,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 871,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 872,
-      "inputToken": "mississippi",
-      "inputPos": "NN"
+      "index": 872,
+      "token": "mississippi",
+      "pos": "NN"
     },
     {
-      "input": 873,
-      "inputToken": "delta",
-      "inputPos": "NN"
+      "index": 873,
+      "token": "delta",
+      "pos": "NN"
     },
     {
-      "input": 874,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 874,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 875,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 875,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 876,
-      "inputToken": "created",
-      "inputPos": "VBD"
+      "index": 876,
+      "token": "created",
+      "pos": "VBD"
     },
     {
-      "input": 877,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 877,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 878,
-      "inputToken": "susan",
-      "inputPos": "JJ"
+      "index": 878,
+      "token": "susan",
+      "pos": "JJ"
     },
     {
-      "input": 879,
-      "inputToken": "__froemke__",
-      "inputPos": "NN"
+      "index": 879,
+      "token": "__froemke__",
+      "pos": "NN"
     },
     {
-      "input": 880,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 880,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 881,
-      "inputToken": "deborah",
-      "inputPos": "NN"
+      "index": 881,
+      "token": "deborah",
+      "pos": "NN"
     },
     {
-      "input": 882,
-      "inputToken": "dickson",
-      "inputPos": "NN"
+      "index": 882,
+      "token": "dickson",
+      "pos": "NN"
     },
     {
-      "input": 883,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 883,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 884,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 884,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 885,
-      "inputToken": "whom",
-      "inputPos": "WP"
+      "index": 885,
+      "token": "whom",
+      "pos": "WP"
     },
     {
-      "input": 886,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 886,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 887,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 887,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 888,
-      "inputToken": "worked",
-      "inputPos": "VBD"
+      "index": 888,
+      "token": "worked",
+      "pos": "VBD"
     },
     {
-      "input": 889,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 889,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 890,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 890,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 891,
-      "inputToken": "desperate",
-      "inputPos": "JJ"
+      "index": 891,
+      "token": "desperate",
+      "pos": "JJ"
     },
     {
-      "input": 892,
-      "inputToken": "choices",
-      "inputPos": "NNS"
+      "index": 892,
+      "token": "choices",
+      "pos": "NNS"
     },
     {
-      "input": 893,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 893,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 894,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 894,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 895,
-      "inputToken": "__maysles__",
-      "inputPos": "NN"
+      "index": 895,
+      "token": "__maysles__",
+      "pos": "NN"
     },
     {
-      "input": 896,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 896,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 897,
-      "inputToken": "filmed",
-      "inputPos": "VBD"
+      "index": 897,
+      "token": "filmed",
+      "pos": "VBD"
     },
     {
-      "input": 898,
-      "inputToken": "half-hour",
-      "inputPos": "JJ"
+      "index": 898,
+      "token": "half-hour",
+      "pos": "JJ"
     },
     {
-      "input": 899,
-      "inputToken": "portraits",
-      "inputPos": "NNS"
+      "index": 899,
+      "token": "portraits",
+      "pos": "NNS"
     },
     {
-      "input": 900,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 900,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 901,
-      "inputToken": "filmmakers",
-      "inputPos": "NNS"
+      "index": 901,
+      "token": "filmmakers",
+      "pos": "NNS"
     },
     {
-      "input": 902,
-      "inputToken": "including",
-      "inputPos": "VBG"
+      "index": 902,
+      "token": "including",
+      "pos": "VBG"
     },
     {
-      "input": 903,
-      "inputToken": "martin",
-      "inputPos": "NN"
+      "index": 903,
+      "token": "martin",
+      "pos": "NN"
     },
     {
-      "input": 904,
-      "inputToken": "scorsese",
-      "inputPos": "JJ"
+      "index": 904,
+      "token": "scorsese",
+      "pos": "JJ"
     },
     {
-      "input": 905,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 905,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 906,
-      "inputToken": "robert",
-      "inputPos": "VB"
+      "index": 906,
+      "token": "robert",
+      "pos": "VB"
     },
     {
-      "input": 907,
-      "inputToken": "duvall",
-      "inputPos": "NN"
+      "index": 907,
+      "token": "duvall",
+      "pos": "NN"
     },
     {
-      "input": 908,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 908,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 909,
-      "inputToken": "jane",
-      "inputPos": "NN"
+      "index": 909,
+      "token": "jane",
+      "pos": "NN"
     },
     {
-      "input": 910,
-      "inputToken": "__campion__",
-      "inputPos": "NN"
+      "index": 910,
+      "token": "__campion__",
+      "pos": "NN"
     },
     {
-      "input": 911,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 911,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 912,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 912,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 913,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 913,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 914,
-      "inputToken": "remained",
-      "inputPos": "VBD"
+      "index": 914,
+      "token": "remained",
+      "pos": "VBD"
     },
     {
-      "input": 915,
-      "inputToken": "quite",
-      "inputPos": "RB"
+      "index": 915,
+      "token": "quite",
+      "pos": "RB"
     },
     {
-      "input": 916,
-      "inputToken": "active",
-      "inputPos": "JJ"
+      "index": 916,
+      "token": "active",
+      "pos": "JJ"
     },
     {
-      "input": 917,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 917,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 918,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 918,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 919,
-      "inputToken": "later",
-      "inputPos": "JJ"
+      "index": 919,
+      "token": "later",
+      "pos": "JJ"
     },
     {
-      "input": 920,
-      "inputToken": "years",
-      "inputPos": "NNS"
+      "index": 920,
+      "token": "years",
+      "pos": "NNS"
     },
     {
-      "input": 921,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 921,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 922,
-      "inputToken": "hollywood",
-      "inputPos": "NN"
+      "index": 922,
+      "token": "hollywood",
+      "pos": "NN"
     },
     {
-      "input": 923,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 923,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 924,
-      "inputToken": "notable",
-      "inputPos": "JJ"
+      "index": 924,
+      "token": "notable",
+      "pos": "JJ"
     },
     {
-      "input": 925,
-      "inputToken": "deaths",
-      "inputPos": "NNS"
+      "index": 925,
+      "token": "deaths",
+      "pos": "NNS"
     },
     {
-      "input": 926,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 926,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 927,
-      "inputToken": "2015",
-      "inputPos": "CD"
+      "index": 927,
+      "token": "2015",
+      "pos": "CD"
     },
     {
-      "input": 928,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 928,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 929,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 929,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 930,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 930,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 931,
-      "inputToken": "born",
-      "inputPos": "VBN"
+      "index": 931,
+      "token": "born",
+      "pos": "VBN"
     },
     {
-      "input": 932,
-      "inputToken": "november",
-      "inputPos": "RB"
+      "index": 932,
+      "token": "november",
+      "pos": "RB"
     },
     {
-      "input": 933,
-      "inputToken": "26",
-      "inputPos": "CD"
+      "index": 933,
+      "token": "26",
+      "pos": "CD"
     },
     {
-      "input": 934,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 934,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 935,
-      "inputToken": "1926",
-      "inputPos": "CD"
+      "index": 935,
+      "token": "1926",
+      "pos": "CD"
     },
     {
-      "input": 936,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 936,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 937,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 937,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 938,
-      "inputToken": "boston",
-      "inputPos": "NN"
+      "index": 938,
+      "token": "boston",
+      "pos": "NN"
     },
     {
-      "input": 939,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 939,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 940,
-      "inputToken": "raised",
-      "inputPos": "VBN"
+      "index": 940,
+      "token": "raised",
+      "pos": "VBN"
     },
     {
-      "input": 941,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 941,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 942,
-      "inputToken": "nearby",
-      "inputPos": "JJ"
+      "index": 942,
+      "token": "nearby",
+      "pos": "JJ"
     },
     {
-      "input": 943,
-      "inputToken": "brookline",
-      "inputPos": "NN"
+      "index": 943,
+      "token": "brookline",
+      "pos": "NN"
     },
     {
-      "input": 944,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 944,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 945,
-      "inputToken": "massachusetts",
-      "inputPos": "NN"
+      "index": 945,
+      "token": "massachusetts",
+      "pos": "NN"
     },
     {
-      "input": 946,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 946,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 947,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 947,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 948,
-      "inputToken": "got",
-      "inputPos": "VBD"
+      "index": 948,
+      "token": "got",
+      "pos": "VBD"
     },
     {
-      "input": 949,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 949,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 950,
-      "inputToken": "__b.a.__",
-      "inputPos": "NN"
+      "index": 950,
+      "token": "__b.a.__",
+      "pos": "NN"
     },
     {
-      "input": 951,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 951,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 952,
-      "inputToken": "syracuse",
-      "inputPos": "NN"
+      "index": 952,
+      "token": "syracuse",
+      "pos": "NN"
     },
     {
-      "input": 953,
-      "inputToken": "university",
-      "inputPos": "NN"
+      "index": 953,
+      "token": "university",
+      "pos": "NN"
     },
     {
-      "input": 954,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 954,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 955,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 955,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 956,
-      "inputToken": "masters",
-      "inputPos": "NNS"
+      "index": 956,
+      "token": "masters",
+      "pos": "NNS"
     },
     {
-      "input": 957,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 957,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 958,
-      "inputToken": "boston",
-      "inputPos": "NN"
+      "index": 958,
+      "token": "boston",
+      "pos": "NN"
     },
     {
-      "input": 959,
-      "inputToken": "university",
-      "inputPos": "NN"
+      "index": 959,
+      "token": "university",
+      "pos": "NN"
     },
     {
-      "input": 960,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 960,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 961,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 961,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 962,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 962,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 963,
-      "inputToken": "subsequently",
-      "inputPos": "RB"
+      "index": 963,
+      "token": "subsequently",
+      "pos": "RB"
     },
     {
-      "input": 964,
-      "inputToken": "taught",
-      "inputPos": "VBD"
+      "index": 964,
+      "token": "taught",
+      "pos": "VBD"
     },
     {
-      "input": 965,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 965,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 966,
-      "inputToken": "during",
-      "inputPos": "IN"
+      "index": 966,
+      "token": "during",
+      "pos": "IN"
     },
     {
-      "input": 967,
-      "inputToken": "world",
-      "inputPos": "NN"
+      "index": 967,
+      "token": "world",
+      "pos": "NN"
     },
     {
-      "input": 968,
-      "inputToken": "war",
-      "inputPos": "NN"
+      "index": 968,
+      "token": "war",
+      "pos": "NN"
     },
     {
-      "input": 969,
-      "inputToken": "ii",
-      "inputPos": "NN"
+      "index": 969,
+      "token": "ii",
+      "pos": "NN"
     },
     {
-      "input": 970,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 970,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 971,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 971,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 972,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 972,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 973,
-      "inputToken": "stationed",
-      "inputPos": "VBN"
+      "index": 973,
+      "token": "stationed",
+      "pos": "VBN"
     },
     {
-      "input": 974,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 974,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 975,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 975,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 976,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 976,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 977,
-      "inputToken": "army",
-      "inputPos": "NN"
+      "index": 977,
+      "token": "army",
+      "pos": "NN"
     },
     {
-      "input": 978,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 978,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 979,
-      "inputToken": "headquarters",
-      "inputPos": "NN"
+      "index": 979,
+      "token": "headquarters",
+      "pos": "NN"
     },
     {
-      "input": 980,
-      "inputToken": "intelligence",
-      "inputPos": "NN"
+      "index": 980,
+      "token": "intelligence",
+      "pos": "NN"
     },
     {
-      "input": 981,
-      "inputToken": "school",
-      "inputPos": "NN"
+      "index": 981,
+      "token": "school",
+      "pos": "NN"
     },
     {
-      "input": 982,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 982,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 983,
-      "inputToken": "__oberammergau__",
-      "inputPos": "NNP"
+      "index": 983,
+      "token": "__oberammergau__",
+      "pos": "NNP"
     },
     {
-      "input": 984,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 984,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 985,
-      "inputToken": "germany",
-      "inputPos": "NN"
+      "index": 985,
+      "token": "germany",
+      "pos": "NN"
     },
     {
-      "input": 986,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 986,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 987,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 987,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 988,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 988,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 989,
-      "inputToken": "__mid-1950s__",
-      "inputPos": "JJ"
+      "index": 989,
+      "token": "__mid-1950s__",
+      "pos": "JJ"
     },
     {
-      "input": 990,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 990,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 991,
-      "inputToken": "__maysles__",
-      "inputPos": "NNP"
+      "index": 991,
+      "token": "__maysles__",
+      "pos": "NNP"
     },
     {
-      "input": 992,
-      "inputToken": "traveled",
-      "inputPos": "VBD"
+      "index": 992,
+      "token": "traveled",
+      "pos": "VBD"
     },
     {
-      "input": 993,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 993,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 994,
-      "inputToken": "russia",
-      "inputPos": "VB"
+      "index": 994,
+      "token": "russia",
+      "pos": "VB"
     },
     {
-      "input": 995,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 995,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 996,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 996,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 997,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 997,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 998,
-      "inputToken": "made",
-      "inputPos": "VBD"
+      "index": 998,
+      "token": "made",
+      "pos": "VBD"
     },
     {
-      "input": 999,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 999,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1000,
-      "inputToken": "1955",
-      "inputPos": "CD"
+      "index": 1000,
+      "token": "1955",
+      "pos": "CD"
     },
     {
-      "input": 1001,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 1001,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 1002,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 1002,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 1003,
-      "inputToken": "mental",
-      "inputPos": "JJ"
+      "index": 1003,
+      "token": "mental",
+      "pos": "JJ"
     },
     {
-      "input": 1004,
-      "inputToken": "health",
-      "inputPos": "NN"
+      "index": 1004,
+      "token": "health",
+      "pos": "NN"
     },
     {
-      "input": 1005,
-      "inputToken": "care",
-      "inputPos": "NN"
+      "index": 1005,
+      "token": "care",
+      "pos": "NN"
     },
     {
-      "input": 1006,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 1006,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 1007,
-      "inputToken": "psychiatry",
-      "inputPos": "NN"
+      "index": 1007,
+      "token": "psychiatry",
+      "pos": "NN"
     },
     {
-      "input": 1008,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1008,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1009,
-      "inputToken": "russia",
-      "inputPos": "NN"
+      "index": 1009,
+      "token": "russia",
+      "pos": "NN"
     },
     {
-      "input": 1010,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1010,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1011,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 1011,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 1012,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 1012,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 1013,
-      "inputToken": "shown",
-      "inputPos": "VBN"
+      "index": 1013,
+      "token": "shown",
+      "pos": "VBN"
     },
     {
-      "input": 1014,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 1014,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 1015,
-      "inputToken": "nbc",
-      "inputPos": "NN"
+      "index": 1015,
+      "token": "nbc",
+      "pos": "NN"
     },
     {
-      "input": 1016,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 1016,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 1017,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 1017,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 1018,
-      "inputToken": "today",
-      "inputPos": "NN"
+      "index": 1018,
+      "token": "today",
+      "pos": "NN"
     },
     {
-      "input": 1019,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 1019,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 1020,
-      "inputToken": "show",
-      "inputPos": "NN"
+      "index": 1020,
+      "token": "show",
+      "pos": "NN"
     },
     {
-      "input": 1021,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 1021,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 1022,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 1022,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 1023,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1023,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1024,
-      "inputToken": "canadian",
-      "inputPos": "JJ"
+      "index": 1024,
+      "token": "canadian",
+      "pos": "JJ"
     },
     {
-      "input": 1025,
-      "inputToken": "broadcasting",
-      "inputPos": "NN"
+      "index": 1025,
+      "token": "broadcasting",
+      "pos": "NN"
     },
     {
-      "input": 1026,
-      "inputToken": "corp.",
-      "inputPos": "NN"
+      "index": 1026,
+      "token": "corp.",
+      "pos": "NN"
     },
     {
-      "input": 1027,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1027,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1028,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1028,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1029,
-      "inputToken": "1957",
-      "inputPos": "CD"
+      "index": 1029,
+      "token": "1957",
+      "pos": "CD"
     },
     {
-      "input": 1030,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1030,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1031,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1031,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1032,
-      "inputToken": "brothers",
-      "inputPos": "NNS"
+      "index": 1032,
+      "token": "brothers",
+      "pos": "NNS"
     },
     {
-      "input": 1033,
-      "inputToken": "began",
-      "inputPos": "VBD"
+      "index": 1033,
+      "token": "began",
+      "pos": "VBD"
     },
     {
-      "input": 1034,
-      "inputToken": "working",
-      "inputPos": "VBG"
+      "index": 1034,
+      "token": "working",
+      "pos": "VBG"
     },
     {
-      "input": 1035,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 1035,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 1036,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1036,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1037,
-      "inputToken": "team",
-      "inputPos": "NN"
+      "index": 1037,
+      "token": "team",
+      "pos": "NN"
     },
     {
-      "input": 1038,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1038,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1039,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 1039,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 1040,
-      "inputToken": "traveled",
-      "inputPos": "VBD"
+      "index": 1040,
+      "token": "traveled",
+      "pos": "VBD"
     },
     {
-      "input": 1041,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 1041,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 1042,
-      "inputToken": "munich",
-      "inputPos": "NN"
+      "index": 1042,
+      "token": "munich",
+      "pos": "NN"
     },
     {
-      "input": 1043,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 1043,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 1044,
-      "inputToken": "moscow",
-      "inputPos": "VB"
+      "index": 1044,
+      "token": "moscow",
+      "pos": "VB"
     },
     {
-      "input": 1045,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 1045,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 1046,
-      "inputToken": "motorcycle",
-      "inputPos": "NN"
+      "index": 1046,
+      "token": "motorcycle",
+      "pos": "NN"
     },
     {
-      "input": 1047,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 1047,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 1048,
-      "inputToken": "made",
-      "inputPos": "VBD"
+      "index": 1048,
+      "token": "made",
+      "pos": "VBD"
     },
     {
-      "input": 1049,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1049,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1050,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 1050,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 1051,
-      "inputToken": "about",
-      "inputPos": "IN"
+      "index": 1051,
+      "token": "about",
+      "pos": "IN"
     },
     {
-      "input": 1052,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1052,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1053,
-      "inputToken": "polish",
-      "inputPos": "JJ"
+      "index": 1053,
+      "token": "polish",
+      "pos": "JJ"
     },
     {
-      "input": 1054,
-      "inputToken": "student",
-      "inputPos": "NN"
+      "index": 1054,
+      "token": "student",
+      "pos": "NN"
     },
     {
-      "input": 1055,
-      "inputToken": "revolution",
-      "inputPos": "NN"
+      "index": 1055,
+      "token": "revolution",
+      "pos": "NN"
     },
     {
-      "input": 1056,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1056,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1057,
-      "inputToken": "`",
-      "inputPos": "``"
+      "index": 1057,
+      "token": "`",
+      "pos": "``"
     },
     {
-      "input": 1058,
-      "inputToken": "youth",
-      "inputPos": "NN"
+      "index": 1058,
+      "token": "youth",
+      "pos": "NN"
     },
     {
-      "input": 1059,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1059,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1060,
-      "inputToken": "poland",
-      "inputPos": "NN"
+      "index": 1060,
+      "token": "poland",
+      "pos": "NN"
     },
     {
-      "input": 1061,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1061,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1062,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 1062,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 1063,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 1063,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 1064,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 1064,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 1065,
-      "inputToken": "televised",
-      "inputPos": "VBN"
+      "index": 1065,
+      "token": "televised",
+      "pos": "VBN"
     },
     {
-      "input": 1066,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 1066,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 1067,
-      "inputToken": "nbc",
-      "inputPos": "NN"
+      "index": 1067,
+      "token": "nbc",
+      "pos": "NN"
     },
     {
-      "input": 1068,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1068,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1069,
-      "inputToken": "next",
-      "inputPos": "JJ"
+      "index": 1069,
+      "token": "next",
+      "pos": "JJ"
     },
     {
-      "input": 1070,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1070,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1071,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 1071,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 1072,
-      "inputToken": "worked",
-      "inputPos": "VBD"
+      "index": 1072,
+      "token": "worked",
+      "pos": "VBD"
     },
     {
-      "input": 1073,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 1073,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 1074,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 1074,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 1075,
-      "inputToken": "experimental",
-      "inputPos": "JJ"
+      "index": 1075,
+      "token": "experimental",
+      "pos": "JJ"
     },
     {
-      "input": 1076,
-      "inputToken": "tv",
-      "inputPos": "NN"
+      "index": 1076,
+      "token": "tv",
+      "pos": "NN"
     },
     {
-      "input": 1077,
-      "inputToken": "project",
-      "inputPos": "NN"
+      "index": 1077,
+      "token": "project",
+      "pos": "NN"
     },
     {
-      "input": 1078,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 1078,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 1079,
-      "inputToken": "time",
-      "inputPos": "NN"
+      "index": 1079,
+      "token": "time",
+      "pos": "NN"
     },
     {
-      "input": 1080,
-      "inputToken": "inc.",
-      "inputPos": "NN"
+      "index": 1080,
+      "token": "inc.",
+      "pos": "NN"
     },
     {
-      "input": 1081,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1081,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1082,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 1082,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 1083,
-      "inputToken": "__maysles__",
-      "inputPos": "JJ"
+      "index": 1083,
+      "token": "__maysles__",
+      "pos": "JJ"
     },
     {
-      "input": 1084,
-      "inputToken": "shooting",
-      "inputPos": "VBG"
+      "index": 1084,
+      "token": "shooting",
+      "pos": "VBG"
     },
     {
-      "input": 1085,
-      "inputToken": "primary",
-      "inputPos": "JJ"
+      "index": 1085,
+      "token": "primary",
+      "pos": "JJ"
     },
     {
-      "input": 1086,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 1086,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 1087,
-      "inputToken": "__yanqui__",
-      "inputPos": "JJ"
+      "index": 1087,
+      "token": "__yanqui__",
+      "pos": "JJ"
     },
     {
-      "input": 1088,
-      "inputToken": "no",
-      "inputPos": "DT"
+      "index": 1088,
+      "token": "no",
+      "pos": "DT"
     },
     {
-      "input": 1089,
-      "inputToken": "!",
-      "inputPos": "."
+      "index": 1089,
+      "token": "!",
+      "pos": "."
     },
     {
-      "input": 1090,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1090,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1091,
-      "inputToken": "1962",
-      "inputPos": "CD"
+      "index": 1091,
+      "token": "1962",
+      "pos": "CD"
     },
     {
-      "input": 1092,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1092,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1093,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 1093,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 1094,
-      "inputToken": "formed",
-      "inputPos": "VBD"
+      "index": 1094,
+      "token": "formed",
+      "pos": "VBD"
     },
     {
-      "input": 1095,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 1095,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 1096,
-      "inputToken": "own",
-      "inputPos": "JJ"
+      "index": 1096,
+      "token": "own",
+      "pos": "JJ"
     },
     {
-      "input": 1097,
-      "inputToken": "company",
-      "inputPos": "NN"
+      "index": 1097,
+      "token": "company",
+      "pos": "NN"
     },
     {
-      "input": 1098,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1098,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1099,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 1099,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 1100,
-      "inputToken": "made",
-      "inputPos": "VBD"
+      "index": 1100,
+      "token": "made",
+      "pos": "VBD"
     },
     {
-      "input": 1101,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 1101,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 1102,
-      "inputToken": "showman",
-      "inputPos": "NN"
+      "index": 1102,
+      "token": "showman",
+      "pos": "NN"
     },
     {
-      "input": 1103,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1103,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1104,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 1104,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 1105,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1105,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1106,
-      "inputToken": "portrait",
-      "inputPos": "NN"
+      "index": 1106,
+      "token": "portrait",
+      "pos": "NN"
     },
     {
-      "input": 1107,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 1107,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 1108,
-      "inputToken": "movie",
-      "inputPos": "NN"
+      "index": 1108,
+      "token": "movie",
+      "pos": "NN"
     },
     {
-      "input": 1109,
-      "inputToken": "magnate",
-      "inputPos": "NN"
+      "index": 1109,
+      "token": "magnate",
+      "pos": "NN"
     },
     {
-      "input": 1110,
-      "inputToken": "joseph",
-      "inputPos": "NN"
+      "index": 1110,
+      "token": "joseph",
+      "pos": "NN"
     },
     {
-      "input": 1111,
-      "inputToken": "e.",
-      "inputPos": "VBP"
+      "index": 1111,
+      "token": "e.",
+      "pos": "VBP"
     },
     {
-      "input": 1112,
-      "inputToken": "levine",
-      "inputPos": "NN"
+      "index": 1112,
+      "token": "levine",
+      "pos": "NN"
     },
     {
-      "input": 1113,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 1113,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 1114,
-      "inputToken": "brought",
-      "inputPos": "VBD"
+      "index": 1114,
+      "token": "brought",
+      "pos": "VBD"
     },
     {
-      "input": 1115,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 1115,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 1116,
-      "inputToken": "attention",
-      "inputPos": "NN"
+      "index": 1116,
+      "token": "attention",
+      "pos": "NN"
     },
     {
-      "input": 1117,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1117,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1118,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1118,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1119,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 1119,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 1120,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 1120,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 1121,
-      "inputToken": "acclaimed",
-      "inputPos": "VBN"
+      "index": 1121,
+      "token": "acclaimed",
+      "pos": "VBN"
     },
     {
-      "input": 1122,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 1122,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 1123,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1123,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1124,
-      "inputToken": "festival",
-      "inputPos": "NN"
+      "index": 1124,
+      "token": "festival",
+      "pos": "NN"
     },
     {
-      "input": 1125,
-      "inputToken": "circuit",
-      "inputPos": "NN"
+      "index": 1125,
+      "token": "circuit",
+      "pos": "NN"
     },
     {
-      "input": 1126,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1126,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1127,
-      "inputToken": "but",
-      "inputPos": "CC"
+      "index": 1127,
+      "token": "but",
+      "pos": "CC"
     },
     {
-      "input": 1128,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1128,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1129,
-      "inputToken": "__maysles__",
-      "inputPos": "NN"
+      "index": 1129,
+      "token": "__maysles__",
+      "pos": "NN"
     },
     {
-      "input": 1130,
-      "inputToken": "dubbed",
-      "inputPos": "VBD"
+      "index": 1130,
+      "token": "dubbed",
+      "pos": "VBD"
     },
     {
-      "input": 1131,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 1131,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 1132,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 1132,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 1133,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 1133,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 1134,
-      "inputToken": "expensive",
-      "inputPos": "JJ"
+      "index": 1134,
+      "token": "expensive",
+      "pos": "JJ"
     },
     {
-      "input": 1135,
-      "inputToken": "resume",
-      "inputPos": "NN"
+      "index": 1135,
+      "token": "resume",
+      "pos": "NN"
     },
     {
-      "input": 1136,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1136,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1137,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 1137,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 1138,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 1138,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 1139,
-      "inputToken": "subsequently",
-      "inputPos": "RB"
+      "index": 1139,
+      "token": "subsequently",
+      "pos": "RB"
     },
     {
-      "input": 1140,
-      "inputToken": "won",
-      "inputPos": "VBD"
+      "index": 1140,
+      "token": "won",
+      "pos": "VBD"
     },
     {
-      "input": 1141,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1141,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1142,
-      "inputToken": "guggenheim",
-      "inputPos": "JJ"
+      "index": 1142,
+      "token": "guggenheim",
+      "pos": "JJ"
     },
     {
-      "input": 1143,
-      "inputToken": "fellowship",
-      "inputPos": "NN"
+      "index": 1143,
+      "token": "fellowship",
+      "pos": "NN"
     },
     {
-      "input": 1144,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1144,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1145,
-      "inputToken": "experimental",
-      "inputPos": "JJ"
+      "index": 1145,
+      "token": "experimental",
+      "pos": "JJ"
     },
     {
-      "input": 1146,
-      "inputToken": "film",
-      "inputPos": "NN"
+      "index": 1146,
+      "token": "film",
+      "pos": "NN"
     },
     {
-      "input": 1147,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1147,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1148,
-      "inputToken": "people",
-      "inputPos": "NNS"
+      "index": 1148,
+      "token": "people",
+      "pos": "NNS"
     },
     {
-      "input": 1149,
-      "inputToken": "we",
-      "inputPos": "PRP"
+      "index": 1149,
+      "token": "we",
+      "pos": "PRP"
     },
     {
-      "input": 1150,
-      "inputToken": "'ve",
-      "inputPos": "VBP"
+      "index": 1150,
+      "token": "'ve",
+      "pos": "VBP"
     },
     {
-      "input": 1151,
-      "inputToken": "lost",
-      "inputPos": "VBN"
+      "index": 1151,
+      "token": "lost",
+      "pos": "VBN"
     },
     {
-      "input": 1152,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1152,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1153,
-      "inputToken": "2015",
-      "inputPos": "CD"
+      "index": 1153,
+      "token": "2015",
+      "pos": "CD"
     },
     {
-      "input": 1154,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1154,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1155,
-      "inputToken": "\u00a9",
-      "inputPos": "VB"
+      "index": 1155,
+      "token": "\u00a9",
+      "pos": "VB"
     },
     {
-      "input": 1156,
-      "inputToken": "2015",
-      "inputPos": "CD"
+      "index": 1156,
+      "token": "2015",
+      "pos": "CD"
     },
     {
-      "input": 1157,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1157,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1158,
-      "inputToken": "hollywood",
-      "inputPos": "NN"
+      "index": 1158,
+      "token": "hollywood",
+      "pos": "NN"
     },
     {
-      "input": 1159,
-      "inputToken": "reporter",
-      "inputPos": "NN"
+      "index": 1159,
+      "token": "reporter",
+      "pos": "NN"
     },
     {
-      "input": 1160,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1160,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1161,
-      "inputToken": "all",
-      "inputPos": "DT"
+      "index": 1161,
+      "token": "all",
+      "pos": "DT"
     },
     {
-      "input": 1162,
-      "inputToken": "rights",
-      "inputPos": "NNS"
+      "index": 1162,
+      "token": "rights",
+      "pos": "NNS"
     },
     {
-      "input": 1163,
-      "inputToken": "reserved",
-      "inputPos": "VBN"
+      "index": 1163,
+      "token": "reserved",
+      "pos": "VBN"
     },
     {
-      "input": 1164,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1164,
+      "token": ".",
+      "pos": "."
     }
   ],
   "outputTokens": [

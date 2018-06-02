@@ -114003,5339 +114003,5339 @@
   ],
   "inputTokens": [
     {
-      "input": 0,
-      "inputToken": "-lrb-",
-      "inputPos": "JJ"
+      "index": 0,
+      "token": "-lrb-",
+      "pos": "JJ"
     },
     {
-      "input": 1,
-      "inputToken": "cnn",
-      "inputPos": "NN"
+      "index": 1,
+      "token": "cnn",
+      "pos": "NN"
     },
     {
-      "input": 2,
-      "inputToken": "-rrb-",
-      "inputPos": "VBZ"
+      "index": 2,
+      "token": "-rrb-",
+      "pos": "VBZ"
     },
     {
-      "input": 3,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 3,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 4,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 4,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 5,
-      "inputToken": "property",
-      "inputPos": "NN"
+      "index": 5,
+      "token": "property",
+      "pos": "NN"
     },
     {
-      "input": 6,
-      "inputToken": "developer",
-      "inputPos": "NN"
+      "index": 6,
+      "token": "developer",
+      "pos": "NN"
     },
     {
-      "input": 7,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 7,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 8,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 8,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 9,
-      "inputToken": "chinese",
-      "inputPos": "JJ"
+      "index": 9,
+      "token": "chinese",
+      "pos": "JJ"
     },
     {
-      "input": 10,
-      "inputToken": "outfit",
-      "inputPos": "NN"
+      "index": 10,
+      "token": "outfit",
+      "pos": "NN"
     },
     {
-      "input": 11,
-      "inputToken": "operating",
-      "inputPos": "VBG"
+      "index": 11,
+      "token": "operating",
+      "pos": "VBG"
     },
     {
-      "input": 12,
-      "inputToken": "shell",
-      "inputPos": "NN"
+      "index": 12,
+      "token": "shell",
+      "pos": "NN"
     },
     {
-      "input": 13,
-      "inputToken": "companies",
-      "inputPos": "NNS"
+      "index": 13,
+      "token": "companies",
+      "pos": "NNS"
     },
     {
-      "input": 14,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 14,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 15,
-      "inputToken": "venezuelan",
-      "inputPos": "NN"
+      "index": 15,
+      "token": "venezuelan",
+      "pos": "NN"
     },
     {
-      "input": 16,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 16,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 17,
-      "inputToken": "ripping",
-      "inputPos": "VBG"
+      "index": 17,
+      "token": "ripping",
+      "pos": "VBG"
     },
     {
-      "input": 18,
-      "inputToken": "off",
-      "inputPos": "RP"
+      "index": 18,
+      "token": "off",
+      "pos": "RP"
     },
     {
-      "input": 19,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 19,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 20,
-      "inputToken": "state-owned",
-      "inputPos": "JJ"
+      "index": 20,
+      "token": "state-owned",
+      "pos": "JJ"
     },
     {
-      "input": 21,
-      "inputToken": "oil",
-      "inputPos": "NN"
+      "index": 21,
+      "token": "oil",
+      "pos": "NN"
     },
     {
-      "input": 22,
-      "inputToken": "companies",
-      "inputPos": "NNS"
+      "index": 22,
+      "token": "companies",
+      "pos": "NNS"
     },
     {
-      "input": 23,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 23,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 24,
-      "inputToken": "all",
-      "inputPos": "DT"
+      "index": 24,
+      "token": "all",
+      "pos": "DT"
     },
     {
-      "input": 25,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 25,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 26,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 26,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 27,
-      "inputToken": "are",
-      "inputPos": "VBP"
+      "index": 27,
+      "token": "are",
+      "pos": "VBP"
     },
     {
-      "input": 28,
-      "inputToken": "accused",
-      "inputPos": "VBN"
+      "index": 28,
+      "token": "accused",
+      "pos": "VBN"
     },
     {
-      "input": 29,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 29,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 30,
-      "inputToken": "coming",
-      "inputPos": "VBG"
+      "index": 30,
+      "token": "coming",
+      "pos": "VBG"
     },
     {
-      "input": 31,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 31,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 32,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 32,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 33,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 33,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 34,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 34,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 35,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 35,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 36,
-      "inputToken": "european",
-      "inputPos": "JJ"
+      "index": 36,
+      "token": "european",
+      "pos": "JJ"
     },
     {
-      "input": 37,
-      "inputToken": "principality",
-      "inputPos": "NN"
+      "index": 37,
+      "token": "principality",
+      "pos": "NN"
     },
     {
-      "input": 38,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 38,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 39,
-      "inputToken": "andorra",
-      "inputPos": "NN"
+      "index": 39,
+      "token": "andorra",
+      "pos": "NN"
     },
     {
-      "input": 40,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 40,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 41,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 41,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 42,
-      "inputToken": "wash",
-      "inputPos": "VB"
+      "index": 42,
+      "token": "wash",
+      "pos": "VB"
     },
     {
-      "input": 43,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 43,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 44,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 44,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 45,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 45,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 46,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 46,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 47,
-      "inputToken": "now",
-      "inputPos": "RB"
+      "index": 47,
+      "token": "now",
+      "pos": "RB"
     },
     {
-      "input": 48,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 48,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 49,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 49,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 50,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 50,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 51,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 51,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 52,
-      "inputToken": "casting",
-      "inputPos": "VBG"
+      "index": 52,
+      "token": "casting",
+      "pos": "VBG"
     },
     {
-      "input": 53,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 53,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 54,
-      "inputToken": "spotlight",
-      "inputPos": "NN"
+      "index": 54,
+      "token": "spotlight",
+      "pos": "NN"
     },
     {
-      "input": 55,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 55,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 56,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 56,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 57,
-      "inputToken": "alleged",
-      "inputPos": "JJ"
+      "index": 57,
+      "token": "alleged",
+      "pos": "JJ"
     },
     {
-      "input": 58,
-      "inputToken": "misdeeds",
-      "inputPos": "NNS"
+      "index": 58,
+      "token": "misdeeds",
+      "pos": "NNS"
     },
     {
-      "input": 59,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 59,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 60,
-      "inputToken": "senior",
-      "inputPos": "JJ"
+      "index": 60,
+      "token": "senior",
+      "pos": "JJ"
     },
     {
-      "input": 61,
-      "inputToken": "managers",
-      "inputPos": "NNS"
+      "index": 61,
+      "token": "managers",
+      "pos": "NNS"
     },
     {
-      "input": 62,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 62,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 63,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 63,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 64,
-      "inputToken": "__banca__",
-      "inputPos": "NNP"
+      "index": 64,
+      "token": "__banca__",
+      "pos": "NNP"
     },
     {
-      "input": 65,
-      "inputToken": "__privada__",
-      "inputPos": "NNP"
+      "index": 65,
+      "token": "__privada__",
+      "pos": "NNP"
     },
     {
-      "input": 66,
-      "inputToken": "__d'andorra__",
-      "inputPos": "NNP"
+      "index": 66,
+      "token": "__d'andorra__",
+      "pos": "NNP"
     },
     {
-      "input": 67,
-      "inputToken": "-lrb-",
-      "inputPos": "NNP"
+      "index": 67,
+      "token": "-lrb-",
+      "pos": "NNP"
     },
     {
-      "input": 68,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 68,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 69,
-      "inputToken": "-rrb-",
-      "inputPos": "NNP"
+      "index": 69,
+      "token": "-rrb-",
+      "pos": "NNP"
     },
     {
-      "input": 70,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 70,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 71,
-      "inputToken": "several",
-      "inputPos": "JJ"
+      "index": 71,
+      "token": "several",
+      "pos": "JJ"
     },
     {
-      "input": 72,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 72,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 73,
-      "inputToken": "whom",
-      "inputPos": "WP"
+      "index": 73,
+      "token": "whom",
+      "pos": "WP"
     },
     {
-      "input": 74,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 74,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 75,
-      "inputToken": "been",
-      "inputPos": "VBN"
+      "index": 75,
+      "token": "been",
+      "pos": "VBN"
     },
     {
-      "input": 76,
-      "inputToken": "arrested",
-      "inputPos": "VBN"
+      "index": 76,
+      "token": "arrested",
+      "pos": "VBN"
     },
     {
-      "input": 77,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 77,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 78,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 78,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 79,
-      "inputToken": "past",
-      "inputPos": "JJ"
+      "index": 79,
+      "token": "past",
+      "pos": "JJ"
     },
     {
-      "input": 80,
-      "inputToken": "few",
-      "inputPos": "JJ"
+      "index": 80,
+      "token": "few",
+      "pos": "JJ"
     },
     {
-      "input": 81,
-      "inputToken": "days",
-      "inputPos": "NNS"
+      "index": 81,
+      "token": "days",
+      "pos": "NNS"
     },
     {
-      "input": 82,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 82,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 83,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 83,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 84,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 84,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 85,
-      "inputToken": "department",
-      "inputPos": "NN"
+      "index": 85,
+      "token": "department",
+      "pos": "NN"
     },
     {
-      "input": 86,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 86,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 87,
-      "inputToken": "alleged",
-      "inputPos": "VBN"
+      "index": 87,
+      "token": "alleged",
+      "pos": "VBN"
     },
     {
-      "input": 88,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 88,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 89,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 89,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 90,
-      "inputToken": "high-level",
-      "inputPos": "JJ"
+      "index": 90,
+      "token": "high-level",
+      "pos": "JJ"
     },
     {
-      "input": 91,
-      "inputToken": "managers",
-      "inputPos": "NNS"
+      "index": 91,
+      "token": "managers",
+      "pos": "NNS"
     },
     {
-      "input": 92,
-      "inputToken": "-lsb-",
-      "inputPos": "VBP"
+      "index": 92,
+      "token": "-lsb-",
+      "pos": "VBP"
     },
     {
-      "input": 93,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 93,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 94,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 94,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 95,
-      "inputToken": "-rsb-",
-      "inputPos": "NN"
+      "index": 95,
+      "token": "-rsb-",
+      "pos": "NN"
     },
     {
-      "input": 96,
-      "inputToken": "accepted",
-      "inputPos": "VBD"
+      "index": 96,
+      "token": "accepted",
+      "pos": "VBD"
     },
     {
-      "input": 97,
-      "inputToken": "payments",
-      "inputPos": "NNS"
+      "index": 97,
+      "token": "payments",
+      "pos": "NNS"
     },
     {
-      "input": 98,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 98,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 99,
-      "inputToken": "other",
-      "inputPos": "JJ"
+      "index": 99,
+      "token": "other",
+      "pos": "JJ"
     },
     {
-      "input": 100,
-      "inputToken": "benefits",
-      "inputPos": "NNS"
+      "index": 100,
+      "token": "benefits",
+      "pos": "NNS"
     },
     {
-      "input": 101,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 101,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 102,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 102,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 103,
-      "inputToken": "criminal",
-      "inputPos": "JJ"
+      "index": 103,
+      "token": "criminal",
+      "pos": "JJ"
     },
     {
-      "input": 104,
-      "inputToken": "clients",
-      "inputPos": "NNS"
+      "index": 104,
+      "token": "clients",
+      "pos": "NNS"
     },
     {
-      "input": 105,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 105,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 106,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 106,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 107,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 107,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 108,
-      "inputToken": "__andorran__",
-      "inputPos": "NNP"
+      "index": 108,
+      "token": "__andorran__",
+      "pos": "NNP"
     },
     {
-      "input": 109,
-      "inputToken": "authorities",
-      "inputPos": "NNS"
+      "index": 109,
+      "token": "authorities",
+      "pos": "NNS"
     },
     {
-      "input": 110,
-      "inputToken": "took",
-      "inputPos": "VBD"
+      "index": 110,
+      "token": "took",
+      "pos": "VBD"
     },
     {
-      "input": 111,
-      "inputToken": "over",
-      "inputPos": "RP"
+      "index": 111,
+      "token": "over",
+      "pos": "RP"
     },
     {
-      "input": 112,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 112,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 113,
-      "inputToken": "running",
-      "inputPos": "NN"
+      "index": 113,
+      "token": "running",
+      "pos": "NN"
     },
     {
-      "input": 114,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 114,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 115,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 115,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 116,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 116,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 117,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 117,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 118,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 118,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 119,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 119,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 120,
-      "inputToken": "revelations",
-      "inputPos": "NNS"
+      "index": 120,
+      "token": "revelations",
+      "pos": "NNS"
     },
     {
-      "input": 121,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 121,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 122,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 122,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 123,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 123,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 124,
-      "inputToken": "director",
-      "inputPos": "NN"
+      "index": 124,
+      "token": "director",
+      "pos": "NN"
     },
     {
-      "input": 125,
-      "inputToken": "general",
-      "inputPos": "NN"
+      "index": 125,
+      "token": "general",
+      "pos": "NN"
     },
     {
-      "input": 126,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 126,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 127,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 127,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 128,
-      "inputToken": "__banca__",
-      "inputPos": "NNP"
+      "index": 128,
+      "token": "__banca__",
+      "pos": "NNP"
     },
     {
-      "input": 129,
-      "inputToken": "__privada__",
-      "inputPos": "NNP"
+      "index": 129,
+      "token": "__privada__",
+      "pos": "NNP"
     },
     {
-      "input": 130,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 130,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 131,
-      "inputToken": "joan",
-      "inputPos": "NN"
+      "index": 131,
+      "token": "joan",
+      "pos": "NN"
     },
     {
-      "input": 132,
-      "inputToken": "pau",
-      "inputPos": "NN"
+      "index": 132,
+      "token": "pau",
+      "pos": "NN"
     },
     {
-      "input": 133,
-      "inputToken": "__miquel__",
-      "inputPos": "NNP"
+      "index": 133,
+      "token": "__miquel__",
+      "pos": "NNP"
     },
     {
-      "input": 134,
-      "inputToken": "__prats__",
-      "inputPos": "NNP"
+      "index": 134,
+      "token": "__prats__",
+      "pos": "NNP"
     },
     {
-      "input": 135,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 135,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 136,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 136,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 137,
-      "inputToken": "arrested",
-      "inputPos": "VBN"
+      "index": 137,
+      "token": "arrested",
+      "pos": "VBN"
     },
     {
-      "input": 138,
-      "inputToken": "late",
-      "inputPos": "JJ"
+      "index": 138,
+      "token": "late",
+      "pos": "JJ"
     },
     {
-      "input": 139,
-      "inputToken": "friday",
-      "inputPos": "NN"
+      "index": 139,
+      "token": "friday",
+      "pos": "NN"
     },
     {
-      "input": 140,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 140,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 141,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 141,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 142,
-      "inputToken": "more",
-      "inputPos": "JJR"
+      "index": 142,
+      "token": "more",
+      "pos": "JJR"
     },
     {
-      "input": 143,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 143,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 144,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 144,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 145,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 145,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 146,
-      "inputToken": "arrested",
-      "inputPos": "VBN"
+      "index": 146,
+      "token": "arrested",
+      "pos": "VBN"
     },
     {
-      "input": 147,
-      "inputToken": "sunday",
-      "inputPos": "NN"
+      "index": 147,
+      "token": "sunday",
+      "pos": "NN"
     },
     {
-      "input": 148,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 148,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 149,
-      "inputToken": "tiny",
-      "inputPos": "JJ"
+      "index": 149,
+      "token": "tiny",
+      "pos": "JJ"
     },
     {
-      "input": 150,
-      "inputToken": "andorra",
-      "inputPos": "NN"
+      "index": 150,
+      "token": "andorra",
+      "pos": "NN"
     },
     {
-      "input": 151,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 151,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 152,
-      "inputToken": "nestled",
-      "inputPos": "VBN"
+      "index": 152,
+      "token": "nestled",
+      "pos": "VBN"
     },
     {
-      "input": 153,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 153,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 154,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 154,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 155,
-      "inputToken": "rugged",
-      "inputPos": "JJ"
+      "index": 155,
+      "token": "rugged",
+      "pos": "JJ"
     },
     {
-      "input": 156,
-      "inputToken": "pyrenees",
-      "inputPos": "NNS"
+      "index": 156,
+      "token": "pyrenees",
+      "pos": "NNS"
     },
     {
-      "input": 157,
-      "inputToken": "mountains",
-      "inputPos": "NNS"
+      "index": 157,
+      "token": "mountains",
+      "pos": "NNS"
     },
     {
-      "input": 158,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 158,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 159,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 159,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 160,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 160,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 161,
-      "inputToken": "big",
-      "inputPos": "JJ"
+      "index": 161,
+      "token": "big",
+      "pos": "JJ"
     },
     {
-      "input": 162,
-      "inputToken": "neighbors",
-      "inputPos": "NNS"
+      "index": 162,
+      "token": "neighbors",
+      "pos": "NNS"
     },
     {
-      "input": 163,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 163,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 164,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 164,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 165,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 165,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 166,
-      "inputToken": "france",
-      "inputPos": "NN"
+      "index": 166,
+      "token": "france",
+      "pos": "NN"
     },
     {
-      "input": 167,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 167,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 168,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 168,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 169,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 169,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 170,
-      "inputToken": "scandal",
-      "inputPos": "NN"
+      "index": 170,
+      "token": "scandal",
+      "pos": "NN"
     },
     {
-      "input": 171,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 171,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 172,
-      "inputToken": "spread",
-      "inputPos": "VBN"
+      "index": 172,
+      "token": "spread",
+      "pos": "VBN"
     },
     {
-      "input": 173,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 173,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 174,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 174,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 175,
-      "inputToken": "other",
-      "inputPos": "JJ"
+      "index": 175,
+      "token": "other",
+      "pos": "JJ"
     },
     {
-      "input": 176,
-      "inputToken": "neighbor",
-      "inputPos": "NN"
+      "index": 176,
+      "token": "neighbor",
+      "pos": "NN"
     },
     {
-      "input": 177,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 177,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 178,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 178,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 179,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 179,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 180,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 180,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 181,
-      "inputToken": "corruption",
-      "inputPos": "NN"
+      "index": 181,
+      "token": "corruption",
+      "pos": "NN"
     },
     {
-      "input": 182,
-      "inputToken": "among",
-      "inputPos": "IN"
+      "index": 182,
+      "token": "among",
+      "pos": "IN"
     },
     {
-      "input": 183,
-      "inputToken": "public",
-      "inputPos": "JJ"
+      "index": 183,
+      "token": "public",
+      "pos": "JJ"
     },
     {
-      "input": 184,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 184,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 185,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 185,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 186,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 186,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 187,
-      "inputToken": "hot-button",
-      "inputPos": "JJ"
+      "index": 187,
+      "token": "hot-button",
+      "pos": "JJ"
     },
     {
-      "input": 188,
-      "inputToken": "political",
-      "inputPos": "JJ"
+      "index": 188,
+      "token": "political",
+      "pos": "JJ"
     },
     {
-      "input": 189,
-      "inputToken": "issue",
-      "inputPos": "NN"
+      "index": 189,
+      "token": "issue",
+      "pos": "NN"
     },
     {
-      "input": 190,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 190,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 191,
-      "inputToken": "__prats__",
-      "inputPos": "VB"
+      "index": 191,
+      "token": "__prats__",
+      "pos": "VB"
     },
     {
-      "input": 192,
-      "inputToken": "had",
-      "inputPos": "VBD"
+      "index": 192,
+      "token": "had",
+      "pos": "VBD"
     },
     {
-      "input": 193,
-      "inputToken": "driven",
-      "inputPos": "VBN"
+      "index": 193,
+      "token": "driven",
+      "pos": "VBN"
     },
     {
-      "input": 194,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 194,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 195,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 195,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 196,
-      "inputToken": "expansion",
-      "inputPos": "NN"
+      "index": 196,
+      "token": "expansion",
+      "pos": "NN"
     },
     {
-      "input": 197,
-      "inputToken": "into",
-      "inputPos": "IN"
+      "index": 197,
+      "token": "into",
+      "pos": "IN"
     },
     {
-      "input": 198,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 198,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 199,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 199,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 200,
-      "inputToken": "through",
-      "inputPos": "IN"
+      "index": 200,
+      "token": "through",
+      "pos": "IN"
     },
     {
-      "input": 201,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 201,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 202,
-      "inputToken": "acquisition",
-      "inputPos": "NN"
+      "index": 202,
+      "token": "acquisition",
+      "pos": "NN"
     },
     {
-      "input": 203,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 203,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 204,
-      "inputToken": "banco",
-      "inputPos": "NN"
+      "index": 204,
+      "token": "banco",
+      "pos": "NN"
     },
     {
-      "input": 205,
-      "inputToken": "madrid",
-      "inputPos": "NN"
+      "index": 205,
+      "token": "madrid",
+      "pos": "NN"
     },
     {
-      "input": 206,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 206,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 207,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 207,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 208,
-      "inputToken": "2011",
-      "inputPos": "CD"
+      "index": 208,
+      "token": "2011",
+      "pos": "CD"
     },
     {
-      "input": 209,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 209,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 210,
-      "inputToken": "banco",
-      "inputPos": "VB"
+      "index": 210,
+      "token": "banco",
+      "pos": "VB"
     },
     {
-      "input": 211,
-      "inputToken": "madrid",
-      "inputPos": "JJ"
+      "index": 211,
+      "token": "madrid",
+      "pos": "JJ"
     },
     {
-      "input": 212,
-      "inputToken": "caters",
-      "inputPos": "NNS"
+      "index": 212,
+      "token": "caters",
+      "pos": "NNS"
     },
     {
-      "input": 213,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 213,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 214,
-      "inputToken": "wealthy",
-      "inputPos": "VB"
+      "index": 214,
+      "token": "wealthy",
+      "pos": "VB"
     },
     {
-      "input": 215,
-      "inputToken": "private",
-      "inputPos": "JJ"
+      "index": 215,
+      "token": "private",
+      "pos": "JJ"
     },
     {
-      "input": 216,
-      "inputToken": "clients",
-      "inputPos": "NNS"
+      "index": 216,
+      "token": "clients",
+      "pos": "NNS"
     },
     {
-      "input": 217,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 217,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 218,
-      "inputToken": "came",
-      "inputPos": "VBD"
+      "index": 218,
+      "token": "came",
+      "pos": "VBD"
     },
     {
-      "input": 219,
-      "inputToken": "under",
-      "inputPos": "IN"
+      "index": 219,
+      "token": "under",
+      "pos": "IN"
     },
     {
-      "input": 220,
-      "inputToken": "investigation",
-      "inputPos": "NN"
+      "index": 220,
+      "token": "investigation",
+      "pos": "NN"
     },
     {
-      "input": 221,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 221,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 222,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 222,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 223,
-      "inputToken": "financial",
-      "inputPos": "JJ"
+      "index": 223,
+      "token": "financial",
+      "pos": "JJ"
     },
     {
-      "input": 224,
-      "inputToken": "authorities",
-      "inputPos": "NNS"
+      "index": 224,
+      "token": "authorities",
+      "pos": "NNS"
     },
     {
-      "input": 225,
-      "inputToken": "last",
-      "inputPos": "JJ"
+      "index": 225,
+      "token": "last",
+      "pos": "JJ"
     },
     {
-      "input": 226,
-      "inputToken": "year",
-      "inputPos": "NN"
+      "index": 226,
+      "token": "year",
+      "pos": "NN"
     },
     {
-      "input": 227,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 227,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 228,
-      "inputToken": "since",
-      "inputPos": "IN"
+      "index": 228,
+      "token": "since",
+      "pos": "IN"
     },
     {
-      "input": 229,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 229,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 230,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 230,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 231,
-      "inputToken": "scandal",
-      "inputPos": "NN"
+      "index": 231,
+      "token": "scandal",
+      "pos": "NN"
     },
     {
-      "input": 232,
-      "inputToken": "broke",
-      "inputPos": "VBD"
+      "index": 232,
+      "token": "broke",
+      "pos": "VBD"
     },
     {
-      "input": 233,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 233,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 234,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 234,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 235,
-      "inputToken": "commission",
-      "inputPos": "NN"
+      "index": 235,
+      "token": "commission",
+      "pos": "NN"
     },
     {
-      "input": 236,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 236,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 237,
-      "inputToken": "investigates",
-      "inputPos": "VBZ"
+      "index": 237,
+      "token": "investigates",
+      "pos": "VBZ"
     },
     {
-      "input": 238,
-      "inputToken": "illicit",
-      "inputPos": "JJ"
+      "index": 238,
+      "token": "illicit",
+      "pos": "JJ"
     },
     {
-      "input": 239,
-      "inputToken": "financial",
-      "inputPos": "JJ"
+      "index": 239,
+      "token": "financial",
+      "pos": "JJ"
     },
     {
-      "input": 240,
-      "inputToken": "activity",
-      "inputPos": "NN"
+      "index": 240,
+      "token": "activity",
+      "pos": "NN"
     },
     {
-      "input": 241,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 241,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 242,
-      "inputToken": "__sepblac__",
-      "inputPos": "NN"
+      "index": 242,
+      "token": "__sepblac__",
+      "pos": "NN"
     },
     {
-      "input": 243,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 243,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 244,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 244,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 245,
-      "inputToken": "raised",
-      "inputPos": "VBN"
+      "index": 245,
+      "token": "raised",
+      "pos": "VBN"
     },
     {
-      "input": 246,
-      "inputToken": "questions",
-      "inputPos": "NNS"
+      "index": 246,
+      "token": "questions",
+      "pos": "NNS"
     },
     {
-      "input": 247,
-      "inputToken": "about",
-      "inputPos": "IN"
+      "index": 247,
+      "token": "about",
+      "pos": "IN"
     },
     {
-      "input": 248,
-      "inputToken": "accounts",
-      "inputPos": "NNS"
+      "index": 248,
+      "token": "accounts",
+      "pos": "NNS"
     },
     {
-      "input": 249,
-      "inputToken": "held",
-      "inputPos": "VBN"
+      "index": 249,
+      "token": "held",
+      "pos": "VBN"
     },
     {
-      "input": 250,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 250,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 251,
-      "inputToken": "influential",
-      "inputPos": "JJ"
+      "index": 251,
+      "token": "influential",
+      "pos": "JJ"
     },
     {
-      "input": 252,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 252,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 253,
-      "inputToken": "political",
-      "inputPos": "JJ"
+      "index": 253,
+      "token": "political",
+      "pos": "JJ"
     },
     {
-      "input": 254,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 254,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 255,
-      "inputToken": "business",
-      "inputPos": "NN"
+      "index": 255,
+      "token": "business",
+      "pos": "NN"
     },
     {
-      "input": 256,
-      "inputToken": "figures",
-      "inputPos": "NNS"
+      "index": 256,
+      "token": "figures",
+      "pos": "NNS"
     },
     {
-      "input": 257,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 257,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 258,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 258,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 259,
-      "inputToken": "banco",
-      "inputPos": "NN"
+      "index": 259,
+      "token": "banco",
+      "pos": "NN"
     },
     {
-      "input": 260,
-      "inputToken": "madrid",
-      "inputPos": "NN"
+      "index": 260,
+      "token": "madrid",
+      "pos": "NN"
     },
     {
-      "input": 261,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 261,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 262,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 262,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 263,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 263,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 264,
-      "inputToken": "not",
-      "inputPos": "RB"
+      "index": 264,
+      "token": "not",
+      "pos": "RB"
     },
     {
-      "input": 265,
-      "inputToken": "been",
-      "inputPos": "VBN"
+      "index": 265,
+      "token": "been",
+      "pos": "VBN"
     },
     {
-      "input": 266,
-      "inputToken": "named",
-      "inputPos": "VBN"
+      "index": 266,
+      "token": "named",
+      "pos": "VBN"
     },
     {
-      "input": 267,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 267,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 268,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 268,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 269,
-      "inputToken": "central",
-      "inputPos": "JJ"
+      "index": 269,
+      "token": "central",
+      "pos": "JJ"
     },
     {
-      "input": 270,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 270,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 271,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 271,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 272,
-      "inputToken": "taken",
-      "inputPos": "VBN"
+      "index": 272,
+      "token": "taken",
+      "pos": "VBN"
     },
     {
-      "input": 273,
-      "inputToken": "control",
-      "inputPos": "NN"
+      "index": 273,
+      "token": "control",
+      "pos": "NN"
     },
     {
-      "input": 274,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 274,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 275,
-      "inputToken": "banco",
-      "inputPos": "NN"
+      "index": 275,
+      "token": "banco",
+      "pos": "NN"
     },
     {
-      "input": 276,
-      "inputToken": "madrid",
-      "inputPos": "NN"
+      "index": 276,
+      "token": "madrid",
+      "pos": "NN"
     },
     {
-      "input": 277,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 277,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 278,
-      "inputToken": "sent",
-      "inputPos": "VBN"
+      "index": 278,
+      "token": "sent",
+      "pos": "VBN"
     },
     {
-      "input": 279,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 279,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 280,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 280,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 281,
-      "inputToken": "inspectors",
-      "inputPos": "NNS"
+      "index": 281,
+      "token": "inspectors",
+      "pos": "NNS"
     },
     {
-      "input": 282,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 282,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 283,
-      "inputToken": "examine",
-      "inputPos": "VB"
+      "index": 283,
+      "token": "examine",
+      "pos": "VB"
     },
     {
-      "input": 284,
-      "inputToken": "accounts",
-      "inputPos": "NNS"
+      "index": 284,
+      "token": "accounts",
+      "pos": "NNS"
     },
     {
-      "input": 285,
-      "inputToken": "there",
-      "inputPos": "RB"
+      "index": 285,
+      "token": "there",
+      "pos": "RB"
     },
     {
-      "input": 286,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 286,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 287,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 287,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 288,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 288,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 289,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 289,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 290,
-      "inputToken": "board",
-      "inputPos": "NN"
+      "index": 290,
+      "token": "board",
+      "pos": "NN"
     },
     {
-      "input": 291,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 291,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 292,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 292,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 293,
-      "inputToken": "included",
-      "inputPos": "VBD"
+      "index": 293,
+      "token": "included",
+      "pos": "VBD"
     },
     {
-      "input": 294,
-      "inputToken": "__prats__",
-      "inputPos": "NNP"
+      "index": 294,
+      "token": "__prats__",
+      "pos": "NNP"
     },
     {
-      "input": 295,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 295,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 296,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 296,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 297,
-      "inputToken": "former",
-      "inputPos": "JJ"
+      "index": 297,
+      "token": "former",
+      "pos": "JJ"
     },
     {
-      "input": 298,
-      "inputToken": "high-ranking",
-      "inputPos": "JJ"
+      "index": 298,
+      "token": "high-ranking",
+      "pos": "JJ"
     },
     {
-      "input": 299,
-      "inputToken": "official",
-      "inputPos": "NN"
+      "index": 299,
+      "token": "official",
+      "pos": "NN"
     },
     {
-      "input": 300,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 300,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 301,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 301,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 302,
-      "inputToken": "central",
-      "inputPos": "JJ"
+      "index": 302,
+      "token": "central",
+      "pos": "JJ"
     },
     {
-      "input": 303,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 303,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 304,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 304,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 305,
-      "inputToken": "resigned",
-      "inputPos": "VBD"
+      "index": 305,
+      "token": "resigned",
+      "pos": "VBD"
     },
     {
-      "input": 306,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 306,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 307,
-      "inputToken": "thursday",
-      "inputPos": "NN"
+      "index": 307,
+      "token": "thursday",
+      "pos": "NN"
     },
     {
-      "input": 308,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 308,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 309,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 309,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 310,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 310,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 311,
-      "inputToken": "say",
-      "inputPos": "VBP"
+      "index": 311,
+      "token": "say",
+      "pos": "VBP"
     },
     {
-      "input": 312,
-      "inputToken": "some",
-      "inputPos": "DT"
+      "index": 312,
+      "token": "some",
+      "pos": "DT"
     },
     {
-      "input": 313,
-      "inputToken": "20",
-      "inputPos": "CD"
+      "index": 313,
+      "token": "20",
+      "pos": "CD"
     },
     {
-      "input": 314,
-      "inputToken": "suspect",
-      "inputPos": "JJ"
+      "index": 314,
+      "token": "suspect",
+      "pos": "JJ"
     },
     {
-      "input": 315,
-      "inputToken": "operations",
-      "inputPos": "NNS"
+      "index": 315,
+      "token": "operations",
+      "pos": "NNS"
     },
     {
-      "input": 316,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 316,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 317,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 317,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 318,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 318,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 319,
-      "inputToken": "are",
-      "inputPos": "VBP"
+      "index": 319,
+      "token": "are",
+      "pos": "VBP"
     },
     {
-      "input": 320,
-      "inputToken": "being",
-      "inputPos": "VBG"
+      "index": 320,
+      "token": "being",
+      "pos": "VBG"
     },
     {
-      "input": 321,
-      "inputToken": "examined",
-      "inputPos": "VBN"
+      "index": 321,
+      "token": "examined",
+      "pos": "VBN"
     },
     {
-      "input": 322,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 322,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 323,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 323,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 324,
-      "inputToken": "authorities",
-      "inputPos": "NNS"
+      "index": 324,
+      "token": "authorities",
+      "pos": "NNS"
     },
     {
-      "input": 325,
-      "inputToken": "are",
-      "inputPos": "VBP"
+      "index": 325,
+      "token": "are",
+      "pos": "VBP"
     },
     {
-      "input": 326,
-      "inputToken": "separately",
-      "inputPos": "RB"
+      "index": 326,
+      "token": "separately",
+      "pos": "RB"
     },
     {
-      "input": 327,
-      "inputToken": "investigating",
-      "inputPos": "VBG"
+      "index": 327,
+      "token": "investigating",
+      "pos": "VBG"
     },
     {
-      "input": 328,
-      "inputToken": "substantial",
-      "inputPos": "JJ"
+      "index": 328,
+      "token": "substantial",
+      "pos": "JJ"
     },
     {
-      "input": 329,
-      "inputToken": "assets",
-      "inputPos": "NNS"
+      "index": 329,
+      "token": "assets",
+      "pos": "NNS"
     },
     {
-      "input": 330,
-      "inputToken": "held",
-      "inputPos": "VBD"
+      "index": 330,
+      "token": "held",
+      "pos": "VBD"
     },
     {
-      "input": 331,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 331,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 332,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 332,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 333,
-      "inputToken": "__banca__",
-      "inputPos": "NNP"
+      "index": 333,
+      "token": "__banca__",
+      "pos": "NNP"
     },
     {
-      "input": 334,
-      "inputToken": "__privada__",
-      "inputPos": "NNP"
+      "index": 334,
+      "token": "__privada__",
+      "pos": "NNP"
     },
     {
-      "input": 335,
-      "inputToken": "__d'andorra__",
-      "inputPos": "NNP"
+      "index": 335,
+      "token": "__d'andorra__",
+      "pos": "NNP"
     },
     {
-      "input": 336,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 336,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 337,
-      "inputToken": "members",
-      "inputPos": "NNS"
+      "index": 337,
+      "token": "members",
+      "pos": "NNS"
     },
     {
-      "input": 338,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 338,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 339,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 339,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 340,
-      "inputToken": "__pujol__",
-      "inputPos": "NNP"
+      "index": 340,
+      "token": "__pujol__",
+      "pos": "NNP"
     },
     {
-      "input": 341,
-      "inputToken": "family",
-      "inputPos": "NN"
+      "index": 341,
+      "token": "family",
+      "pos": "NN"
     },
     {
-      "input": 342,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 342,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 343,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 343,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 344,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 344,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 345,
-      "inputToken": "long",
-      "inputPos": "RB"
+      "index": 345,
+      "token": "long",
+      "pos": "RB"
     },
     {
-      "input": 346,
-      "inputToken": "been",
-      "inputPos": "VBN"
+      "index": 346,
+      "token": "been",
+      "pos": "VBN"
     },
     {
-      "input": 347,
-      "inputToken": "prominent",
-      "inputPos": "JJ"
+      "index": 347,
+      "token": "prominent",
+      "pos": "JJ"
     },
     {
-      "input": 348,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 348,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 349,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 349,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 350,
-      "inputToken": "politics",
-      "inputPos": "NNS"
+      "index": 350,
+      "token": "politics",
+      "pos": "NNS"
     },
     {
-      "input": 351,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 351,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 352,
-      "inputToken": "catalonia",
-      "inputPos": "NN"
+      "index": 352,
+      "token": "catalonia",
+      "pos": "NN"
     },
     {
-      "input": 353,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 353,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 354,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 354,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 355,
-      "inputToken": "region",
-      "inputPos": "NN"
+      "index": 355,
+      "token": "region",
+      "pos": "NN"
     },
     {
-      "input": 356,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 356,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 357,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 357,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 358,
-      "inputToken": "that",
-      "inputPos": "WDT"
+      "index": 358,
+      "token": "that",
+      "pos": "WDT"
     },
     {
-      "input": 359,
-      "inputToken": "includes",
-      "inputPos": "VBZ"
+      "index": 359,
+      "token": "includes",
+      "pos": "VBZ"
     },
     {
-      "input": 360,
-      "inputToken": "barcelona",
-      "inputPos": "NN"
+      "index": 360,
+      "token": "barcelona",
+      "pos": "NN"
     },
     {
-      "input": 361,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 361,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 362,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 362,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 363,
-      "inputToken": "director",
-      "inputPos": "NN"
+      "index": 363,
+      "token": "director",
+      "pos": "NN"
     },
     {
-      "input": 364,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 364,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 365,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 365,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 366,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 366,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 367,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 367,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 368,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 368,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 369,
-      "inputToken": "financial",
-      "inputPos": "JJ"
+      "index": 369,
+      "token": "financial",
+      "pos": "JJ"
     },
     {
-      "input": 370,
-      "inputToken": "crimes",
-      "inputPos": "NNS"
+      "index": 370,
+      "token": "crimes",
+      "pos": "NNS"
     },
     {
-      "input": 371,
-      "inputToken": "enforcement",
-      "inputPos": "NN"
+      "index": 371,
+      "token": "enforcement",
+      "pos": "NN"
     },
     {
-      "input": 372,
-      "inputToken": "network",
-      "inputPos": "NN"
+      "index": 372,
+      "token": "network",
+      "pos": "NN"
     },
     {
-      "input": 373,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 373,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 374,
-      "inputToken": "jennifer",
-      "inputPos": "NN"
+      "index": 374,
+      "token": "jennifer",
+      "pos": "NN"
     },
     {
-      "input": 375,
-      "inputToken": "__shasky__",
-      "inputPos": "NNP"
+      "index": 375,
+      "token": "__shasky__",
+      "pos": "NNP"
     },
     {
-      "input": 376,
-      "inputToken": "__calvery__",
-      "inputPos": "NNP"
+      "index": 376,
+      "token": "__calvery__",
+      "pos": "NNP"
     },
     {
-      "input": 377,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 377,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 378,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 378,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 379,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 379,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 380,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 380,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 381,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 381,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 382,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 382,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 383,
-      "inputToken": "corrupt",
-      "inputPos": "JJ"
+      "index": 383,
+      "token": "corrupt",
+      "pos": "JJ"
     },
     {
-      "input": 384,
-      "inputToken": "high-level",
-      "inputPos": "NN"
+      "index": 384,
+      "token": "high-level",
+      "pos": "NN"
     },
     {
-      "input": 385,
-      "inputToken": "managers",
-      "inputPos": "NNS"
+      "index": 385,
+      "token": "managers",
+      "pos": "NNS"
     },
     {
-      "input": 386,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 386,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 387,
-      "inputToken": "weak",
-      "inputPos": "JJ"
+      "index": 387,
+      "token": "weak",
+      "pos": "JJ"
     },
     {
-      "input": 388,
-      "inputToken": "__antimoney__",
-      "inputPos": "NN"
+      "index": 388,
+      "token": "__antimoney__",
+      "pos": "NN"
     },
     {
-      "input": 389,
-      "inputToken": "laundering",
-      "inputPos": "NN"
+      "index": 389,
+      "token": "laundering",
+      "pos": "NN"
     },
     {
-      "input": 390,
-      "inputToken": "controls",
-      "inputPos": "NNS"
+      "index": 390,
+      "token": "controls",
+      "pos": "NNS"
     },
     {
-      "input": 391,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 391,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 392,
-      "inputToken": "made",
-      "inputPos": "VBN"
+      "index": 392,
+      "token": "made",
+      "pos": "VBN"
     },
     {
-      "input": 393,
-      "inputToken": "bpa",
-      "inputPos": "RP"
+      "index": 393,
+      "token": "bpa",
+      "pos": "RP"
     },
     {
-      "input": 394,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 394,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 395,
-      "inputToken": "easy",
-      "inputPos": "JJ"
+      "index": 395,
+      "token": "easy",
+      "pos": "JJ"
     },
     {
-      "input": 396,
-      "inputToken": "vehicle",
-      "inputPos": "NN"
+      "index": 396,
+      "token": "vehicle",
+      "pos": "NN"
     },
     {
-      "input": 397,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 397,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 398,
-      "inputToken": "third-party",
-      "inputPos": "JJ"
+      "index": 398,
+      "token": "third-party",
+      "pos": "JJ"
     },
     {
-      "input": 399,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 399,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 400,
-      "inputToken": "__launderers__",
-      "inputPos": "NN"
+      "index": 400,
+      "token": "__launderers__",
+      "pos": "NN"
     },
     {
-      "input": 401,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 401,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 402,
-      "inputToken": "funnel",
-      "inputPos": "VB"
+      "index": 402,
+      "token": "funnel",
+      "pos": "VB"
     },
     {
-      "input": 403,
-      "inputToken": "proceeds",
-      "inputPos": "NNS"
+      "index": 403,
+      "token": "proceeds",
+      "pos": "NNS"
     },
     {
-      "input": 404,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 404,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 405,
-      "inputToken": "organized",
-      "inputPos": "VBN"
+      "index": 405,
+      "token": "organized",
+      "pos": "VBN"
     },
     {
-      "input": 406,
-      "inputToken": "crime",
-      "inputPos": "NN"
+      "index": 406,
+      "token": "crime",
+      "pos": "NN"
     },
     {
-      "input": 407,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 407,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 408,
-      "inputToken": "corruption",
-      "inputPos": "NN"
+      "index": 408,
+      "token": "corruption",
+      "pos": "NN"
     },
     {
-      "input": 409,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 409,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 410,
-      "inputToken": "human",
-      "inputPos": "JJ"
+      "index": 410,
+      "token": "human",
+      "pos": "JJ"
     },
     {
-      "input": 411,
-      "inputToken": "trafficking",
-      "inputPos": "NN"
+      "index": 411,
+      "token": "trafficking",
+      "pos": "NN"
     },
     {
-      "input": 412,
-      "inputToken": "through",
-      "inputPos": "IN"
+      "index": 412,
+      "token": "through",
+      "pos": "IN"
     },
     {
-      "input": 413,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 413,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 414,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 414,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 415,
-      "inputToken": "financial",
-      "inputPos": "JJ"
+      "index": 415,
+      "token": "financial",
+      "pos": "JJ"
     },
     {
-      "input": 416,
-      "inputToken": "system",
-      "inputPos": "NN"
+      "index": 416,
+      "token": "system",
+      "pos": "NN"
     },
     {
-      "input": 417,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 417,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 418,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 418,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 419,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 419,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 420,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 420,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 421,
-      "inputToken": "correspondent",
-      "inputPos": "JJ"
+      "index": 421,
+      "token": "correspondent",
+      "pos": "JJ"
     },
     {
-      "input": 422,
-      "inputToken": "accounts",
-      "inputPos": "NNS"
+      "index": 422,
+      "token": "accounts",
+      "pos": "NNS"
     },
     {
-      "input": 423,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 423,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 424,
-      "inputToken": "four",
-      "inputPos": "CD"
+      "index": 424,
+      "token": "four",
+      "pos": "CD"
     },
     {
-      "input": 425,
-      "inputToken": "banks",
-      "inputPos": "NNS"
+      "index": 425,
+      "token": "banks",
+      "pos": "NNS"
     },
     {
-      "input": 426,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 426,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 427,
-      "inputToken": "hsbc",
-      "inputPos": "NN"
+      "index": 427,
+      "token": "hsbc",
+      "pos": "NN"
     },
     {
-      "input": 428,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 428,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 429,
-      "inputToken": "citigroup",
-      "inputPos": "NN"
+      "index": 429,
+      "token": "citigroup",
+      "pos": "NN"
     },
     {
-      "input": 430,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 430,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 431,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 431,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 432,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 432,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 433,
-      "inputToken": "america",
-      "inputPos": "NN"
+      "index": 433,
+      "token": "america",
+      "pos": "NN"
     },
     {
-      "input": 434,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 434,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 435,
-      "inputToken": "deutsche",
-      "inputPos": "NN"
+      "index": 435,
+      "token": "deutsche",
+      "pos": "NN"
     },
     {
-      "input": 436,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 436,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 437,
-      "inputToken": "--",
-      "inputPos": ":"
+      "index": 437,
+      "token": "--",
+      "pos": ":"
     },
     {
-      "input": 438,
-      "inputToken": "through",
-      "inputPos": "IN"
+      "index": 438,
+      "token": "through",
+      "pos": "IN"
     },
     {
-      "input": 439,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 439,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 440,
-      "inputToken": "hundreds",
-      "inputPos": "NNS"
+      "index": 440,
+      "token": "hundreds",
+      "pos": "NNS"
     },
     {
-      "input": 441,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 441,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 442,
-      "inputToken": "millions",
-      "inputPos": "NNS"
+      "index": 442,
+      "token": "millions",
+      "pos": "NNS"
     },
     {
-      "input": 443,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 443,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 444,
-      "inputToken": "dollars",
-      "inputPos": "NNS"
+      "index": 444,
+      "token": "dollars",
+      "pos": "NNS"
     },
     {
-      "input": 445,
-      "inputToken": "passed",
-      "inputPos": "VBN"
+      "index": 445,
+      "token": "passed",
+      "pos": "VBN"
     },
     {
-      "input": 446,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 446,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 447,
-      "inputToken": "senior",
-      "inputPos": "JJ"
+      "index": 447,
+      "token": "senior",
+      "pos": "JJ"
     },
     {
-      "input": 448,
-      "inputToken": "managers",
-      "inputPos": "NNS"
+      "index": 448,
+      "token": "managers",
+      "pos": "NNS"
     },
     {
-      "input": 449,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 449,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 450,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 450,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 451,
-      "inputToken": "tailored",
-      "inputPos": "VBD"
+      "index": 451,
+      "token": "tailored",
+      "pos": "VBD"
     },
     {
-      "input": 452,
-      "inputToken": "services",
-      "inputPos": "NNS"
+      "index": 452,
+      "token": "services",
+      "pos": "NNS"
     },
     {
-      "input": 453,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 453,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 454,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 454,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 455,
-      "inputToken": "clients",
-      "inputPos": "NNS"
+      "index": 455,
+      "token": "clients",
+      "pos": "NNS"
     },
     {
-      "input": 456,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 456,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 457,
-      "inputToken": "disguise",
-      "inputPos": "VB"
+      "index": 457,
+      "token": "disguise",
+      "pos": "VB"
     },
     {
-      "input": 458,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 458,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 459,
-      "inputToken": "origin",
-      "inputPos": "NN"
+      "index": 459,
+      "token": "origin",
+      "pos": "NN"
     },
     {
-      "input": 460,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 460,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 461,
-      "inputToken": "funds",
-      "inputPos": "NNS"
+      "index": 461,
+      "token": "funds",
+      "pos": "NNS"
     },
     {
-      "input": 462,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 462,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 463,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 463,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 464,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 464,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 465,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 465,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 466,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 466,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 467,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 467,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 468,
-      "inputToken": "manager",
-      "inputPos": "NN"
+      "index": 468,
+      "token": "manager",
+      "pos": "NN"
     },
     {
-      "input": 469,
-      "inputToken": "provided",
-      "inputPos": "VBD"
+      "index": 469,
+      "token": "provided",
+      "pos": "VBD"
     },
     {
-      "input": 470,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 470,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 471,
-      "inputToken": "substantial",
-      "inputPos": "JJ"
+      "index": 471,
+      "token": "substantial",
+      "pos": "JJ"
     },
     {
-      "input": 472,
-      "inputToken": "assistance",
-      "inputPos": "NN"
+      "index": 472,
+      "token": "assistance",
+      "pos": "NN"
     },
     {
-      "input": 473,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 473,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 474,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 474,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 475,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 475,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 476,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 476,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 477,
-      "inputToken": "client",
-      "inputPos": "NN"
+      "index": 477,
+      "token": "client",
+      "pos": "NN"
     },
     {
-      "input": 478,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 478,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 479,
-      "inputToken": "andrei",
-      "inputPos": "JJ"
+      "index": 479,
+      "token": "andrei",
+      "pos": "JJ"
     },
     {
-      "input": 480,
-      "inputToken": "petrov",
-      "inputPos": "NN"
+      "index": 480,
+      "token": "petrov",
+      "pos": "NN"
     },
     {
-      "input": 481,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 481,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 482,
-      "inputToken": "described",
-      "inputPos": "VBN"
+      "index": 482,
+      "token": "described",
+      "pos": "VBN"
     },
     {
-      "input": 483,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 483,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 484,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 484,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 485,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 485,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 486,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 486,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 487,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 487,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 488,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 488,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 489,
-      "inputToken": "third-party",
-      "inputPos": "JJ"
+      "index": 489,
+      "token": "third-party",
+      "pos": "JJ"
     },
     {
-      "input": 490,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 490,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 491,
-      "inputToken": "__launderer__",
-      "inputPos": "NN"
+      "index": 491,
+      "token": "__launderer__",
+      "pos": "NN"
     },
     {
-      "input": 492,
-      "inputToken": "working",
-      "inputPos": "VBG"
+      "index": 492,
+      "token": "working",
+      "pos": "VBG"
     },
     {
-      "input": 493,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 493,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 494,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 494,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 495,
-      "inputToken": "criminal",
-      "inputPos": "JJ"
+      "index": 495,
+      "token": "criminal",
+      "pos": "JJ"
     },
     {
-      "input": 496,
-      "inputToken": "organizations",
-      "inputPos": "NNS"
+      "index": 496,
+      "token": "organizations",
+      "pos": "NNS"
     },
     {
-      "input": 497,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 497,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 498,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 498,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 499,
-      "inputToken": "petrov",
-      "inputPos": "NN"
+      "index": 499,
+      "token": "petrov",
+      "pos": "NN"
     },
     {
-      "input": 500,
-      "inputToken": "had",
-      "inputPos": "VBD"
+      "index": 500,
+      "token": "had",
+      "pos": "VBD"
     },
     {
-      "input": 501,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 501,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 502,
-      "inputToken": "received",
-      "inputPos": "VBN"
+      "index": 502,
+      "token": "received",
+      "pos": "VBN"
     },
     {
-      "input": 503,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 503,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 504,
-      "inputToken": "line",
-      "inputPos": "NN"
+      "index": 504,
+      "token": "line",
+      "pos": "NN"
     },
     {
-      "input": 505,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 505,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 506,
-      "inputToken": "credit",
-      "inputPos": "NN"
+      "index": 506,
+      "token": "credit",
+      "pos": "NN"
     },
     {
-      "input": 507,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 507,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 508,
-      "inputToken": "banco",
-      "inputPos": "JJ"
+      "index": 508,
+      "token": "banco",
+      "pos": "JJ"
     },
     {
-      "input": 509,
-      "inputToken": "madrid",
-      "inputPos": "NN"
+      "index": 509,
+      "token": "madrid",
+      "pos": "NN"
     },
     {
-      "input": 510,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 510,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 511,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 511,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 512,
-      "inputToken": "alleged",
-      "inputPos": "VBN"
+      "index": 512,
+      "token": "alleged",
+      "pos": "VBN"
     },
     {
-      "input": 513,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 513,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 514,
-      "inputToken": "have",
-      "inputPos": "VB"
+      "index": 514,
+      "token": "have",
+      "pos": "VB"
     },
     {
-      "input": 515,
-      "inputToken": "bribed",
-      "inputPos": "VBN"
+      "index": 515,
+      "token": "bribed",
+      "pos": "VBN"
     },
     {
-      "input": 516,
-      "inputToken": "local",
-      "inputPos": "JJ"
+      "index": 516,
+      "token": "local",
+      "pos": "JJ"
     },
     {
-      "input": 517,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 517,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 518,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 518,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 519,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 519,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 520,
-      "inputToken": "resort",
-      "inputPos": "NN"
+      "index": 520,
+      "token": "resort",
+      "pos": "NN"
     },
     {
-      "input": 521,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 521,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 522,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 522,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 523,
-      "inputToken": "set",
-      "inputPos": "VBD"
+      "index": 523,
+      "token": "set",
+      "pos": "VBD"
     },
     {
-      "input": 524,
-      "inputToken": "up",
-      "inputPos": "RP"
+      "index": 524,
+      "token": "up",
+      "pos": "RP"
     },
     {
-      "input": 525,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 525,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 526,
-      "inputToken": "property",
-      "inputPos": "NN"
+      "index": 526,
+      "token": "property",
+      "pos": "NN"
     },
     {
-      "input": 527,
-      "inputToken": "development",
-      "inputPos": "NN"
+      "index": 527,
+      "token": "development",
+      "pos": "NN"
     },
     {
-      "input": 528,
-      "inputToken": "company",
-      "inputPos": "NN"
+      "index": 528,
+      "token": "company",
+      "pos": "NN"
     },
     {
-      "input": 529,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 529,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 530,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 530,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 531,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 531,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 532,
-      "inputToken": "arrested",
-      "inputPos": "VBN"
+      "index": 532,
+      "token": "arrested",
+      "pos": "VBN"
     },
     {
-      "input": 533,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 533,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 534,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 534,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 535,
-      "inputToken": "two",
-      "inputPos": "CD"
+      "index": 535,
+      "token": "two",
+      "pos": "CD"
     },
     {
-      "input": 536,
-      "inputToken": "years",
-      "inputPos": "NNS"
+      "index": 536,
+      "token": "years",
+      "pos": "NNS"
     },
     {
-      "input": 537,
-      "inputToken": "ago",
-      "inputPos": "RB"
+      "index": 537,
+      "token": "ago",
+      "pos": "RB"
     },
     {
-      "input": 538,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 538,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 539,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 539,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 540,
-      "inputToken": "accused",
-      "inputPos": "VBN"
+      "index": 540,
+      "token": "accused",
+      "pos": "VBN"
     },
     {
-      "input": 541,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 541,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 542,
-      "inputToken": "helping",
-      "inputPos": "VBG"
+      "index": 542,
+      "token": "helping",
+      "pos": "VBG"
     },
     {
-      "input": 543,
-      "inputToken": "launder",
-      "inputPos": "VB"
+      "index": 543,
+      "token": "launder",
+      "pos": "VB"
     },
     {
-      "input": 544,
-      "inputToken": "some",
-      "inputPos": "DT"
+      "index": 544,
+      "token": "some",
+      "pos": "DT"
     },
     {
-      "input": 545,
-      "inputToken": "56",
-      "inputPos": "CD"
+      "index": 545,
+      "token": "56",
+      "pos": "CD"
     },
     {
-      "input": 546,
-      "inputToken": "million",
-      "inputPos": "CD"
+      "index": 546,
+      "token": "million",
+      "pos": "CD"
     },
     {
-      "input": 547,
-      "inputToken": "euros",
-      "inputPos": "FW"
+      "index": 547,
+      "token": "euros",
+      "pos": "FW"
     },
     {
-      "input": 548,
-      "inputToken": "-lrb-",
-      "inputPos": "NNP"
+      "index": 548,
+      "token": "-lrb-",
+      "pos": "NNP"
     },
     {
-      "input": 549,
-      "inputToken": "$",
-      "inputPos": "$"
+      "index": 549,
+      "token": "$",
+      "pos": "$"
     },
     {
-      "input": 550,
-      "inputToken": "59",
-      "inputPos": "CD"
+      "index": 550,
+      "token": "59",
+      "pos": "CD"
     },
     {
-      "input": 551,
-      "inputToken": "million",
-      "inputPos": "CD"
+      "index": 551,
+      "token": "million",
+      "pos": "CD"
     },
     {
-      "input": 552,
-      "inputToken": "-rrb-",
-      "inputPos": "NN"
+      "index": 552,
+      "token": "-rrb-",
+      "pos": "NN"
     },
     {
-      "input": 553,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 553,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 554,
-      "inputToken": "proceeds",
-      "inputPos": "NNS"
+      "index": 554,
+      "token": "proceeds",
+      "pos": "NNS"
     },
     {
-      "input": 555,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 555,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 556,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 556,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 557,
-      "inputToken": "criminal",
-      "inputPos": "JJ"
+      "index": 557,
+      "token": "criminal",
+      "pos": "JJ"
     },
     {
-      "input": 558,
-      "inputToken": "organizations",
-      "inputPos": "NNS"
+      "index": 558,
+      "token": "organizations",
+      "pos": "NNS"
     },
     {
-      "input": 559,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 559,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 560,
-      "inputToken": "petrov",
-      "inputPos": "NN"
+      "index": 560,
+      "token": "petrov",
+      "pos": "NN"
     },
     {
-      "input": 561,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 561,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 562,
-      "inputToken": "yet",
-      "inputPos": "RB"
+      "index": 562,
+      "token": "yet",
+      "pos": "RB"
     },
     {
-      "input": 563,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 563,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 564,
-      "inputToken": "go",
-      "inputPos": "VB"
+      "index": 564,
+      "token": "go",
+      "pos": "VB"
     },
     {
-      "input": 565,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 565,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 566,
-      "inputToken": "trial",
-      "inputPos": "NN"
+      "index": 566,
+      "token": "trial",
+      "pos": "NN"
     },
     {
-      "input": 567,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 567,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 568,
-      "inputToken": "according",
-      "inputPos": "VBG"
+      "index": 568,
+      "token": "according",
+      "pos": "VBG"
     },
     {
-      "input": 569,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 569,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 570,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 570,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 571,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 571,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 572,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 572,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 573,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 573,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 574,
-      "inputToken": "petrov",
-      "inputPos": "NN"
+      "index": 574,
+      "token": "petrov",
+      "pos": "NN"
     },
     {
-      "input": 575,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 575,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 576,
-      "inputToken": "links",
-      "inputPos": "VBN"
+      "index": 576,
+      "token": "links",
+      "pos": "VBN"
     },
     {
-      "input": 577,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 577,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 578,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 578,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 579,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 579,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 580,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 580,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 581,
-      "inputToken": "fbi",
-      "inputPos": "NN"
+      "index": 581,
+      "token": "fbi",
+      "pos": "NN"
     },
     {
-      "input": 582,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 582,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 583,
-      "inputToken": "most",
-      "inputPos": "RBS"
+      "index": 583,
+      "token": "most",
+      "pos": "RBS"
     },
     {
-      "input": 584,
-      "inputToken": "wanted",
-      "inputPos": "JJ"
+      "index": 584,
+      "token": "wanted",
+      "pos": "JJ"
     },
     {
-      "input": 585,
-      "inputToken": "fugitives",
-      "inputPos": "NNS"
+      "index": 585,
+      "token": "fugitives",
+      "pos": "NNS"
     },
     {
-      "input": 586,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 586,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 587,
-      "inputToken": "simeon",
-      "inputPos": "NN"
+      "index": 587,
+      "token": "simeon",
+      "pos": "NN"
     },
     {
-      "input": 588,
-      "inputToken": "__mogilevich__",
-      "inputPos": "NNP"
+      "index": 588,
+      "token": "__mogilevich__",
+      "pos": "NNP"
     },
     {
-      "input": 589,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 589,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 590,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 590,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 591,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 591,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 592,
-      "inputToken": "also",
-      "inputPos": "RB"
+      "index": 592,
+      "token": "also",
+      "pos": "RB"
     },
     {
-      "input": 593,
-      "inputToken": "alleged",
-      "inputPos": "VBN"
+      "index": 593,
+      "token": "alleged",
+      "pos": "VBN"
     },
     {
-      "input": 594,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 594,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 595,
-      "inputToken": "have",
-      "inputPos": "VB"
+      "index": 595,
+      "token": "have",
+      "pos": "VB"
     },
     {
-      "input": 596,
-      "inputToken": "helped",
-      "inputPos": "VBN"
+      "index": 596,
+      "token": "helped",
+      "pos": "VBN"
     },
     {
-      "input": 597,
-      "inputToken": "venezuelan",
-      "inputPos": "VB"
+      "index": 597,
+      "token": "venezuelan",
+      "pos": "VB"
     },
     {
-      "input": 598,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 598,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 599,
-      "inputToken": "__launderers__",
-      "inputPos": "NN"
+      "index": 599,
+      "token": "__launderers__",
+      "pos": "NN"
     },
     {
-      "input": 600,
-      "inputToken": "siphon",
-      "inputPos": "NN"
+      "index": 600,
+      "token": "siphon",
+      "pos": "NN"
     },
     {
-      "input": 601,
-      "inputToken": "funds",
-      "inputPos": "NNS"
+      "index": 601,
+      "token": "funds",
+      "pos": "NNS"
     },
     {
-      "input": 602,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 602,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 603,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 603,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 604,
-      "inputToken": "state-owned",
-      "inputPos": "JJ"
+      "index": 604,
+      "token": "state-owned",
+      "pos": "JJ"
     },
     {
-      "input": 605,
-      "inputToken": "oil",
-      "inputPos": "NN"
+      "index": 605,
+      "token": "oil",
+      "pos": "NN"
     },
     {
-      "input": 606,
-      "inputToken": "company",
-      "inputPos": "NN"
+      "index": 606,
+      "token": "company",
+      "pos": "NN"
     },
     {
-      "input": 607,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 607,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 608,
-      "inputToken": "__petroleos__",
-      "inputPos": "NNP"
+      "index": 608,
+      "token": "__petroleos__",
+      "pos": "NNP"
     },
     {
-      "input": 609,
-      "inputToken": "de",
-      "inputPos": "FW"
+      "index": 609,
+      "token": "de",
+      "pos": "FW"
     },
     {
-      "input": 610,
-      "inputToken": "venezuela",
-      "inputPos": "FW"
+      "index": 610,
+      "token": "venezuela",
+      "pos": "FW"
     },
     {
-      "input": 611,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 611,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 612,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 612,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 613,
-      "inputToken": "this",
-      "inputPos": "DT"
+      "index": 613,
+      "token": "this",
+      "pos": "DT"
     },
     {
-      "input": 614,
-      "inputToken": "money-laundering",
-      "inputPos": "JJ"
+      "index": 614,
+      "token": "money-laundering",
+      "pos": "JJ"
     },
     {
-      "input": 615,
-      "inputToken": "network",
-      "inputPos": "NN"
+      "index": 615,
+      "token": "network",
+      "pos": "NN"
     },
     {
-      "input": 616,
-      "inputToken": "worked",
-      "inputPos": "VBD"
+      "index": 616,
+      "token": "worked",
+      "pos": "VBD"
     },
     {
-      "input": 617,
-      "inputToken": "closely",
-      "inputPos": "RB"
+      "index": 617,
+      "token": "closely",
+      "pos": "RB"
     },
     {
-      "input": 618,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 618,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 619,
-      "inputToken": "high-ranking",
-      "inputPos": "JJ"
+      "index": 619,
+      "token": "high-ranking",
+      "pos": "JJ"
     },
     {
-      "input": 620,
-      "inputToken": "government",
-      "inputPos": "NN"
+      "index": 620,
+      "token": "government",
+      "pos": "NN"
     },
     {
-      "input": 621,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 621,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 622,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 622,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 623,
-      "inputToken": "venezuela",
-      "inputPos": "NN"
+      "index": 623,
+      "token": "venezuela",
+      "pos": "NN"
     },
     {
-      "input": 624,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 624,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 625,
-      "inputToken": "resident",
-      "inputPos": "JJ"
+      "index": 625,
+      "token": "resident",
+      "pos": "JJ"
     },
     {
-      "input": 626,
-      "inputToken": "agents",
-      "inputPos": "NNS"
+      "index": 626,
+      "token": "agents",
+      "pos": "NNS"
     },
     {
-      "input": 627,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 627,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 628,
-      "inputToken": "panama",
-      "inputPos": "NN"
+      "index": 628,
+      "token": "panama",
+      "pos": "NN"
     },
     {
-      "input": 629,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 629,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 630,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 630,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 631,
-      "inputToken": "an",
-      "inputPos": "DT"
+      "index": 631,
+      "token": "an",
+      "pos": "DT"
     },
     {
-      "input": 632,
-      "inputToken": "__andorran__",
-      "inputPos": "JJ"
+      "index": 632,
+      "token": "__andorran__",
+      "pos": "JJ"
     },
     {
-      "input": 633,
-      "inputToken": "lawyer",
-      "inputPos": "NN"
+      "index": 633,
+      "token": "lawyer",
+      "pos": "NN"
     },
     {
-      "input": 634,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 634,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 635,
-      "inputToken": "establish",
-      "inputPos": "VB"
+      "index": 635,
+      "token": "establish",
+      "pos": "VB"
     },
     {
-      "input": 636,
-      "inputToken": "panamanian",
-      "inputPos": "JJ"
+      "index": 636,
+      "token": "panamanian",
+      "pos": "JJ"
     },
     {
-      "input": 637,
-      "inputToken": "shell",
-      "inputPos": "NN"
+      "index": 637,
+      "token": "shell",
+      "pos": "NN"
     },
     {
-      "input": 638,
-      "inputToken": "companies",
-      "inputPos": "NNS"
+      "index": 638,
+      "token": "companies",
+      "pos": "NNS"
     },
     {
-      "input": 639,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 639,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 640,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 640,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 641,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 641,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 642,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 642,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 643,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 643,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 644,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 644,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 645,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 645,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 646,
-      "inputToken": "processed",
-      "inputPos": "VBD"
+      "index": 646,
+      "token": "processed",
+      "pos": "VBD"
     },
     {
-      "input": 647,
-      "inputToken": "about",
-      "inputPos": "IN"
+      "index": 647,
+      "token": "about",
+      "pos": "IN"
     },
     {
-      "input": 648,
-      "inputToken": "$",
-      "inputPos": "$"
+      "index": 648,
+      "token": "$",
+      "pos": "$"
     },
     {
-      "input": 649,
-      "inputToken": "2",
-      "inputPos": "CD"
+      "index": 649,
+      "token": "2",
+      "pos": "CD"
     },
     {
-      "input": 650,
-      "inputToken": "billion",
-      "inputPos": "CD"
+      "index": 650,
+      "token": "billion",
+      "pos": "CD"
     },
     {
-      "input": 651,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 651,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 652,
-      "inputToken": "transactions",
-      "inputPos": "NNS"
+      "index": 652,
+      "token": "transactions",
+      "pos": "NNS"
     },
     {
-      "input": 653,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 653,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 654,
-      "inputToken": "shell",
-      "inputPos": "NN"
+      "index": 654,
+      "token": "shell",
+      "pos": "NN"
     },
     {
-      "input": 655,
-      "inputToken": "companies",
-      "inputPos": "NNS"
+      "index": 655,
+      "token": "companies",
+      "pos": "NNS"
     },
     {
-      "input": 656,
-      "inputToken": "related",
-      "inputPos": "VBN"
+      "index": 656,
+      "token": "related",
+      "pos": "VBN"
     },
     {
-      "input": 657,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 657,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 658,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 658,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 659,
-      "inputToken": "scheme",
-      "inputPos": "NN"
+      "index": 659,
+      "token": "scheme",
+      "pos": "NN"
     },
     {
-      "input": 660,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 660,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 661,
-      "inputToken": "treasury",
-      "inputPos": "NN"
+      "index": 661,
+      "token": "treasury",
+      "pos": "NN"
     },
     {
-      "input": 662,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 662,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 663,
-      "inputToken": "another",
-      "inputPos": "DT"
+      "index": 663,
+      "token": "another",
+      "pos": "DT"
     },
     {
-      "input": 664,
-      "inputToken": "senior",
-      "inputPos": "JJ"
+      "index": 664,
+      "token": "senior",
+      "pos": "JJ"
     },
     {
-      "input": 665,
-      "inputToken": "official",
-      "inputPos": "NN"
+      "index": 665,
+      "token": "official",
+      "pos": "NN"
     },
     {
-      "input": 666,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 666,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 667,
-      "inputToken": "bpa",
-      "inputPos": "NN"
+      "index": 667,
+      "token": "bpa",
+      "pos": "NN"
     },
     {
-      "input": 668,
-      "inputToken": "accepted",
-      "inputPos": "VBD"
+      "index": 668,
+      "token": "accepted",
+      "pos": "VBD"
     },
     {
-      "input": 669,
-      "inputToken": "bribes",
-      "inputPos": "NNS"
+      "index": 669,
+      "token": "bribes",
+      "pos": "NNS"
     },
     {
-      "input": 670,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 670,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 671,
-      "inputToken": "return",
-      "inputPos": "NN"
+      "index": 671,
+      "token": "return",
+      "pos": "NN"
     },
     {
-      "input": 672,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 672,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 673,
-      "inputToken": "processing",
-      "inputPos": "VBG"
+      "index": 673,
+      "token": "processing",
+      "pos": "VBG"
     },
     {
-      "input": 674,
-      "inputToken": "bulk",
-      "inputPos": "JJ"
+      "index": 674,
+      "token": "bulk",
+      "pos": "JJ"
     },
     {
-      "input": 675,
-      "inputToken": "cash",
-      "inputPos": "NN"
+      "index": 675,
+      "token": "cash",
+      "pos": "NN"
     },
     {
-      "input": 676,
-      "inputToken": "transfers",
-      "inputPos": "NNS"
+      "index": 676,
+      "token": "transfers",
+      "pos": "NNS"
     },
     {
-      "input": 677,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 677,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 678,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 678,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 679,
-      "inputToken": "chinese",
-      "inputPos": "JJ"
+      "index": 679,
+      "token": "chinese",
+      "pos": "JJ"
     },
     {
-      "input": 680,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 680,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 681,
-      "inputToken": "__launderer__",
-      "inputPos": "NN"
+      "index": 681,
+      "token": "__launderer__",
+      "pos": "NN"
     },
     {
-      "input": 682,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 682,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 683,
-      "inputToken": "gao",
-      "inputPos": "NN"
+      "index": 683,
+      "token": "gao",
+      "pos": "NN"
     },
     {
-      "input": 684,
-      "inputToken": "ping",
-      "inputPos": "NN"
+      "index": 684,
+      "token": "ping",
+      "pos": "NN"
     },
     {
-      "input": 685,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 685,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 686,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 686,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 687,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 687,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 688,
-      "inputToken": "arrested",
-      "inputPos": "VBN"
+      "index": 688,
+      "token": "arrested",
+      "pos": "VBN"
     },
     {
-      "input": 689,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 689,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 690,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 690,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 691,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 691,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 692,
-      "inputToken": "september",
-      "inputPos": "JJ"
+      "index": 692,
+      "token": "september",
+      "pos": "JJ"
     },
     {
-      "input": 693,
-      "inputToken": "2012",
-      "inputPos": "CD"
+      "index": 693,
+      "token": "2012",
+      "pos": "CD"
     },
     {
-      "input": 694,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 694,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 695,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 695,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 696,
-      "inputToken": "through",
-      "inputPos": "IN"
+      "index": 696,
+      "token": "through",
+      "pos": "IN"
     },
     {
-      "input": 697,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 697,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 698,
-      "inputToken": "associate",
-      "inputPos": "NN"
+      "index": 698,
+      "token": "associate",
+      "pos": "NN"
     },
     {
-      "input": 699,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 699,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 700,
-      "inputToken": "ping",
-      "inputPos": "VBG"
+      "index": 700,
+      "token": "ping",
+      "pos": "VBG"
     },
     {
-      "input": 701,
-      "inputToken": "bribed",
-      "inputPos": "NNS"
+      "index": 701,
+      "token": "bribed",
+      "pos": "NNS"
     },
     {
-      "input": 702,
-      "inputToken": "__andorran__",
-      "inputPos": "JJ"
+      "index": 702,
+      "token": "__andorran__",
+      "pos": "JJ"
     },
     {
-      "input": 703,
-      "inputToken": "bank",
-      "inputPos": "NN"
+      "index": 703,
+      "token": "bank",
+      "pos": "NN"
     },
     {
-      "input": 704,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 704,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 705,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 705,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 706,
-      "inputToken": "accept",
-      "inputPos": "VB"
+      "index": 706,
+      "token": "accept",
+      "pos": "VB"
     },
     {
-      "input": 707,
-      "inputToken": "cash",
-      "inputPos": "NN"
+      "index": 707,
+      "token": "cash",
+      "pos": "NN"
     },
     {
-      "input": 708,
-      "inputToken": "deposits",
-      "inputPos": "NNS"
+      "index": 708,
+      "token": "deposits",
+      "pos": "NNS"
     },
     {
-      "input": 709,
-      "inputToken": "into",
-      "inputPos": "IN"
+      "index": 709,
+      "token": "into",
+      "pos": "IN"
     },
     {
-      "input": 710,
-      "inputToken": "less",
-      "inputPos": "JJR"
+      "index": 710,
+      "token": "less",
+      "pos": "JJR"
     },
     {
-      "input": 711,
-      "inputToken": "scrutinized",
-      "inputPos": "JJ"
+      "index": 711,
+      "token": "scrutinized",
+      "pos": "JJ"
     },
     {
-      "input": 712,
-      "inputToken": "accounts",
-      "inputPos": "NNS"
+      "index": 712,
+      "token": "accounts",
+      "pos": "NNS"
     },
     {
-      "input": 713,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 713,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 714,
-      "inputToken": "transfer",
-      "inputPos": "VB"
+      "index": 714,
+      "token": "transfer",
+      "pos": "VB"
     },
     {
-      "input": 715,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 715,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 716,
-      "inputToken": "funds",
-      "inputPos": "NNS"
+      "index": 716,
+      "token": "funds",
+      "pos": "NNS"
     },
     {
-      "input": 717,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 717,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 718,
-      "inputToken": "suspected",
-      "inputPos": "VBN"
+      "index": 718,
+      "token": "suspected",
+      "pos": "VBN"
     },
     {
-      "input": 719,
-      "inputToken": "shell",
-      "inputPos": "NN"
+      "index": 719,
+      "token": "shell",
+      "pos": "NN"
     },
     {
-      "input": 720,
-      "inputToken": "companies",
-      "inputPos": "NNS"
+      "index": 720,
+      "token": "companies",
+      "pos": "NNS"
     },
     {
-      "input": 721,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 721,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 722,
-      "inputToken": "china",
-      "inputPos": "NN"
+      "index": 722,
+      "token": "china",
+      "pos": "NN"
     },
     {
-      "input": 723,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 723,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 724,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 724,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 725,
-      "inputToken": "it",
-      "inputPos": "PRP"
+      "index": 725,
+      "token": "it",
+      "pos": "PRP"
     },
     {
-      "input": 726,
-      "inputToken": "said",
-      "inputPos": "VBD"
+      "index": 726,
+      "token": "said",
+      "pos": "VBD"
     },
     {
-      "input": 727,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 727,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 728,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 728,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 729,
-      "inputToken": "statement",
-      "inputPos": "NN"
+      "index": 729,
+      "token": "statement",
+      "pos": "NN"
     },
     {
-      "input": 730,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 730,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 731,
-      "inputToken": "credit",
-      "inputPos": "NN"
+      "index": 731,
+      "token": "credit",
+      "pos": "NN"
     },
     {
-      "input": 732,
-      "inputToken": "rating",
-      "inputPos": "NN"
+      "index": 732,
+      "token": "rating",
+      "pos": "NN"
     },
     {
-      "input": 733,
-      "inputToken": "agency",
-      "inputPos": "NN"
+      "index": 733,
+      "token": "agency",
+      "pos": "NN"
     },
     {
-      "input": 734,
-      "inputToken": "standard",
-      "inputPos": "NNP"
+      "index": 734,
+      "token": "standard",
+      "pos": "NNP"
     },
     {
-      "input": 735,
-      "inputToken": "&",
-      "inputPos": "CC"
+      "index": 735,
+      "token": "&",
+      "pos": "CC"
     },
     {
-      "input": 736,
-      "inputToken": "poor",
-      "inputPos": "JJ"
+      "index": 736,
+      "token": "poor",
+      "pos": "JJ"
     },
     {
-      "input": 737,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 737,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 738,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 738,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 739,
-      "inputToken": "reacted",
-      "inputPos": "VBN"
+      "index": 739,
+      "token": "reacted",
+      "pos": "VBN"
     },
     {
-      "input": 740,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 740,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 741,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 741,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 742,
-      "inputToken": "growing",
-      "inputPos": "VBG"
+      "index": 742,
+      "token": "growing",
+      "pos": "VBG"
     },
     {
-      "input": 743,
-      "inputToken": "scandal",
-      "inputPos": "NN"
+      "index": 743,
+      "token": "scandal",
+      "pos": "NN"
     },
     {
-      "input": 744,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 744,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 745,
-      "inputToken": "downgrading",
-      "inputPos": "VBG"
+      "index": 745,
+      "token": "downgrading",
+      "pos": "VBG"
     },
     {
-      "input": 746,
-      "inputToken": "andorra",
-      "inputPos": "NN"
+      "index": 746,
+      "token": "andorra",
+      "pos": "NN"
     },
     {
-      "input": 747,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 747,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 748,
-      "inputToken": "rating",
-      "inputPos": "NN"
+      "index": 748,
+      "token": "rating",
+      "pos": "NN"
     },
     {
-      "input": 749,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 749,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 750,
-      "inputToken": "andorra",
-      "inputPos": "NN"
+      "index": 750,
+      "token": "andorra",
+      "pos": "NN"
     },
     {
-      "input": 751,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 751,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 752,
-      "inputToken": "highly",
-      "inputPos": "RB"
+      "index": 752,
+      "token": "highly",
+      "pos": "RB"
     },
     {
-      "input": 753,
-      "inputToken": "dependent",
-      "inputPos": "JJ"
+      "index": 753,
+      "token": "dependent",
+      "pos": "JJ"
     },
     {
-      "input": 754,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 754,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 755,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 755,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 756,
-      "inputToken": "banking",
-      "inputPos": "NN"
+      "index": 756,
+      "token": "banking",
+      "pos": "NN"
     },
     {
-      "input": 757,
-      "inputToken": "sector",
-      "inputPos": "NN"
+      "index": 757,
+      "token": "sector",
+      "pos": "NN"
     },
     {
-      "input": 758,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 758,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 759,
-      "inputToken": "which",
-      "inputPos": "WDT"
+      "index": 759,
+      "token": "which",
+      "pos": "WDT"
     },
     {
-      "input": 760,
-      "inputToken": "makes",
-      "inputPos": "VBZ"
+      "index": 760,
+      "token": "makes",
+      "pos": "VBZ"
     },
     {
-      "input": 761,
-      "inputToken": "up",
-      "inputPos": "RP"
+      "index": 761,
+      "token": "up",
+      "pos": "RP"
     },
     {
-      "input": 762,
-      "inputToken": "some",
-      "inputPos": "DT"
+      "index": 762,
+      "token": "some",
+      "pos": "DT"
     },
     {
-      "input": 763,
-      "inputToken": "20",
-      "inputPos": "CD"
+      "index": 763,
+      "token": "20",
+      "pos": "CD"
     },
     {
-      "input": 764,
-      "inputToken": "%",
-      "inputPos": "NN"
+      "index": 764,
+      "token": "%",
+      "pos": "NN"
     },
     {
-      "input": 765,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 765,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 766,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 766,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 767,
-      "inputToken": "gdp",
-      "inputPos": "NN"
+      "index": 767,
+      "token": "gdp",
+      "pos": "NN"
     },
     {
-      "input": 768,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 768,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 769,
-      "inputToken": "spain",
-      "inputPos": "NN"
+      "index": 769,
+      "token": "spain",
+      "pos": "NN"
     },
     {
-      "input": 770,
-      "inputToken": "has",
-      "inputPos": "VBZ"
+      "index": 770,
+      "token": "has",
+      "pos": "VBZ"
     },
     {
-      "input": 771,
-      "inputToken": "long",
-      "inputPos": "RB"
+      "index": 771,
+      "token": "long",
+      "pos": "RB"
     },
     {
-      "input": 772,
-      "inputToken": "battled",
-      "inputPos": "VBN"
+      "index": 772,
+      "token": "battled",
+      "pos": "VBN"
     },
     {
-      "input": 773,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 773,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 774,
-      "inputToken": "presence",
-      "inputPos": "NN"
+      "index": 774,
+      "token": "presence",
+      "pos": "NN"
     },
     {
-      "input": 775,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 775,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 776,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 776,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 777,
-      "inputToken": "organized",
-      "inputPos": "VBN"
+      "index": 777,
+      "token": "organized",
+      "pos": "VBN"
     },
     {
-      "input": 778,
-      "inputToken": "crime",
-      "inputPos": "NN"
+      "index": 778,
+      "token": "crime",
+      "pos": "NN"
     },
     {
-      "input": 779,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 779,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 780,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 780,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 781,
-      "inputToken": "soil",
-      "inputPos": "NN"
+      "index": 781,
+      "token": "soil",
+      "pos": "NN"
     },
     {
-      "input": 782,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 782,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 783,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 783,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 784,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 784,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 785,
-      "inputToken": "collapse",
-      "inputPos": "NN"
+      "index": 785,
+      "token": "collapse",
+      "pos": "NN"
     },
     {
-      "input": 786,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 786,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 787,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 787,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 788,
-      "inputToken": "soviet",
-      "inputPos": "JJ"
+      "index": 788,
+      "token": "soviet",
+      "pos": "JJ"
     },
     {
-      "input": 789,
-      "inputToken": "union",
-      "inputPos": "NN"
+      "index": 789,
+      "token": "union",
+      "pos": "NN"
     },
     {
-      "input": 790,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 790,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 791,
-      "inputToken": "wealthy",
-      "inputPos": "JJ"
+      "index": 791,
+      "token": "wealthy",
+      "pos": "JJ"
     },
     {
-      "input": 792,
-      "inputToken": "russians",
-      "inputPos": "NNS"
+      "index": 792,
+      "token": "russians",
+      "pos": "NNS"
     },
     {
-      "input": 793,
-      "inputToken": "came",
-      "inputPos": "VBD"
+      "index": 793,
+      "token": "came",
+      "pos": "VBD"
     },
     {
-      "input": 794,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 794,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 795,
-      "inputToken": "spain",
-      "inputPos": "VB"
+      "index": 795,
+      "token": "spain",
+      "pos": "VB"
     },
     {
-      "input": 796,
-      "inputToken": "for",
-      "inputPos": "IN"
+      "index": 796,
+      "token": "for",
+      "pos": "IN"
     },
     {
-      "input": 797,
-      "inputToken": "its",
-      "inputPos": "PRP$"
+      "index": 797,
+      "token": "its",
+      "pos": "PRP$"
     },
     {
-      "input": 798,
-      "inputToken": "climate",
-      "inputPos": "NN"
+      "index": 798,
+      "token": "climate",
+      "pos": "NN"
     },
     {
-      "input": 799,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 799,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 800,
-      "inputToken": "what",
-      "inputPos": "WDT"
+      "index": 800,
+      "token": "what",
+      "pos": "WDT"
     },
     {
-      "input": 801,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 801,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 802,
-      "inputToken": "then",
-      "inputPos": "RB"
+      "index": 802,
+      "token": "then",
+      "pos": "RB"
     },
     {
-      "input": 803,
-      "inputToken": "lax",
-      "inputPos": "JJ"
+      "index": 803,
+      "token": "lax",
+      "pos": "JJ"
     },
     {
-      "input": 804,
-      "inputToken": "financial",
-      "inputPos": "JJ"
+      "index": 804,
+      "token": "financial",
+      "pos": "JJ"
     },
     {
-      "input": 805,
-      "inputToken": "controls",
-      "inputPos": "NNS"
+      "index": 805,
+      "token": "controls",
+      "pos": "NNS"
     },
     {
-      "input": 806,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 806,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 807,
-      "inputToken": "among",
-      "inputPos": "IN"
+      "index": 807,
+      "token": "among",
+      "pos": "IN"
     },
     {
-      "input": 808,
-      "inputToken": "them",
-      "inputPos": "PRP"
+      "index": 808,
+      "token": "them",
+      "pos": "PRP"
     },
     {
-      "input": 809,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 809,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 810,
-      "inputToken": "more",
-      "inputPos": "JJR"
+      "index": 810,
+      "token": "more",
+      "pos": "JJR"
     },
     {
-      "input": 811,
-      "inputToken": "than",
-      "inputPos": "IN"
+      "index": 811,
+      "token": "than",
+      "pos": "IN"
     },
     {
-      "input": 812,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 812,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 813,
-      "inputToken": "few",
-      "inputPos": "JJ"
+      "index": 813,
+      "token": "few",
+      "pos": "JJ"
     },
     {
-      "input": 814,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 814,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 815,
-      "inputToken": "__vory__",
-      "inputPos": "FW"
+      "index": 815,
+      "token": "__vory__",
+      "pos": "FW"
     },
     {
-      "input": 816,
-      "inputToken": "v",
-      "inputPos": "FW"
+      "index": 816,
+      "token": "v",
+      "pos": "FW"
     },
     {
-      "input": 817,
-      "inputToken": "__zakone__",
-      "inputPos": "FW"
+      "index": 817,
+      "token": "__zakone__",
+      "pos": "FW"
     },
     {
-      "input": 818,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 818,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 819,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 819,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 820,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 820,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 821,
-      "inputToken": "top",
-      "inputPos": "JJ"
+      "index": 821,
+      "token": "top",
+      "pos": "JJ"
     },
     {
-      "input": 822,
-      "inputToken": "__echelon__",
-      "inputPos": "NN"
+      "index": 822,
+      "token": "__echelon__",
+      "pos": "NN"
     },
     {
-      "input": 823,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 823,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 824,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 824,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 825,
-      "inputToken": "organized",
-      "inputPos": "VBN"
+      "index": 825,
+      "token": "organized",
+      "pos": "VBN"
     },
     {
-      "input": 826,
-      "inputToken": "crime",
-      "inputPos": "NN"
+      "index": 826,
+      "token": "crime",
+      "pos": "NN"
     },
     {
-      "input": 827,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 827,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 828,
-      "inputToken": "according",
-      "inputPos": "VBG"
+      "index": 828,
+      "token": "according",
+      "pos": "VBG"
     },
     {
-      "input": 829,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 829,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 830,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 830,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 831,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 831,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 832,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 832,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 833,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 833,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 834,
-      "inputToken": "prosecutor",
-      "inputPos": "NN"
+      "index": 834,
+      "token": "prosecutor",
+      "pos": "NN"
     },
     {
-      "input": 835,
-      "inputToken": "jose",
-      "inputPos": "NN"
+      "index": 835,
+      "token": "jose",
+      "pos": "NN"
     },
     {
-      "input": 836,
-      "inputToken": "__grinda__",
-      "inputPos": "NNP"
+      "index": 836,
+      "token": "__grinda__",
+      "pos": "NNP"
     },
     {
-      "input": 837,
-      "inputToken": "gonzalez",
-      "inputPos": "NN"
+      "index": 837,
+      "token": "gonzalez",
+      "pos": "NN"
     },
     {
-      "input": 838,
-      "inputToken": "told",
-      "inputPos": "VBD"
+      "index": 838,
+      "token": "told",
+      "pos": "VBD"
     },
     {
-      "input": 839,
-      "inputToken": "u.s.",
-      "inputPos": "JJ"
+      "index": 839,
+      "token": "u.s.",
+      "pos": "JJ"
     },
     {
-      "input": 840,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 840,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 841,
-      "inputToken": "five",
-      "inputPos": "CD"
+      "index": 841,
+      "token": "five",
+      "pos": "CD"
     },
     {
-      "input": 842,
-      "inputToken": "years",
-      "inputPos": "NNS"
+      "index": 842,
+      "token": "years",
+      "pos": "NNS"
     },
     {
-      "input": 843,
-      "inputToken": "ago",
-      "inputPos": "RB"
+      "index": 843,
+      "token": "ago",
+      "pos": "RB"
     },
     {
-      "input": 844,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 844,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 845,
-      "inputToken": "these",
-      "inputPos": "DT"
+      "index": 845,
+      "token": "these",
+      "pos": "DT"
     },
     {
-      "input": 846,
-      "inputToken": "individuals",
-      "inputPos": "NNS"
+      "index": 846,
+      "token": "individuals",
+      "pos": "NNS"
     },
     {
-      "input": 847,
-      "inputToken": "had",
-      "inputPos": "VBD"
+      "index": 847,
+      "token": "had",
+      "pos": "VBD"
     },
     {
-      "input": 848,
-      "inputToken": "no",
-      "inputPos": "DT"
+      "index": 848,
+      "token": "no",
+      "pos": "DT"
     },
     {
-      "input": 849,
-      "inputToken": "known",
-      "inputPos": "VBN"
+      "index": 849,
+      "token": "known",
+      "pos": "VBN"
     },
     {
-      "input": 850,
-      "inputToken": "jobs",
-      "inputPos": "NNS"
+      "index": 850,
+      "token": "jobs",
+      "pos": "NNS"
     },
     {
-      "input": 851,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 851,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 852,
-      "inputToken": "unknown",
-      "inputPos": "JJ"
+      "index": 852,
+      "token": "unknown",
+      "pos": "JJ"
     },
     {
-      "input": 853,
-      "inputToken": "sources",
-      "inputPos": "NNS"
+      "index": 853,
+      "token": "sources",
+      "pos": "NNS"
     },
     {
-      "input": 854,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 854,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 855,
-      "inputToken": "income",
-      "inputPos": "NN"
+      "index": 855,
+      "token": "income",
+      "pos": "NN"
     },
     {
-      "input": 856,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 856,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 857,
-      "inputToken": "yet",
-      "inputPos": "RB"
+      "index": 857,
+      "token": "yet",
+      "pos": "RB"
     },
     {
-      "input": 858,
-      "inputToken": "they",
-      "inputPos": "PRP"
+      "index": 858,
+      "token": "they",
+      "pos": "PRP"
     },
     {
-      "input": 859,
-      "inputToken": "lived",
-      "inputPos": "VBD"
+      "index": 859,
+      "token": "lived",
+      "pos": "VBD"
     },
     {
-      "input": 860,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 860,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 861,
-      "inputToken": "large",
-      "inputPos": "JJ"
+      "index": 861,
+      "token": "large",
+      "pos": "JJ"
     },
     {
-      "input": 862,
-      "inputToken": "mansions",
-      "inputPos": "NNS"
+      "index": 862,
+      "token": "mansions",
+      "pos": "NNS"
     },
     {
-      "input": 863,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 863,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 864,
-      "inputToken": "__grinda__",
-      "inputPos": "NN"
+      "index": 864,
+      "token": "__grinda__",
+      "pos": "NN"
     },
     {
-      "input": 865,
-      "inputToken": "'s",
-      "inputPos": "POS"
+      "index": 865,
+      "token": "'s",
+      "pos": "POS"
     },
     {
-      "input": 866,
-      "inputToken": "remarks",
-      "inputPos": "NNS"
+      "index": 866,
+      "token": "remarks",
+      "pos": "NNS"
     },
     {
-      "input": 867,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 867,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 868,
-      "inputToken": "reported",
-      "inputPos": "VBN"
+      "index": 868,
+      "token": "reported",
+      "pos": "VBN"
     },
     {
-      "input": 869,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 869,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 870,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 870,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 871,
-      "inputToken": "diplomatic",
-      "inputPos": "JJ"
+      "index": 871,
+      "token": "diplomatic",
+      "pos": "JJ"
     },
     {
-      "input": 872,
-      "inputToken": "cable",
-      "inputPos": "NN"
+      "index": 872,
+      "token": "cable",
+      "pos": "NN"
     },
     {
-      "input": 873,
-      "inputToken": "later",
-      "inputPos": "RB"
+      "index": 873,
+      "token": "later",
+      "pos": "RB"
     },
     {
-      "input": 874,
-      "inputToken": "published",
-      "inputPos": "VBN"
+      "index": 874,
+      "token": "published",
+      "pos": "VBN"
     },
     {
-      "input": 875,
-      "inputToken": "by",
-      "inputPos": "IN"
+      "index": 875,
+      "token": "by",
+      "pos": "IN"
     },
     {
-      "input": 876,
-      "inputToken": "wikileaks",
-      "inputPos": "NNS"
+      "index": 876,
+      "token": "wikileaks",
+      "pos": "NNS"
     },
     {
-      "input": 877,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 877,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 878,
-      "inputToken": "__grinda__",
-      "inputPos": "NN"
+      "index": 878,
+      "token": "__grinda__",
+      "pos": "NN"
     },
     {
-      "input": 879,
-      "inputToken": "had",
-      "inputPos": "VBD"
+      "index": 879,
+      "token": "had",
+      "pos": "VBD"
     },
     {
-      "input": 880,
-      "inputToken": "prosecuted",
-      "inputPos": "VBN"
+      "index": 880,
+      "token": "prosecuted",
+      "pos": "VBN"
     },
     {
-      "input": 881,
-      "inputToken": "__zakhar__",
-      "inputPos": "NNP"
+      "index": 881,
+      "token": "__zakhar__",
+      "pos": "NNP"
     },
     {
-      "input": 882,
-      "inputToken": "__kalashov__",
-      "inputPos": "NNP"
+      "index": 882,
+      "token": "__kalashov__",
+      "pos": "NNP"
     },
     {
-      "input": 883,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 883,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 884,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 884,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 885,
-      "inputToken": "__georgian-born__",
-      "inputPos": "JJ"
+      "index": 885,
+      "token": "__georgian-born__",
+      "pos": "JJ"
     },
     {
-      "input": 886,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 886,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 887,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 887,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 888,
-      "inputToken": "citizen",
-      "inputPos": "NN"
+      "index": 888,
+      "token": "citizen",
+      "pos": "NN"
     },
     {
-      "input": 889,
-      "inputToken": "widely",
-      "inputPos": "RB"
+      "index": 889,
+      "token": "widely",
+      "pos": "RB"
     },
     {
-      "input": 890,
-      "inputToken": "regarded",
-      "inputPos": "VBD"
+      "index": 890,
+      "token": "regarded",
+      "pos": "VBD"
     },
     {
-      "input": 891,
-      "inputToken": "as",
-      "inputPos": "IN"
+      "index": 891,
+      "token": "as",
+      "pos": "IN"
     },
     {
-      "input": 892,
-      "inputToken": "one",
-      "inputPos": "CD"
+      "index": 892,
+      "token": "one",
+      "pos": "CD"
     },
     {
-      "input": 893,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 893,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 894,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 894,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 895,
-      "inputToken": "most",
-      "inputPos": "RBS"
+      "index": 895,
+      "token": "most",
+      "pos": "RBS"
     },
     {
-      "input": 896,
-      "inputToken": "powerful",
-      "inputPos": "JJ"
+      "index": 896,
+      "token": "powerful",
+      "pos": "JJ"
     },
     {
-      "input": 897,
-      "inputToken": "figures",
-      "inputPos": "NNS"
+      "index": 897,
+      "token": "figures",
+      "pos": "NNS"
     },
     {
-      "input": 898,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 898,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 899,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 899,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 900,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 900,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 901,
-      "inputToken": "mafia",
-      "inputPos": "NN"
+      "index": 901,
+      "token": "mafia",
+      "pos": "NN"
     },
     {
-      "input": 902,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 902,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 903,
-      "inputToken": "last",
-      "inputPos": "JJ"
+      "index": 903,
+      "token": "last",
+      "pos": "JJ"
     },
     {
-      "input": 904,
-      "inputToken": "year",
-      "inputPos": "NN"
+      "index": 904,
+      "token": "year",
+      "pos": "NN"
     },
     {
-      "input": 905,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 905,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 906,
-      "inputToken": "before",
-      "inputPos": "IN"
+      "index": 906,
+      "token": "before",
+      "pos": "IN"
     },
     {
-      "input": 907,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 907,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 908,
-      "inputToken": "completed",
-      "inputPos": "VBD"
+      "index": 908,
+      "token": "completed",
+      "pos": "VBD"
     },
     {
-      "input": 909,
-      "inputToken": "his",
-      "inputPos": "PRP$"
+      "index": 909,
+      "token": "his",
+      "pos": "PRP$"
     },
     {
-      "input": 910,
-      "inputToken": "nine-year",
-      "inputPos": "JJ"
+      "index": 910,
+      "token": "nine-year",
+      "pos": "JJ"
     },
     {
-      "input": 911,
-      "inputToken": "sentence",
-      "inputPos": "NN"
+      "index": 911,
+      "token": "sentence",
+      "pos": "NN"
     },
     {
-      "input": 912,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 912,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 913,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 913,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 914,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 914,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 915,
-      "inputToken": "appeals",
-      "inputPos": "NNS"
+      "index": 915,
+      "token": "appeals",
+      "pos": "NNS"
     },
     {
-      "input": 916,
-      "inputToken": "court",
-      "inputPos": "NN"
+      "index": 916,
+      "token": "court",
+      "pos": "NN"
     },
     {
-      "input": 917,
-      "inputToken": "deported",
-      "inputPos": "VBD"
+      "index": 917,
+      "token": "deported",
+      "pos": "VBD"
     },
     {
-      "input": 918,
-      "inputToken": "__kalashov__",
-      "inputPos": "CD"
+      "index": 918,
+      "token": "__kalashov__",
+      "pos": "CD"
     },
     {
-      "input": 919,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 919,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 920,
-      "inputToken": "russia",
-      "inputPos": "VB"
+      "index": 920,
+      "token": "russia",
+      "pos": "VB"
     },
     {
-      "input": 921,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 921,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 922,
-      "inputToken": "where",
-      "inputPos": "WRB"
+      "index": 922,
+      "token": "where",
+      "pos": "WRB"
     },
     {
-      "input": 923,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 923,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 924,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 924,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 925,
-      "inputToken": "now",
-      "inputPos": "RB"
+      "index": 925,
+      "token": "now",
+      "pos": "RB"
     },
     {
-      "input": 926,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 926,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 927,
-      "inputToken": "free",
-      "inputPos": "JJ"
+      "index": 927,
+      "token": "free",
+      "pos": "JJ"
     },
     {
-      "input": 928,
-      "inputToken": "man",
-      "inputPos": "NN"
+      "index": 928,
+      "token": "man",
+      "pos": "NN"
     },
     {
-      "input": 929,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 929,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 930,
-      "inputToken": "another",
-      "inputPos": "DT"
+      "index": 930,
+      "token": "another",
+      "pos": "DT"
     },
     {
-      "input": 931,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 931,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 932,
-      "inputToken": "prosecutor",
-      "inputPos": "NN"
+      "index": 932,
+      "token": "prosecutor",
+      "pos": "NN"
     },
     {
-      "input": 933,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 933,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 934,
-      "inputToken": "fernando",
-      "inputPos": "JJ"
+      "index": 934,
+      "token": "fernando",
+      "pos": "JJ"
     },
     {
-      "input": 935,
-      "inputToken": "__bermejo__",
-      "inputPos": "NN"
+      "index": 935,
+      "token": "__bermejo__",
+      "pos": "NN"
     },
     {
-      "input": 936,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 936,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 937,
-      "inputToken": "told",
-      "inputPos": "VBD"
+      "index": 937,
+      "token": "told",
+      "pos": "VBD"
     },
     {
-      "input": 938,
-      "inputToken": "us",
-      "inputPos": "PRP"
+      "index": 938,
+      "token": "us",
+      "pos": "PRP"
     },
     {
-      "input": 939,
-      "inputToken": "officials",
-      "inputPos": "NNS"
+      "index": 939,
+      "token": "officials",
+      "pos": "NNS"
     },
     {
-      "input": 940,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 940,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 941,
-      "inputToken": "2009",
-      "inputPos": "CD"
+      "index": 941,
+      "token": "2009",
+      "pos": "CD"
     },
     {
-      "input": 942,
-      "inputToken": "that",
-      "inputPos": "IN"
+      "index": 942,
+      "token": "that",
+      "pos": "IN"
     },
     {
-      "input": 943,
-      "inputToken": "there",
-      "inputPos": "EX"
+      "index": 943,
+      "token": "there",
+      "pos": "EX"
     },
     {
-      "input": 944,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 944,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 945,
-      "inputToken": "large",
-      "inputPos": "JJ"
+      "index": 945,
+      "token": "large",
+      "pos": "JJ"
     },
     {
-      "input": 946,
-      "inputToken": "scale",
-      "inputPos": "JJ"
+      "index": 946,
+      "token": "scale",
+      "pos": "JJ"
     },
     {
-      "input": 947,
-      "inputToken": "money-laundering",
-      "inputPos": "NN"
+      "index": 947,
+      "token": "money-laundering",
+      "pos": "NN"
     },
     {
-      "input": 948,
-      "inputToken": "going",
-      "inputPos": "VBG"
+      "index": 948,
+      "token": "going",
+      "pos": "VBG"
     },
     {
-      "input": 949,
-      "inputToken": "on",
-      "inputPos": "IN"
+      "index": 949,
+      "token": "on",
+      "pos": "IN"
     },
     {
-      "input": 950,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 950,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 951,
-      "inputToken": "catalonia",
-      "inputPos": "NN"
+      "index": 951,
+      "token": "catalonia",
+      "pos": "NN"
     },
     {
-      "input": 952,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 952,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 953,
-      "inputToken": "``",
-      "inputPos": "``"
+      "index": 953,
+      "token": "``",
+      "pos": "``"
     },
     {
-      "input": 954,
-      "inputToken": "many",
-      "inputPos": "JJ"
+      "index": 954,
+      "token": "many",
+      "pos": "JJ"
     },
     {
-      "input": 955,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 955,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 956,
-      "inputToken": "many",
-      "inputPos": "JJ"
+      "index": 956,
+      "token": "many",
+      "pos": "JJ"
     },
     {
-      "input": 957,
-      "inputToken": "''",
-      "inputPos": "''"
+      "index": 957,
+      "token": "''",
+      "pos": "''"
     },
     {
-      "input": 958,
-      "inputToken": "members",
-      "inputPos": "NNS"
+      "index": 958,
+      "token": "members",
+      "pos": "NNS"
     },
     {
-      "input": 959,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 959,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 960,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 960,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 961,
-      "inputToken": "russian",
-      "inputPos": "JJ"
+      "index": 961,
+      "token": "russian",
+      "pos": "JJ"
     },
     {
-      "input": 962,
-      "inputToken": "mafia",
-      "inputPos": "NN"
+      "index": 962,
+      "token": "mafia",
+      "pos": "NN"
     },
     {
-      "input": 963,
-      "inputToken": "were",
-      "inputPos": "VBD"
+      "index": 963,
+      "token": "were",
+      "pos": "VBD"
     },
     {
-      "input": 964,
-      "inputToken": "active",
-      "inputPos": "JJ"
+      "index": 964,
+      "token": "active",
+      "pos": "JJ"
     },
     {
-      "input": 965,
-      "inputToken": "there",
-      "inputPos": "RB"
+      "index": 965,
+      "token": "there",
+      "pos": "RB"
     },
     {
-      "input": 966,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 966,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 967,
-      "inputToken": "because",
-      "inputPos": "IN"
+      "index": 967,
+      "token": "because",
+      "pos": "IN"
     },
     {
-      "input": 968,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 968,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 969,
-      "inputToken": "growing",
-      "inputPos": "VBG"
+      "index": 969,
+      "token": "growing",
+      "pos": "VBG"
     },
     {
-      "input": 970,
-      "inputToken": "international",
-      "inputPos": "JJ"
+      "index": 970,
+      "token": "international",
+      "pos": "JJ"
     },
     {
-      "input": 971,
-      "inputToken": "cooperation",
-      "inputPos": "NN"
+      "index": 971,
+      "token": "cooperation",
+      "pos": "NN"
     },
     {
-      "input": 972,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 972,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 973,
-      "inputToken": "spanish",
-      "inputPos": "JJ"
+      "index": 973,
+      "token": "spanish",
+      "pos": "JJ"
     },
     {
-      "input": 974,
-      "inputToken": "prosecutors",
-      "inputPos": "NNS"
+      "index": 974,
+      "token": "prosecutors",
+      "pos": "NNS"
     },
     {
-      "input": 975,
-      "inputToken": "have",
-      "inputPos": "VBP"
+      "index": 975,
+      "token": "have",
+      "pos": "VBP"
     },
     {
-      "input": 976,
-      "inputToken": "stepped",
-      "inputPos": "VBN"
+      "index": 976,
+      "token": "stepped",
+      "pos": "VBN"
     },
     {
-      "input": 977,
-      "inputToken": "up",
-      "inputPos": "RP"
+      "index": 977,
+      "token": "up",
+      "pos": "RP"
     },
     {
-      "input": 978,
-      "inputToken": "their",
-      "inputPos": "PRP$"
+      "index": 978,
+      "token": "their",
+      "pos": "PRP$"
     },
     {
-      "input": 979,
-      "inputToken": "pursuit",
-      "inputPos": "NN"
+      "index": 979,
+      "token": "pursuit",
+      "pos": "NN"
     },
     {
-      "input": 980,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 980,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 981,
-      "inputToken": "alleged",
-      "inputPos": "JJ"
+      "index": 981,
+      "token": "alleged",
+      "pos": "JJ"
     },
     {
-      "input": 982,
-      "inputToken": "gang",
-      "inputPos": "NN"
+      "index": 982,
+      "token": "gang",
+      "pos": "NN"
     },
     {
-      "input": 983,
-      "inputToken": "leaders",
-      "inputPos": "NNS"
+      "index": 983,
+      "token": "leaders",
+      "pos": "NNS"
     },
     {
-      "input": 984,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 984,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 985,
-      "inputToken": "money",
-      "inputPos": "NN"
+      "index": 985,
+      "token": "money",
+      "pos": "NN"
     },
     {
-      "input": 986,
-      "inputToken": "__launderers__",
-      "inputPos": "NN"
+      "index": 986,
+      "token": "__launderers__",
+      "pos": "NN"
     },
     {
-      "input": 987,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 987,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 988,
-      "inputToken": "__embezzlers__",
-      "inputPos": "NN"
+      "index": 988,
+      "token": "__embezzlers__",
+      "pos": "NN"
     },
     {
-      "input": 989,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 989,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 990,
-      "inputToken": "eastern",
-      "inputPos": "JJ"
+      "index": 990,
+      "token": "eastern",
+      "pos": "JJ"
     },
     {
-      "input": 991,
-      "inputToken": "europe",
-      "inputPos": "NN"
+      "index": 991,
+      "token": "europe",
+      "pos": "NN"
     },
     {
-      "input": 992,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 992,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 993,
-      "inputToken": "among",
-      "inputPos": "IN"
+      "index": 993,
+      "token": "among",
+      "pos": "IN"
     },
     {
-      "input": 994,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 994,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 995,
-      "inputToken": "latest",
-      "inputPos": "JJS"
+      "index": 995,
+      "token": "latest",
+      "pos": "JJS"
     },
     {
-      "input": 996,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 996,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 997,
-      "inputToken": "be",
-      "inputPos": "VB"
+      "index": 997,
+      "token": "be",
+      "pos": "VB"
     },
     {
-      "input": 998,
-      "inputToken": "detained",
-      "inputPos": "VBN"
+      "index": 998,
+      "token": "detained",
+      "pos": "VBN"
     },
     {
-      "input": 999,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 999,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 1000,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1000,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1001,
-      "inputToken": "former",
-      "inputPos": "JJ"
+      "index": 1001,
+      "token": "former",
+      "pos": "JJ"
     },
     {
-      "input": 1002,
-      "inputToken": "finance",
-      "inputPos": "NN"
+      "index": 1002,
+      "token": "finance",
+      "pos": "NN"
     },
     {
-      "input": 1003,
-      "inputToken": "minister",
-      "inputPos": "NN"
+      "index": 1003,
+      "token": "minister",
+      "pos": "NN"
     },
     {
-      "input": 1004,
-      "inputToken": "from",
-      "inputPos": "IN"
+      "index": 1004,
+      "token": "from",
+      "pos": "IN"
     },
     {
-      "input": 1005,
-      "inputToken": "ukraine",
-      "inputPos": "JJ"
+      "index": 1005,
+      "token": "ukraine",
+      "pos": "JJ"
     },
     {
-      "input": 1006,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1006,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1007,
-      "inputToken": "__yuriy__",
-      "inputPos": "JJ"
+      "index": 1007,
+      "token": "__yuriy__",
+      "pos": "JJ"
     },
     {
-      "input": 1008,
-      "inputToken": "__kolobov__",
-      "inputPos": "NN"
+      "index": 1008,
+      "token": "__kolobov__",
+      "pos": "NN"
     },
     {
-      "input": 1009,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1009,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1010,
-      "inputToken": "he",
-      "inputPos": "PRP"
+      "index": 1010,
+      "token": "he",
+      "pos": "PRP"
     },
     {
-      "input": 1011,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 1011,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 1012,
-      "inputToken": "detained",
-      "inputPos": "VBN"
+      "index": 1012,
+      "token": "detained",
+      "pos": "VBN"
     },
     {
-      "input": 1013,
-      "inputToken": "at",
-      "inputPos": "IN"
+      "index": 1013,
+      "token": "at",
+      "pos": "IN"
     },
     {
-      "input": 1014,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1014,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1015,
-      "inputToken": "luxury",
-      "inputPos": "NN"
+      "index": 1015,
+      "token": "luxury",
+      "pos": "NN"
     },
     {
-      "input": 1016,
-      "inputToken": "development",
-      "inputPos": "NN"
+      "index": 1016,
+      "token": "development",
+      "pos": "NN"
     },
     {
-      "input": 1017,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1017,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1018,
-      "inputToken": "alicante",
-      "inputPos": "NN"
+      "index": 1018,
+      "token": "alicante",
+      "pos": "NN"
     },
     {
-      "input": 1019,
-      "inputToken": "earlier",
-      "inputPos": "RBR"
+      "index": 1019,
+      "token": "earlier",
+      "pos": "RBR"
     },
     {
-      "input": 1020,
-      "inputToken": "this",
-      "inputPos": "DT"
+      "index": 1020,
+      "token": "this",
+      "pos": "DT"
     },
     {
-      "input": 1021,
-      "inputToken": "month",
-      "inputPos": "NN"
+      "index": 1021,
+      "token": "month",
+      "pos": "NN"
     },
     {
-      "input": 1022,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1022,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1023,
-      "inputToken": "after",
-      "inputPos": "IN"
+      "index": 1023,
+      "token": "after",
+      "pos": "IN"
     },
     {
-      "input": 1024,
-      "inputToken": "prosecutors",
-      "inputPos": "NNS"
+      "index": 1024,
+      "token": "prosecutors",
+      "pos": "NNS"
     },
     {
-      "input": 1025,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1025,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1026,
-      "inputToken": "kiev",
-      "inputPos": "NN"
+      "index": 1026,
+      "token": "kiev",
+      "pos": "NN"
     },
     {
-      "input": 1027,
-      "inputToken": "charged",
-      "inputPos": "VBD"
+      "index": 1027,
+      "token": "charged",
+      "pos": "VBD"
     },
     {
-      "input": 1028,
-      "inputToken": "him",
-      "inputPos": "PRP"
+      "index": 1028,
+      "token": "him",
+      "pos": "PRP"
     },
     {
-      "input": 1029,
-      "inputToken": "with",
-      "inputPos": "IN"
+      "index": 1029,
+      "token": "with",
+      "pos": "IN"
     },
     {
-      "input": 1030,
-      "inputToken": "embezzlement",
-      "inputPos": "NN"
+      "index": 1030,
+      "token": "embezzlement",
+      "pos": "NN"
     },
     {
-      "input": 1031,
-      "inputToken": "and",
-      "inputPos": "CC"
+      "index": 1031,
+      "token": "and",
+      "pos": "CC"
     },
     {
-      "input": 1032,
-      "inputToken": "is",
-      "inputPos": "VBZ"
+      "index": 1032,
+      "token": "is",
+      "pos": "VBZ"
     },
     {
-      "input": 1033,
-      "inputToken": "awaiting",
-      "inputPos": "VBG"
+      "index": 1033,
+      "token": "awaiting",
+      "pos": "VBG"
     },
     {
-      "input": 1034,
-      "inputToken": "extradition",
-      "inputPos": "NN"
+      "index": 1034,
+      "token": "extradition",
+      "pos": "NN"
     },
     {
-      "input": 1035,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1035,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1036,
-      "inputToken": "__kolobov__",
-      "inputPos": "NN"
+      "index": 1036,
+      "token": "__kolobov__",
+      "pos": "NN"
     },
     {
-      "input": 1037,
-      "inputToken": "was",
-      "inputPos": "VBD"
+      "index": 1037,
+      "token": "was",
+      "pos": "VBD"
     },
     {
-      "input": 1038,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1038,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1039,
-      "inputToken": "minister",
-      "inputPos": "NN"
+      "index": 1039,
+      "token": "minister",
+      "pos": "NN"
     },
     {
-      "input": 1040,
-      "inputToken": "in",
-      "inputPos": "IN"
+      "index": 1040,
+      "token": "in",
+      "pos": "IN"
     },
     {
-      "input": 1041,
-      "inputToken": "the",
-      "inputPos": "DT"
+      "index": 1041,
+      "token": "the",
+      "pos": "DT"
     },
     {
-      "input": 1042,
-      "inputToken": "government",
-      "inputPos": "NN"
+      "index": 1042,
+      "token": "government",
+      "pos": "NN"
     },
     {
-      "input": 1043,
-      "inputToken": "of",
-      "inputPos": "IN"
+      "index": 1043,
+      "token": "of",
+      "pos": "IN"
     },
     {
-      "input": 1044,
-      "inputToken": "president",
-      "inputPos": "NN"
+      "index": 1044,
+      "token": "president",
+      "pos": "NN"
     },
     {
-      "input": 1045,
-      "inputToken": "viktor",
-      "inputPos": "NN"
+      "index": 1045,
+      "token": "viktor",
+      "pos": "NN"
     },
     {
-      "input": 1046,
-      "inputToken": "yanukovych",
-      "inputPos": "NN"
+      "index": 1046,
+      "token": "yanukovych",
+      "pos": "NN"
     },
     {
-      "input": 1047,
-      "inputToken": ",",
-      "inputPos": ","
+      "index": 1047,
+      "token": ",",
+      "pos": ","
     },
     {
-      "input": 1048,
-      "inputToken": "who",
-      "inputPos": "WP"
+      "index": 1048,
+      "token": "who",
+      "pos": "WP"
     },
     {
-      "input": 1049,
-      "inputToken": "fled",
-      "inputPos": "VBD"
+      "index": 1049,
+      "token": "fled",
+      "pos": "VBD"
     },
     {
-      "input": 1050,
-      "inputToken": "ukraine",
-      "inputPos": "NN"
+      "index": 1050,
+      "token": "ukraine",
+      "pos": "NN"
     },
     {
-      "input": 1051,
-      "inputToken": "during",
-      "inputPos": "IN"
+      "index": 1051,
+      "token": "during",
+      "pos": "IN"
     },
     {
-      "input": 1052,
-      "inputToken": "street",
-      "inputPos": "NN"
+      "index": 1052,
+      "token": "street",
+      "pos": "NN"
     },
     {
-      "input": 1053,
-      "inputToken": "protests",
-      "inputPos": "NNS"
+      "index": 1053,
+      "token": "protests",
+      "pos": "NNS"
     },
     {
-      "input": 1054,
-      "inputToken": "a",
-      "inputPos": "DT"
+      "index": 1054,
+      "token": "a",
+      "pos": "DT"
     },
     {
-      "input": 1055,
-      "inputToken": "year",
-      "inputPos": "NN"
+      "index": 1055,
+      "token": "year",
+      "pos": "NN"
     },
     {
-      "input": 1056,
-      "inputToken": "ago",
-      "inputPos": "RB"
+      "index": 1056,
+      "token": "ago",
+      "pos": "RB"
     },
     {
-      "input": 1057,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1057,
+      "token": ".",
+      "pos": "."
     },
     {
-      "input": 1058,
-      "inputToken": "helena",
-      "inputPos": "JJ"
+      "index": 1058,
+      "token": "helena",
+      "pos": "JJ"
     },
     {
-      "input": 1059,
-      "inputToken": "cavendish",
-      "inputPos": "NN"
+      "index": 1059,
+      "token": "cavendish",
+      "pos": "NN"
     },
     {
-      "input": 1060,
-      "inputToken": "de",
-      "inputPos": "IN"
+      "index": 1060,
+      "token": "de",
+      "pos": "IN"
     },
     {
-      "input": 1061,
-      "inputToken": "moura",
-      "inputPos": "NN"
+      "index": 1061,
+      "token": "moura",
+      "pos": "NN"
     },
     {
-      "input": 1062,
-      "inputToken": "contributed",
-      "inputPos": "VBD"
+      "index": 1062,
+      "token": "contributed",
+      "pos": "VBD"
     },
     {
-      "input": 1063,
-      "inputToken": "to",
-      "inputPos": "TO"
+      "index": 1063,
+      "token": "to",
+      "pos": "TO"
     },
     {
-      "input": 1064,
-      "inputToken": "this",
-      "inputPos": "DT"
+      "index": 1064,
+      "token": "this",
+      "pos": "DT"
     },
     {
-      "input": 1065,
-      "inputToken": "report",
-      "inputPos": "NN"
+      "index": 1065,
+      "token": "report",
+      "pos": "NN"
     },
     {
-      "input": 1066,
-      "inputToken": ".",
-      "inputPos": "."
+      "index": 1066,
+      "token": ".",
+      "pos": "."
     }
   ],
   "outputTokens": [
